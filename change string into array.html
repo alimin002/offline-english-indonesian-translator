@@ -40,35 +40,30 @@
  
 	e.preventDefault();
 	//if(text==''){
-	
-		//text=$('#paragraph').val()+' ';
+	$('#terjemahan').text('');
+		my_paragh=$('#paragraph').val()+' ';
 	//}
-	
-	fill_array_word();
-	
+	//fill_array_word();
+	pecah_paragraph(my_paragh);
   });
  
  
- function fill_array_word(){
-	for (i=0; i< text.length; i++){
-	if (text.substr(i,1)!=' '){
-		array_graf[i]=text.substr(i,1);
-		//alert(text.substr(i,1));
-		}else{
-		tmp_text=text;
-		text=text.substring(i+1, text.length); 
-		//alert('test');
-		var str_first=0;
-		var str_last=i;
-		var my_word=tmp_text.substring(str_first, str_last); 
-		//alert(my_word);
-		array_word[i]=my_word;
-		translate(my_word);
-		fill_array_word();
-		}
-	}
- }
  
+ 
+ function pecah_paragraph(paragraph){
+ //alert(paragraph);
+ var string =paragraph;
+    string = string.split(" ");
+	var stringArray = new Array();
+	for(var i =0; i < string.length +1; i++){
+    stringArray.push(string[i]);
+    if(i != string.length-1){
+        stringArray.push(" ");
+    }
+	//alert(stringArray[i]);
+	translate(stringArray[i]);
+}
+
  var terjemahan='';
  function translate(word){
  var existsword=0;
