@@ -1,958 +1,958 @@
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+"e, e",kb. 1 huruf kelima abjad Inggris.  2 Mus.: nada  E.
+e.g.,"[exempli gratia] misalnya, umpamanya."
+each,"ks. (tiap-) tiap, setiap. -kg. masing-masing.  e. one tiap orang, masing-masing.  e. and everyone  tiap orang.  e. other 1 saling. 2 satu sama lain."
+eager,"ks. ingin sekali, hasrat. to be e. to go ingin sekali pergi. Inf.: e beaver orang yang rajin sekali.  -eagerly kk. dengan tak sabar, dengan keinginan yang amat besar."
+eagerness,"kb. hasrat, keinginan. e. to learn hasrat belajar."
+eagle,"kb. 1 burung rajawali/elang, garuda. 2 Golf : jumlah pukulan kurang dua dari par. -eagles j. tanda pangkat kolonel tentara AS. eagle-eyed ks. bermata/berpenglihatan tajam."
+ear,"kb. 1 telinga, kuping. Inf.: to be all ears mendengarkan dengan penuh perhatian, diam menelinga. 2 menyelenggarakan sesuatu tanpa persiapan atau petunjuk yang cukup.  e. specialist ahli penyakit telinga."
+earache,kb. sakit telinga. I have on e. Saya sakit telinga
+eardrum,kb. gendang pendengar.
+earful,"kb. lebih dari cukup. 2 teguran, celaan. He got an e. Ia mendapat celaan."
+earl,"kb. gelar kebangsawanan yang tinggi, pangeran."
+early,"ks. (earlier, earliest) 1 lekas. 2 muda. 3 pagi-pagi. -kk. pagi-pagi. e. on dari/sejak  permulaan. early-warning radar radar pemberi peringatan pertama."
+earmark,kb. ciri-ciri. the e. of a politician ciri-ciri seorang ahli polotik. -kkt. memperuntukkan. to e. funds for books memperuntukkan dana untuk buku-buku.
+earmuff,kb. alat penutup telinga.
+earn,"kkt. 1 mendapat bayaran/gaji. to e. a living mendapat penghasilan. 2 memperoleh.  -earnings kb., j. pendapatan, upah, penghasilan.  earning power daya pendapatan."
+earnest,"kb. in e. bersungguh-sungguh.  -ks. sungguh-sungguh, tekun. e. money uang panjar/muka. -kk. dengan sungguh-sungguh, dengan betul-betul."
+earphone,kb. alat pendengar.
+earplug,kb. penyumbat telinga.
+earring,"kb. anting-anting, subang."
+earshot,kb. jarak pendengaran.  out of e. diluar pendengaran. within e. dalam jarak pendengaran.
+earsplitting,ks. yang memekakkan telinga.
+earth,"kb. 1 tanah. 2 dunia, bumi. 3 bumi. earth-circling ks. yang mengitari bumi. e. mover buldozer. earth-shaking ks. yang menggemparkan/menggegerkan."
+earthbound,ks. terikat/terbatas pada bumi. Man is no longer e. Manusia tak lagi terikat pada bumi.
+earthen,ks. terbuat dari tanah. e. bowl mangkuk dari tanah.
+earthenware,"kb. barang tembikar, barang (dari) tanah."
+earthly,ks. keduniawian. e. goods benda keduniawian. That's of no e. use Itu tak ada gunanya samasekali.
+earthquake,"kb. gempa bumi, lindu."
+earthward(s),kk. menuju kebumi.
+earthworm,kb. cacing tanah.
+earthy,"ks. 1 yang berbau tanah. an e. odor bau tanah. 2 biasa, sederhana, bersahaja. an e. person seorang yang biasa/sederhana."
+earwax,kb. tahi telinga/kuping.
+ease,"kb. kesenangan, ketentraman. -kkt. 1 mengurangi. 2 meredakan (the situation). 3 menurunkan/mendorong/mengerakkan pelan-pelan. 4 meringankan. -kki. 1 berkurang. 2 menyelinap. -easing kb. peringanan."
+easel,kb. kuda-kuda.
+easily,lih  EASY.
+east,kb. timur. -ks. timur. e. wind angin timur. E. Coast Negara-negara bagian AS di pantai timur. E. Indian yang berhubungan dengan Hindia Timur.
+easter,kb. paskah. E. Sunday hari minggu. Paskah. E. Island  Pulau Paskah.
+easterly,ks. dari timur. e. wind angin dari timur.
+eastern,ks. timur.  e. section of the state bagian timur dari negara bagian.
+easterner,"kb. orang/bangsa timur, pribumi bagian timur. we easterners kita orang timur."
+eastward,"kk. ke timur, ke arah timur."
+easy,"ks. (easier, easiest)  1 mudah, gampang. 2 empuk. 3 (pe)murah. 4 enteng. -kk. 1 dengan gampang, dengan mudah. 2 Inf.: pelan-pelan. -easily kk. dengan mudah."
+easygoing,"ks. gampang-gampangan, yang bersikap tenang, lembut hati. an e. person seorang yang tidak suka repot-repot."
+eat,"kb. eats j. Sl.: makanan. -kkt. (ate, eaten) 1 makan. 2 merusak. -kki. 1 makan. 2 menggangu.  -eating kb. Fried rice is good e. Nasi goreng makanan  yang enak."
+eatable,kb. eatables j. makanan. -ks. dapat dimakan. That cheese isn't e. Keju itu tak dapat dimakan.
+eaten,lih  EAT.
+eater,"kb. pemakan. light e. pemakan yang enteng, orang yang tidak banyak makan. good e. tukang makan."
+eatery,"kb. (j. -ries)  Inf.: kedai makan, restoran."
+eau de cologne,kb. minyak kelonyo.
+eaves,"kb., j. lis/bagian atap."
+eavesdrop,kki. (eavesdropped) mendengarkan sesuatu yang tak boleh didengarkan mendengarkan secara diam-diam.
+eavesdropper,kb. seorang yang ikut mendengarkan rahasia-rahasia orang.
+ebb,"kb. air surut.  -kki. 1 surut. The water ebbs at night Air surut di malam hari. 2 berkurang, mundur. His courage ebbed Keberaniannya berkurang."
+ebony,kb. (j. -nies) kayu hitam.
+ebullience,kb. semangat yang meluap-luap. He has youth's e. Dia bersemangat pemuda yang meluap-luap.
+ebullient,ks. bersemangat meluap-luap.
+eccentric,"kb. orang sinting. He's an eccentric Tingkah-lakunya aneh.  -ks. 1 aneh, sinting, sedeng. e. old lady wanita tua yang sinting. 2 gendeng."
+eccentricity,"kb. (j. -ties) keanehan, kesintingan."
+eccl(es).,[ecclesiastical] kependetaan.
+ecclesiastes,kb. Surah dalam perjanjian Lama.
+ecclesiastic,"kb. rohaniawan, rohaniawati (fem.). pendeta."
+ecclesiastical,ks. gerejawi. e. robe baju/jubah kependetaan. e. law hukum gereja.
+echelon,"kb. 1 eselon, tingkatan kekuasaan. 2 formasi, barisan."
+echo,"kb. gema, gaung, bunyi  bergema. -kkt. menggemakan. -kki. bergema."
+eclair,kb. semacam kue sebesar jari yang dihiasi dengan kocokan susu dan dibungkus dengan lapisan gula.
+eclectic,ks. bersifat memilih dari berbagai-bagai sumber. to be e. in o's tastes suka memilih-milih dalam seleranya.
+eclecticism,kb. sistim filsafah yang menggunakan pemilihan (dari berbagai sumber).
+eclipse,"kb. 1 gerhana. 2 kemunduran. to suffer a temporary e. kehilangan reputasi atau nama baik untuk sementara waktu. -kkt. jauh melebihi menyebabkan kurang penting, memudarkan."
+ecological,ks. ekologis.
+ecology,kb. ekologi.
+econ.,"1 [economic] ekonomis, berhemat. 2 [economics] penghematan. 3 [economy] ilmu ekonomi, perekonomian, penghematan."
+econometrics,kb. bagian dari ilmu ekonomi yang mengolah hubungan-hubungan ekonomis secara matematika.
+economic,ks. ekonomis. e. problems masalah-masalah ekonomi. e. geography  ilmu bumi ekonomi.
+economical,"ks. hemat, irit. an e. house rumah hemat.  He's very e. Ia sangat hemat. -economically kk. secara ekonomis."
+economics,kb. ilmu ekonomi.  It's simply a matter of e.  Ini hanyalah masalah ekonomi.
+economist,kb. ahli ekonomi.
+economize,"kki. berhemat, menghemat. We'll have to e. this month Bulan ini kita harus berhemat."
+economy,"kb. (j. -mies) 1 ekonomi, perekonomian. the e. of a country perekonomian negara. 2 penghematan. Av.: e. class ruang niaga, kelas ekonomi. economy - priced ks. harga murah."
+ecstasy,kb. (j. -sies) kegembiraan yang luar biasa. She was overcome with e. Kegembiraannya meluap-luap.
+ecstatic,ks. gembira luar biasa. -ecstatically kk. e. happy benar-benar bahagia.
+ecumenical,"ks. 1 umum. 2 yang berhubungan dengan gereja Kristen. e. council dewan gereja, dewan urusan kegerejaan yang meliputi seluruh gereja Kristen."
+eczema,kb. eksema.
+ed.,"[edition] terbitan, cetakan."
+ed.d.,[Doctor of Education] Doktor Ilmu Pendidikan.
+ed.m.,[Master of Education] Sarjana Ilmu Pendidikan.
+eddy,"kb. (j. -dies) olakan, kisaran, pusaran arus. -kki. (eddied) berkisar, berputar-putar."
+eden,kb. taman firdaus.
+edge,kb. 1 tepi. 2 pinggir. 3 tebing. -kkt. memberi pinggir. to e. o's way berjalan miring.
+edgeways,edgeways
+edgewise,#NAME?
+edginess,"kb. 1 kegelisahan, kegugupan. r ketajaman."
+edgy,"ks. lekas terganggu, tidak tenang."
+edible,ks. dapat dimakan.
+edict,"kb. dekrit, proklamasi, maklumat, pengumuman pemerintah/resmi."
+edification,"kb. perbaikan, kemajuan/manfaat rohaniah, pendidikan."
+edifice,kb. gedung/bangunan besar.
+edified,lih  EDIFY.
+edifies,lih  EDIFY.
+edify,kkt. (edified) memperbaiki/memajukan pendidikan -edifying ks. yang membawa/ mendatangkan perbaikan.
+edit,"kkt. 1 membaca dan memperbaiki (naskah), mempersiapkan (naskah) untuk diterbitkan. 2 memimpin redaksi. -editing kb. penelitian, pemeriksaan (of a manuscript)."
+edit.,"1 [edition] cetakan, terbitan, edisi. 2 [editor] redaktur. 3 [edited] diperiksa (isi naskahnya)."
+edition,"kb. terbitan, edisi, cetakan. a book in a third e. buku dalam edisi ketiga."
+editor,"kb. redaktur, pemeriksa naskah untuk penerbitan. e.-in-chief pemimpin redaksi. To the E. Redaksi Yth."
+editorial,kb. tajuk rencana. e. staff redaksi. -editorially kk. sebagai tajuk rencana. The newspaper commented e. on that issue Surat kabar mengulas hal itu didalam tajuk rencananya.
+editorship,kb. jabatan redaktur.
+"edt, e.d.t.",[Eastern Daylight Time] ukuran waktu siang hari bagian timur AS yang satu jam lebih cepat dari waktu setempat.
+educate,"kkt. mendidik. -educated ks. berpendidikan, terpelajar."
+education,kb. pendidikan. Ministry of E. Departemen Pendidikan.
+educational,ks. yang berhubungan dengan pendidikan. e. film film pendidikan. e. institution sekolah.
+educationist,kb. ahli mendidik.
+educator,"kb. pendidik, ahli mendidik."
+ee,[Electrical Engineer] insinyur listrik.
+"eec, e.e.c.",[European Economic community] Organisasi Ekonomi Eropa.
+eel,kb. belut.
+eerie,"ks. ngeri, takut. e. feeling perasaan ngeri."
+efface,kkt. 1 menghapus(kan). 2 to e. o.s. tidak memperlihatkan/menonjolkan diri.
+effect,"kb. 1 pengaruh. 2 efek, akibat. for e. untuk gagah-gagahan.  -effects (personal) j. harta benda, milik. -kkt. 1 menyebabkan, mengakibatkan. 2 mengadakan, menjalankan."
+effective,"ks. 1 berhasil, ditaati. 2 mengesankan. 3 berlaku. 4 mujar(r) rab, manjur, mustajab, effektip. -effectively kk. dengan hasil baik, dengan berhasil, effektip."
+effectiveness,"kb. keefektipan, kemanjuran, kemujar(r)aban."
+effeminacy,effeminacy
+effeminate,"ks. keperempuan-perempuanan, bersifat seperti perempuan."
+effervesce,kki. 1 membuih. Some soft drink e. Beberapa minuman tanpa alkohol membuih. 2 riang gembira.
+effervescence,kb. sifat berbusa/berbuih. the e. of champagne sifat sampanye yang berbuih.
+effervescent,"ks. 1 berbuih, berbusa, membuih. e. water air berbuih. 2 riang gembira."
+effete,"ks. tak beguna lagi, payah, lelah. He's an e. individual Dia seorang  yang tidak berguna lagi."
+efficacious,"ks. mujarab, manjur."
+efficacy,"kb. (j. -cies) kemanjuran, kemujaraban."
+efficiency,"kb. (j. -cies) 1 ketepatgunaan, efisiensi. 2 ketangkasan. e. expert seorang yang ahli dalam mempertinggi ketepatgunaan."
+efficient,"ks. 1 tepatguna, berdayaguna, efisien. e. housekeeper pengatur rumah tangga yang tepat guna. 2 yang menghasilkan."
+effigy,"kb. (j. -gies) gambar, patung. to burn/hang s.o.  in e. membakar/menggantung patung  seseorang."
+efflorescence,"kb. kemekaran, keadaan sedang mekar, pembungaan, keadaan sedang berbunga."
+efflorescent,"ks. berkembang, mekar, sedang berbunga."
+effort,"kb. 1 usaha, upaya. 2 karya."
+effortless,ks. tanpa tenaga/kesukaran. Driving this car is e. Mengemudikan oto ini tidak memerlukan tenaga.
+effronery,"kb. (j. -ries) kekurang ajaran, kelancangan."
+effusive,"ks. dengan perasaan tak terkendalikan, terlalu emosionil. He was e. in his praise Dia berlebih-lebihan dalam pujiannya. -effusively kk. dengan secara menyolok."
+egalitarian,ks. seorang yang percaya bahwa semua orang sederajat.
+egg,kb. telur. fried e.  telur ceplok (goreng). bad e. 1 telur busuk. 2 orang jahat.  -to e. on menghasut. e. beater pengopyok/pengocok telur. e. white putih telur. e. yolk kuning-merah telur.
+egghead,"kb. Inf.: orang terpelajar, orang cerdik pandai."
+eggnog,"kb. minuman telur kopyok (campuran telur kopyok, gula, susu, minuman keras dan pala)."
+eggplant,kb. terung.
+eggshell,"kb. kulit telur, kelompang."
+ego,"kb. diri (sendiri), aku. When she refused to marry him, it hurt his ego  Ketika dia menolak kawin dengannya ia merasa terhina."
+egocentric,ks. egosentris.
+egoism,"kb. egoisme, keakuan."
+egoist,kb. orang yang hanya mengejar kepentingan diri sendiri.
+egotism,kb. egotisme.
+egotist,kb. penyombong.
+egotistic(al),"ks. congkak, sombong, angkuh, mementingkan diri sendiri."
+egret,kb. sejenis burung bangau.
+egypt,kb. Mesir.
+egyptian,kb. orang Mesir. -ks. Mesir. E. currency mata uang Mesir.
+eh,"kseru. bukan ?; ..., kan ?; ..., ya ?."
+eight,kn. delapan. e. books delapan buku. e. o'clock jam delapan.
+eighteen,kn. delapan belas.
+eighteenth,kn. yang kedelapan belas. He arrives on the e.  Dia akan tiba tanggal delapan belas.
+eightfold,ks. ganda/rangkap delapan belas kali.
+eighth,"kb., ks. yang kedelapan. This is the e. cup of coffee Ini cangkir yang kedelapan."
+eightieth,ks. yang kedelapan puluh.
+eighty,"kb., ks. (j. ties) delapan puluh e. two delapan puluh dua. e. third yang kedelapan puluh tiga."
+either,ks. 1 salah satu dari dua. 2 tiap. -kg. 1 salah satu. 2 salah  seorang. -kk. pun tidak. either-or ks. salah satu dari dua.
+ejaculate,"kkt. 1 berkata dengan tiba-tiba. 'My God,' she ejaculated in horror 'Ya Allah', ujarnya dengan ketakutan. 2 mengeluarkan dengan tiba-tiba."
+ejaculation,"kb. 1 ujar, seruan. 2 pengeluaran dengan tiba-tiba, penyemburan."
+eject,"kkt. 1 mengusir. to e. s.o. from a house mengusir seseorang dari rumah. 2 menyemprotkan, mengeluarkan, menyemburkan. to e. lava menyemprotkan lahar."
+ejection,"kb. 1 pengusiran. 2 pelemparan, penyemburan (lava). Av.: e. seat tampat duduk peloncat otomatis dalam waktu darurat."
+eke,kkt. to e. out menambah dengan susah payah. to e. out a living by menambah penghidupan dengan.
+el,[elevated (railroad) ] kb. kereta api diatas jalan.
+elaborate,"ks. 1 rumit.  2 teliti, terperinci. 3 besar, luas, panjang-lebar. -kki. menguraikan. to e. upon o's experiences menguraikan pengalaman-pengalamannya panjang lebar."
+elaboration,kb. perluasan. e. of an earlier draft perluasan dari rencana yang terdahulu.
+elapse,"kki. (ber)lewat, (ber) lalu. Two days elapsed before... Dua hari telah lewat sebelum..."
+elastic,"kb. karet, elastik. -ks. elastik, elastis, kenyal, luwes. The agreement should be as e. as possible Persetujuan itu seharusnya seluwes mungkin."
+elasticity,"kb. (j. -ties) kekenyalan, elastisitas."
+elate,"kkt. membesarkan hati, menggembirakan. -elated ks. sangat gembira (at atas)."
+elation,"kb. kegembiraan, kegirangan hati."
+elbow,"kb. Anat.: siku. 2 boh, bengkokan, potongan bengkok. -kkt. mendorong, menyikut. Inf.: e grease bekerja keras, membanting tulang. e. room tempat yang cukup luas."
+elder,"kb. anggota pengurus gereja. elders j. nenek (mamak), sesepuh, orang-orang tua. -ks. lebih tua, senior. e. brother abang, kakak."
+elderberry,kb. (j. -ries) semacam buah murbey.
+elderly,"kb., ks. tua. home for the e. rumah untuk kaum tua."
+eldest,ks. tertua sulung.
+elect,kb. the e. orang-orang yang terpilih. -ks. yang terpilih. e. group golongan terpilih. -kkt. memilih (a mayor). He elected to stay home Ia memilih tinggal dirumah.
+elect.,1 [electric(al) ] yang berhubungan dengan listrik. 2 [electricity] listrik.
+election,kb. pemilihan. general e. pemilihan umum. e. symbol tanda gambar pemilihan.
+elective,"kb. mata pelajaran pilihan, mata kuliah pilihan fakultatif. -ks. fakultatif. e. position jabatan yang berdasar pemilihan."
+elector,"kb. pemilih, orang yang berhak memilih, anggota badan yang berhak memilih."
+electoral,ks. yang bertautan dengan pemilih atau pilihan. e. college golongan orang-orang yang dipilih oleh para pemilih  untuk memilih Presiden dan Wakil Presiden AS.
+electorate,kb. orang-orang yang berhak memilih dalam pemilihan.
+electric,"ks. 1 yang berhubungan dengan listrik. e. clock jam listrik. 2 menggemparkan, menggairahkan.  e. blanket selimut listrik. e. chair. kursi listrik."
+electrical,"ks. yang berhubungan dengan listrik, elektris. e. engineer insinyur bagian listrik."
+electrician,kb. montir listrik.
+electricity,kb. listrik.
+electrification,kb. elektrifikasi.
+electrify,kkt. (electrified) 1 mengelektrifikasikan. 2 menggemparkan. His speech electrified everyone Pidatonya menggemparkan semua orang.
+electrocardiogram,kb. garis-grafik debar jantung.
+electrocut,kkt. 1 membunuh dengan arus listrik. 2 menghukum mati dengan arus listrik.
+electrocution,kb. 1 mati karena listrik. 2 hukuman kursi listrik.
+electrode,kb. elektroda.
+electrodynamics,kb. elektrodinamika.
+electrolysis,kb. elektrolisa.
+electromagnet,kb. magnit listrik.
+electron,kb. electron. e. microscope mikroskop  electron.
+electronics,kb. ilmu elektronika.
+eleemosynary,ks. secara/untuk amal. e. institution lembaga amal.
+elegance,"kb. kemewahan, keelokan, kecantikan, kemolekan, keluwesan. atmosphere of e. suasana kemewahan yang molek."
+elegant,"kb. molek, elok, bagus sekali, luwes, perlente."
+elegy,kb. (j. -gies) syair ratapan.
+elem.,"1 [elementary] dasar. 2 [element] elemen, unsur."
+element,"kb. 1 unsur, elemen. to be in o's e. senang sekali. 2 dasar. the elements j. hawa, cuaca (salju, angin, hujan). the five elements pancabuta."
+elemental,ks. dasar. Thirst is an e. feeling Haus adalah perasaan dasar.
+elementary,ks. dasar. e education pendidkan dasar. e. school sekolah dasar/rakyat.
+elephant,kb. gajah.
+elephantiasis,"kb. untut, sakit gajah."
+elevate,"kkt. 1 mengangkat. 2 meninggikan, menaikkan. -elevated ks. yang ditinggikan, tinggi."
+elevation,kb. 1 tingginya. 2 peninggian. e. of the mind meninggikan kepala pasien
+elevator,kb. lift. e. boy pelayan lift. e. shaft cerobong lift.
+eleven,"kb., ks. sebelas. Sport : the e. kesebelasan."
+eleventh,ks. yang kesebelas. at the hour pada saat terakhir.
+elf,"kb. (j. elves) peri, jin."
+elicit,"kkt. 1 mendatangkan. 2 mendapatkan, memperoleh."
+elide,kkt. menghilangkan bunyi dalam ucapan.
+eligibility,kb. (j. -ties) sifat memenuhi syarat.
+eligible,"ks. dapat dipilih, memenuhi syarat. He is not e. become a member Ia tak memenuhi syarat untuk menjadi anggota."
+eliminate,"kkt. 1 menghapuskan, melenyapkan (a problem). 2 menyisihkan. 3 membersihkan, mengeluarkan. 4 (kill) menyingkirkan, membunuh."
+elimination,"kb. 1 Sport : penyisihan. 2 pengeluaran, pembersihan."
+elision,"kb. peniadaan/penghilangan bunyi dalam ucapan, elisi."
+elite,"kb., ks. elite, golongan atas, kaum atasan, orang-orang terkemuka. e. type huruf elite pada mesin tik."
+elixir,kb. obat yang mujarab untuk segala macam penyakit.
+elk,kb. sejenis rusa besar.
+ell,"kb. elo, ela."
+ellipsis,"kb. 1 pembuangan kata atau kata-kata memenuhi bentuk kalimat berdasarkan paramasastera. 2 Gram.:  tanda pengganti, elipsis."
+elliptical,ks. berbentuk bulat panjang.
+elm,kb. sejenis pohon yang tinggi dan bagus.
+elocution,"kb. seni deklamasi, keahlian membaca atau mengucapkan kalimat dengan logat dan lagu yang baik di muka umum."
+elongate,"kkt. memperpanjang, memanjangkan mengulur."
+elongation,"kb. pemanjangan, penguluran."
+elope,"kki. dengan kekasih pilihannya, biasanya untuk kawin."
+elopement,"kb. pelarian untuk kawin,"
+eloquence,"kb. kepandaian berpidato, kelancaran berbicara, kefasihan lidah."
+eloquent,ks. 1 pandai/fasih bicara. 2 penuh perasaan. e. eyes mata yang penuh perasaan. 3 yang mengesankan.
+else,"ks. lain. everybody everyone e. setiap orang lain, semua (orang) lain. -kk. kalau tidak."
+elsewhere,"kk. di tempat lain, di lain tempat."
+elucidate,"kkt. membentangkan, menguraikan, menjelaskan. to e. a theory membentangkan teori."
+elucidation,"kb. penjelasan, uraian."
+elude,"kkt. mengelakkan, menghindarkan diri dari. to e. question mengelakkan pertanyaan."
+elusive,ks. 1 sukar untuk dipahami. e. reply jawaban yang sukar dipahami. 2 sukar ditangkap.  The fox was too e. for me Rubah itu bagiku terlalu sukar untuk ditangkap.
+em,kb. huruf  m.
+emaciate,"kkt. menguruskan, membuat kurus. TB had emaciated her Tebese telah menguruskan dia. -emaciated ks. kurus, (kurus) kerempeng."
+emanate,"kki. berasal, keluar. Where did the rumor e. from ? Darimana asal desas-desus itu ?"
+emancipate,"kkt. memerdekakan, membebaskan."
+emancipation,"kb. emansipasi, kemerdekaan, pembebasan."
+emancipator,"kb. pembebas, pemerdeka."
+emasculate,kki. 1 mengebiri (a person or animal). 2 melemahkan. The new law has been badly emasculated  Undang-undang yang baru itu  telah sangat  dilemahkan.
+emasculation,kb. 1 pengebirian. 2 pelemahan.
+embalm,kkt. membalsem. -embalming kb. pembalseman.
+embankment,"kb. tambak, tanggul, pematang."
+embargo,"kb. embargo, pembatasan perdagangan oleh undang-undang. to place an e. on the importation of wheat mengadakan larangan terhadap pemasukan gandum."
+embark,kkt. menaikkan kekapal. He embarked his troops Dia menaikkan pasukannya kekapal. -kki. 1 memulai. to e. on a dangerous course memulai usaha yang berbahaya. Nav.: naik kapal.
+embarkation,kb. 1 penaikan/kenaikan ke kapal. 2 permulaan. 3 (tempat) keberangkatan.
+embarrass,kkt. 1 memalukan. 2 mempersukar. -embarrassed ks. malu. -embarrassing ks. yang memalukan. Their action were very e. Tindakan-tindakan mereka sangat memalukan.
+embarrassment,kb. keadaan memalukan. Imagine my e. when ... Bayangkan bagaimana malu saya ketika itu.
+embassy,kb. (j. -sies) kedutaan besar.
+embattle,kkt. memerangi.
+embed,kkt. (embedded) 1 menanamkan 2 melekatkan. 3 menyimpan.
+embellish,"kkt. 1 membubuhi, membumbui. to e. story with membubuhi cerita dengan. 2 menghiasi. to e. a home with art objects menghiasi rumah dengan  barang-barang kesenian."
+embellishment,"kb. 1 penghiasan, perhiasan. 2 hiasan. 3 pembubuhan."
+ember,kb. bara api.
+embezzle,kkt. menggelapkan.
+embezzlement,"kb. penggelapan, pencurian."
+embezzler,kb. penggelap.
+embitter,kkt. menyakitkan hati. He was embittered by the remarks made about him Ia merasa sakit hati oleh sindiran-sindiran orang kepadanya.
+emblazon,kkt. menghiasi. The room was emblazoned with pennants Ruang itu dihiasi dengan panji-panji.
+emblem,"kb. lambang, lencana, tanda."
+embodied,lih  EMBODY.
+embodiment,"kb. pengejawantahan, perwujudan, penjelmaan."
+embody,"kkt. (embodied) 1 mewujudkan. 2 menaruh, menambahkan, membubuhkan, memasukkan."
+embolden,"kkt. membesarkan hati, memberanikan. His successes e. him Kesuksesannya menjadikan dia lebih berani."
+embolism,kb. emboli.
+emboss,kkt. menghiasi dengan hiasan timbul. -embossed ks. 1 bersulam timbul. e. silk sutera bersulam timbul. 2 yang ditimbulkan. e. letter huruf timbul.
+embrace,"kb. pelukan, rangkulan. -kkt. 1 memeluk (a child). 2 mencakup. -kki. berpelukan. Mother and daughter embraced Ibu dan anak berpelukan."
+embroider,kkt. menyulam.
+embroidery,kb. (j. -ries) sulaman.
+embroil,kkt. melibatkan diri. to become embroil in a border dispute terlibat dalam percekcokan perbatasan.
+embryo,"kb. mudigah, janin. in e. dalam persiapan."
+embryology,kb. ilmu mudigah.
+emcee,"[master of ceremonies] kb. Inf.: pemimpin acara, pengatur acara. -kkt. mengatur acara, bertindak sebagai pemimpin acara."
+emend,"kkt. 1 memperbaiki, mengoreksi (text). 2 mengusulkan perubahan (a law)."
+emendation,"kb. 1 perbaikan, koreksi (of a tex). 2 perubahan."
+emerald,"kb. jamrud, zamrud. e. green hijau zamrud. E. Isle Irlandia."
+emerge,"kki. muncul, timbul. to e. as party leader muncul sebagai pemimpin partai."
+emergence,"kb. timbulnya, munculnya, kemunculan. e. of new forces timbulnya kekuatan-kekuatan baru."
+emergency,"kb. (j. -cies) keadaan darurat. in (case of) an e. dalam keadaan darurat.  e. room tempat memberi pertolongan pertama, kamar darurat (dirumah sakit)."
+emeritus,kb. pensiun dengan hormat dan boleh memakai gelar kedudukannya.
+emery,"kb. amril, batu gosok. e. cloth kain ampelas."
+emetic,"kb. obat emesis, pembuat muntah."
+emigrant,kb. emigran.
+emigrate,kki. beremigrasi.
+emigration,kb. emigrasi.
+eminence,"kb. 1 keutamaan, keunggulan, kedudukan terkemuka. 2 kebesaran, kemasyuran. 3 (hill) bukit, tempat yang tinggi."
+eminent,"ks. ulung, unggul, terkenal. -eminently kk. nyata, sungguh."
+emissary,"kb. (j. -ries) utusan, wakil, duta."
+emission,"kb. pengeluaran, pemancaran, emisi."
+emit,"kkt. (emitted) memancarkan (heat, light)."
+emolument,"kb. pembayaran, honorarium."
+emotion,"kb. (perasaan) emosi, renjana. This appeals to the emotions Sandiwara ini menggugah perasaan hati."
+emotional,"ks. emosional. e. plea pembelaan yang mengharukan, pembelaan yang penuh perasaan."
+empathy,kb. empati.
+emperor,kb. kaisar.
+emphasis,kb. 1 tekanan. to put e. (up) on memberi tekanan pada.  2 perhatian. There is much e. on space Banyak sekali perhatian pada ruang angkasa.
+emphasize,"kkt. menekankan, menegaskan, memberi tekanan pada. to e. apoint menegaskan pendapat."
+emphatic,ks. tegas. He's e. in his demands Dia tegas dalam tuntutannya.  -emphatically kk. dengan tegas / sungguh-sungguh.
+emphysema,"kb. emp(h)isema, penyakit bengkak pada paru-paru karena pembuluh darahnya kemasukan udara."
+empire,kb. kekaisaran. 2 kerajaan. British E. kerajaan Inggris.
+empirical,ks. empiris. e. data kenyataan-kenyataan yang empiris.
+emplacement,kb. tempat mendudukkan meriam.
+emplane,kki. naik kapal terbang.
+employ,"kb. to be in the e. of bekerja pada. -kkt. 1 memperkerjakan. 2 menggunakan, memakai."
+employable,ks. dapat dipekerjakan.
+employee,"kb. pegawai, pekerja, karyawan, karyawati (fem.). -employees j. personil, para karyawan."
+employer,"kb. majikan, induk semang."
+employment,"kb. pekerjaan, jabatan. e. agency/bureau kantor penempatan tenaga."
+emporium,"kb. 1 toko besar/serba ada. 2 pasar, pusat perniagaan/perdagangan."
+empower,"kkt. menguasakan, memberi kuasa/wewenang kepada."
+empress,kb. kaisar wanita.
+emptied,lih  EMPTY.
+empties,lih  EMPTY.
+emptiness,"kb. kekosongan, kehampaan."
+empty,"kb. (j. -ties) 1 barang kosong. 2 botol kosong. 3 RR. gerbong kosong. -ks. kosong, hampa. -kkt. (emptied) 1 mengosongkan. 2 menuangkan. -kki. bermuara, mengalir. -empty-handed ks. dengan tangan kosong. empty-headed ks. bodoh, goblok, berkepala dingin."
+emulate,kkt. berusaha menyamai atau melebihi. to e. o's favorite actor berusaha menandingi aktor kesayangannya.
+emulsify,kkt. (emulsified) membuat menjadi emulsi.
+emulsion,"kb. emulsi, emulsa."
+en,kb. huruf n.
+en bloc,"sekaligus, bersama-sama, serentak."
+enable,"kkt. memungkinkan, membolehkan. A degree will e. s.o to secure a better position Gelar kesarjanaan akan memungkinkan seseorang untuk memperoleh kedudukan yang lebih baik."
+enact,"kkt. 1 membuat, menjadikan.  to e. a law menjadikan undang-undang, mengundangkan. 2 memainkan, memerankan. to e. a role (in a play, film) memainkan peranan."
+enactment,"kb. 1 pengundangan, pengumuman, pembuatan. e. of a law pengundangan sebuah undang - undang. 2 undang-undang."
+enamel,"kb. 1 email, cet halus. 2 lapis gigi yang keras, glasir, lapis email (of teeth). -kkt. mengemail, melapisi dengan porslen."
+enamelware,kb. barang-barang dari email.
+enamored,ks. 1 terpikat. He was e. of the actress Dia terpikat pada/oleh aktris itu. 2keranjingan. She's e. of ice cream Dia keranjingan eskrim.
+enc.,[enclosure] lampiran
+encamp,kki. berkemah.
+encampment,kb. tempat perkemahan.
+encephalitis,kb. radang otak.
+enchant,"kkt. mempesonakan, memikat, menawan hati. The view    enchanted us Pemandangan itu mempesonakan kita. -enchanting ks. mempesonakan, memikat.  The shadow play is e. Wayang itu mempesonakan."
+enchantment,"kb. pesona, pemikatan. to feel a sense of e. merasakan terpesona."
+encipher,kkt. menulis (berita/pesan) dalam kode.
+encircle,"kkt. 1 mengelilingi, melingkari, melingkungi. Flowers e. the pool Bunga-bunga mengelilingi kolam itu. 2 mengepung (the enemy)."
+encirclement,kb. pengepungan.
+encl.,[enclosure] lampiran.
+enclave,kb. daerah kantong.
+enclitic,kb. kata atau persingkatan kata yang tidak bertekanan.
+enclose,"kkt. 1 menyertakan, melampirkan. 2 melingkungi. -enclosed ks. 1 tertutup.  2 terlampir."
+enclosure,"kb. 1 lampiran (to a letter). 2 pagar, tanah berpagar."
+encode,"kkt. menyandikan, menulis dalam sandi."
+encompass,"kkt. meliputi, mencakup. His influence encompasses a large area Pengaruhnya meliputi daerah yang luas."
+encore,"kb. nyanyian ulangan, bis. -kkt. meminta supaya permainan diulang"
+encounter,"kb. 1 pertemuan. 2 Mil.: pertempuran. -kkt. 1 bertemu/berjumpa dengan. 2 menghadapi, mengalami. 3 menemui."
+encourage,"kkt. membesarkan hati, menganjurkan, mendorong.  He encouraged his son to continue his education Ia menganjurkan pada anak lelakinya supaya melanjutkan pelajarannya. -encouraging ks. yang membesarkan hati/harapan, yang mendorong."
+encouragement,"kb. 1 dorongan, desakan. 2 pengobaran semangat, sesuatu yang membesarkan hati"
+encroach,kki. 1 melanggar batas. to e. upon s.o.'s property melanggar hal milik seseorang. 2 mengganggu .to e. upon  s.o.'s time menggangu waktu seseorang.
+encroachment,kb. 1 pelanggaran batas. 2 gangguan.
+encumber,kkt. membebani. He was encumbered with many responsibilities Ia dibebani banyak tanggung jawab.
+encumbrance,"kb. rintangan, halangan, beban."
+encyclical,kb. surat ensiklik.
+encyclop(a)edia,kb. ensiklopedi
+encyclopedic,ks. yang meliputi hal-hal yang luas. an e. mind ingatan seperti kamus lengkap.
+end,"kb. 1 akhir, bagian terakhir. 2 ujung. 3 tujuan. 4 bagian, dasar. -kkt. 1 menutup (a meeting). 2 menghentikan(war). 3 mengakhiri. 4 menyudahi (a letter). -kki. 1 berakhir. 2 hasil terakhir. -ending kb. 1 akhir, bagian terakhir. 2 Gram.: akhiran."
+endanger,"kkt. membahayakan, mengancam."
+endear,kkt. membuat supaya disayangi. She endears herself to everyone  Ia membuat dirinya disayangi tiap orang.
+endearment,kb. tindakan yang menunjukkan/menandakan rasa kasih.
+endeavor,kb. usaha (keras). to make every e. to... melakukan segala usaha/ikhtiar untuk..  -kkt. berusaha keras.
+endemic,"ks. selalu terdapat pada tempat tertentu, bersifat endemis. Malaria is e. to the tropics Malaria selalu terdapat di daerah tropika."
+endive,kb. andewi.
+endless,"ks. 1 yang tak ada habis-habisnya, yang tiada akhirnya.  e. task kewajiban yang tak ada habis-habisnya. 2 tak berujung - pangkal, rantai bertemu."
+endocrine,ks. (cairan) kelenjar endokrin.
+endorse,"kkt. 1 menguasakan, mengesahkan, mengabsahkan. 2 menyokong."
+endorsee,kb. penerima kuasa.
+endorsement,"kb. 1 pengesyahan, pengabsahan, persetujuan. 2  dukungan, sokongan."
+endorser,"kb. 1 pemberi kuasa. 2 penyokong, pendukung."
+endow,"kkt. 1 memberkahi, memberkati. 2 membantu dengan pemberian."
+endowment,"kb. sokongan, sumbangan, amal wiyata, anugerah."
+endurable,ks. dapat diterima/ditahan. The camp is e. but not pleasant  Perkemahan itu dapat ditahan tapi tak menyenangkan.
+endurance,"kb. 1 daya tahan, ketahanan. 2 kesabaran."
+endure,"kkt. memikul, menahan. to e. suffering memikul penderitaan. -kki. berlangsung terus, berjalan lama. -enduring  ks. abadi. e. peace perdamaian abadi."
+endways,"kk. membujur, menuju ujung, dari ujung ke ujung."
+endwise,kk. =  ENDWAYS.
+enema,kb. suntikan urus-urus (pada usus). to take an e. mendapat suntikan urus-urus.
+enemy,"kb. (j. -mies) musuh, lawan. He's his own worst e. Dia yang merupakan musuhnya sendiri yang paling besar."
+energetic,"ks. giat, penuh semangat (be)kerja. -energetically kk. dengan penuh semangat (be)kerja."
+energy,"kb. (j. -gies) 1 tenaga. atomic e. tenega atom. 2 kekuatan. 3 tenaga bekerja, daya."
+enervate,"kkt. melemaskan, melemahkan. The hot, humid climate enervates me Iklim yang panas dan lembab itu melemaskan saya. -enervating ks. melemahkan."
+enfold,#NAME?
+enforce,"kkt. menyelenggarakan, menjalankan.  to e. the law menyelenggarakan undang-undang, melaksanakan (kekuasaan) undang-undang."
+enforceable,ks. dapat diselenggarakan/dilaksanakan.
+enforcement,"kb. pelaksanaan, penyelenggaraan. e. of the law pelaksanaan undang-undang."
+enforcible,#NAME?
+enfranchise,kkt. memberi hak untuk memberi suara kepada.
+eng.,1 [engineer] insinyur. 2 [engineering] keahlian tehnik.
+engage,"kkt. 1 memesan. 2 menggunakan, menyewa. 3 melawan. 4 mengajak, mengikutsertakan. 5 memintai. -kki. to e. in battle berperang. -engaged ks. to be e. 1 bertunangan. 2 sibuk, sedang dipakai/bicara. -engaging ks. yang menarik hati."
+engagement,"kb. 1 pertunangan. 2 Mil.: pertempuran, peperangan. 3 janji, perjanjian. 4 waktu pekerjaan, perjanjian/waktu pemakaian.(theater, music, night club)."
+engender,"kkt. menimbulkan, melahirkan, menyebabkan. Poverty engenders crime  Kemelaratan menimbulkan kejahatan."
+engine,"kb. mesin, motor.e. room kamar mesin. 1 RR. lokomotif uap. 2 mesin uap."
+engineer,"kb. 1 masinis (on a railroad, ship). 2 insinyur. 3 zeni. -kkt. 1 merencanakan, mengusahakan rencana, mengatur dengan trampil. 2 membangun."
+engineering,"kb. keahlian tehnik, tehnik mesin. e. geology geologi tehnik. e. works pabrik mesin."
+england,kb. negeri Inggris.
+english,"kb., ks. bahasa Inggris. E.-born ks. kelahiran Inggris. E.-speaking ks. berbahasa Inggris."
+englishman,kb. (j. -men) orang/pria Inggris.
+englishwoman,kb. (j. -women) wanita Inggris.
+engrain,#NAME?
+engrave,"kkt. 1 mengukir, melukis. 2 memahatkan, menggoreskan. -engraving kb. 1 barang ukiran/pahatan. 2 pengukiran, keahlian mengukir atau memahat."
+engraver,"kb. 1 pengukir, pemahat. 2 pembikin klise."
+engross,"kkt. memikat, mengasyikkan. -engrossed ks. terpikat, asyik. -engrossing ks. yang mengasyikkan."
+engulf,"kkt. 1 menelan. 2 meliputi, menelan, melanda."
+enhance,kkt. mempertinggi. to e. the value of the property mempertinggi harga tanah milik.
+enhancement,"kb. penaikan, peninggian, perbaikan peningkatan."
+enigma,"kb. teka-teki, ucapan yang membingungkan."
+enigmatic,"ks. yang membingungkan, yang mengandung teka-teki. He wore an e. smile Senyumnya mengandung teka-teki."
+enjoin,kkt. 1 melarang. 2 memerintahkan  (supaya).
+enjoy,kkt. 1 menikmati. 2 memperoleh. 3 memiliki.
+enjoyable,"ks. yang menyenangkan/menggembirakan,  nikmat. an e. evening malam yang menyenangkan."
+enjoyment,"kb. kesenangan, kegembiraan, kenikmatan."
+enlarge,"kkt. 1 memperluas. to e. a room memperluas kamar. 2 memperbesar, membesarkan (a photo). to e. upon membicarakan atau menulis lebih lengkap. enlarged heart jantung yang membesar."
+enlargement,kb. pembesaran.
+enlighten,"kkt. memberi penerangan pada, menguraikan.  enlightened people rakyat yang senantiasa mendapat penerangan-penerangan, rakyat yang mengetahui kebenaran."
+enlightenment,"kb. penerangan, pencerahan."
+enlist,"kkt. mendapat, memperoleh.  -kki mendaftarkan diri pada dinas militer, tekan serdadu. enlisted man tamtama."
+enlistee,kb. calon tamtama.
+enlistment,kb. pendaftaran. e. in the army pendaftaran dalam dinas militer.
+enliven,kkt. memeriahkan. to e. an evening memeriahkan malam pertemuan.
+enmasse,kk. 1 seluruhnya.  The family come e. Keluarga itu datang seluruhnya. 2 secara masal/besar-besaran. to evacuate e. mengungsi secara massal.
+enmesh,kkt. menangkap dalam jaring.
+enmity,"kb. (j. -ties) (rasa) permusuhan, kebencian."
+ennui,kb. perasaan bosan.
+enoble,"kkt. memuliakan, mempermulia."
+enormity,"kb. (j. -ties) besarnya, luasnya, sifat amat jahat.  the e. of the crime against society besarnya kejahatan itu terhadap masyarakat."
+enormous,"ks. sangat besar, hebat. an e. house rumah yang sangat besar. -enormously kk. sangat besar. He was e. helpful Sangat besar bantuannya."
+enough,kb. cukup.  -ks. cukup
+enpassant,kk. sambil lalu.
+enplane,kki. naik pesawat terbang.
+enquire,#NAME?
+enquiry,#NAME?
+enrage,kkt. membuat marah sekali. That enraged him Itu membuat dia marah sekali.
+enrapture,"kkt. mempesonakan, menawan hati, memberanikan, menggairahkan."
+enrich,kkt. 1 memperkaya. (o's). 2 menyuburkan.  enriched milk susu yang  telah dipertinggi nilai gizinya.
+enrichment,"kb. hal memperkaya /mempersubur, penyuburan."
+enrol(l),"kkt. mendaftarkan (student). -kki. mengikuti, menjadi anggota dari."
+enrol(l)ment,kb. pendaftaran. The  university has an e. of 1200 students  Universitas itu mempunyai 1200 orang mahasiswa.
+enroute,kk. dalam perjalanan. e. to  Hawaii  dalam perjalanan ke Hawaii.
+ensemble,kb. 1 ansamble.string e. ansambel gesek. 2 Cloth.: setel pakaian.
+enshrine,kkt. 1 mengabadikan. His name is enshrined over the doorway Namanya diabadikan diatas pintu. 2 menyimpan dalam tempat suci atau dalam kuil.
+ensign,kb. 1 bendera. 2 letnan muda (AL).
+ensilage,kb. makanan tandon (untuk ternak).
+enslave,kkt. memperbudak.
+ensnare,"kkt. menjerat, memikat. We became ensnared in red tape Kami terjerat dalam birokrasi."
+ensue,kki. terjadi. What ensued during the quarrel ? Apa yang terjadi selama percekcokan itu ? -ensuing ks. yang berikut. The e. week minggu yang berikut.
+ensure,"kkt. menjamin, memastikan."
+entail,"kkt. 1 memerlukan, membawakan. to e. great resposibility membawakan tanggung jawab yang besar. 2 meminta. to e. considerable expense meminta perongkosan  yang besar."
+entangle,"kkt. 1 melibat,  menjerat. He was entangled in a legal case Ia terlibat dalam satu perkara hukum.  2 menjadi kusut. Threads sometimes get entangled Benang kadang-kadang menjadi kusut."
+entanglement,kb. 1 keadaan terlibat. 2 belitan. barbed-wire e. kawat berduri yang berbelit-belit.
+entente,kb. persetujuan/perjanjian antara dua negara atau lebih.
+enter,"kkt. 1 memasuki (a room). 2 mencatat. 3 menulis, mencantumkan. 4 menyertai, memasuki, mengikuti. 5 mengajukan. -kki. masuk  to e. into 1 mengadakan, mengambil bagian dalam. 2 ikut serta dalam. 3 membicarakan, membahas."
+enteric,ks. e. fever demam tipus.
+enteritis,kb. radang usus.
+enterprise,"kb. 1 perusahaan, firma. private e. perusahaan swasta. 2 keberanian berusaha, kegiatan memulai usaha."
+enterprising,"ks. giat, yang mau berusaha. an e. young man seorang pemuda yang mau berusaha."
+entertain,"kkt. 1 mengadakan perjamuan makan, menjamu makan. 2 mempunyai. 3 menghibur. -kki. menjamu. -entertaining ks. 1 yang dapat memikat perhatian orang. 2 yang menyenangkan orang, yang menghibur."
+entertainer,"kb. penghibur, pemain."
+entertainment,kb. 1 hiburan. 2 pertunjukan. e. tax pajak pertunjukan.
+enthral(l),"kkt. (enthralled) memikat, mempesonakan. She was enthralled with the opera Dia sangat terpikat oleh opera. -enthralling ks. yang memikat. an e. performance Pertunjukan yang sangat memikat."
+enthrone,"kkt. menakhtakan, menobatkan, menempatkan diatas takhta."
+enthuse,"kkt. menimbulkan, rasa antusias, bergairah/sangat gembira tentang."
+enthusiasm,"kb. antusiasme, semangat besar, kegairahan, kegembiraan yang  besar."
+enthusiast,kb. penggemar pencandu. soccer e. penggemar main bola.
+enthusiastic,"ks. antusias, bersemangat, bergairah. He waxes e. about his plans  Ia menjadi antusias sekali mengenai rencana-rencananya. -enthusiastically kk. dengan penuh semangat."
+entice,"kkt. 1 menarik, memikat. 2mengajak. 3 membujuk. -enticing ks. yang menarik, yang menimbulkan hasrat, yang memikat hati."
+enticement,"kb. 1 umpan, bujukan, ajakan. 2 tawaran, daya tarik. What e. can you offer? Tawaran apa yang dapat kau berikan ?"
+entire,"ks. 1 segala. 2 seluruh. -entirely kk. 1 samasekali. 2 seratus persen, sepenuhnya."
+entirety,"kb. (j.-ties) seluruhnya, keseluruhannya."
+entitle,"kkt. memberi nama, berjudul."
+entity,"kb. (j.-ties) sesuatu yang sungguh ada, kesatuan yang lahir."
+entomb,kkt. memakamkan.
+entomology,kb. ilmu serangga.
+entourage,"kb. rombongan, para pengiring. the prince and his e. pangeran dan rombongannya."
+entrails,"kb., j. isi perut."
+entrain,kki. naik kereta api.
+entrance,"kb. 1 pitu/jalan masuk. 2 masuk/penerimaan. -kkt. mempesona(kan), memikat."
+entranceway,kb. jalan masuk.
+entrant,"kb. pengikut, peserta, orang yang masuk."
+entreat,kkt. meminta/memohon dengan sangat.
+entreaty,kb. (j. -ties) permohonan yang sangat mendesak.
+"entree, entree",kb. 1 hak untuk masuk. 2 (food) makanan/hidangan utama. 3 perangsang selera.
+entrench,"kkt. 1 mengelilingi dengan parit, berkubu. 2 berurat berakar. 3 masuk dengan menyerobot."
+entrenchment,"kb. parit, pertahanan, kubu."
+"entrepot, entrepot",kb. 1 gudang barang. 2 tempat penyaluran barang.
+entrepreneur,"kb. enterprenir, pengusaha, usahawan."
+entrepreneurial,ks. yang berhubungan dengan  (kaum)  pengusaha. e. class golongan pengusaha.
+entrus,kkt. mempercayakan. to e. s.t. to s.o. mempercayakan sesuatu kepada seseorang.
+entry,"kb.(j. -ries) 1 masuk. 2 catatan (in a diary, log, accounting). 3 kata kepala, judul (in a dictionary). 4 peserta (in a contest). 5 tempat masuk."
+entryway,kb. jalan masuk.
+entwine,kkt. 1 melilitkan. 2 menjalin.
+enumerate,"kkt. 1 menyebutkan satu demi satu. 2 menghitung, menjumlahkan."
+enunciate,"kkt., kki. mengucapkan. He enunciates clearly Ucapannya sangat terang."
+enunciation,kb. ucapan.
+enuresis,kb. ketidaksanggupan mengatur kencing.
+envelop,"kkt. menyelubungi, menyelimuti, membungkus."
+envelope,"kb. amplop, sampul. in a sealed e. didalam sebuah amplop yang disegel."
+enviable,"ks. patut ditiru, yang mengirikan hati."
+envied,lih  ENVY.
+envies,lih  ENVY.
+envious,"ks. cemburu, dengki, iri hati."
+environment,kb. lingkungan.
+environmental,ks. yang berhubungan dengan lingkungan/suasana. e. health kesehatan lingkungan.
+environs,"kb., j. daerah sekeliling sekitar."
+envisage,"kkt. 1 mempertimbangkan, melihat masa depan. 2 menggambarkan dalam pikiran, membayangkan."
+envision,kkt. memimpikan. to e. o's son a general memimpikan puteranya sebagai jenderal.
+envoy,"kb. duta, utusan, wakil."
+envy,"kb. (j. -vies) cemburu, iri (hati). -kkt. (envied) iri pada, mengirikan."
+enzyme,"kb. enjim(a), enzim."
+eon,#NAME?
+epaulet(te),"kb. epolet, tanda pundak, balok/tanda pangkat."
+ephemeral,ks. berlangsung sebentar saja. e. beauty kecantikan yang berlangsung hanya sehari.
+epic,"kb. epic, syair kepahlawanan. -ks. hebat sekali. e. deeds perbuatan-perbuatan yang hebat/berani sekali."
+epicenter,kb. pusat gempa bumi.
+epicure,kb. penggemar makanan dan minuman.
+epidemic,"kb. wabah, epidemi. to reach e. proportions mencapai tingkat wabah."
+epidemiology,kb. epidemiologi.
+epidermis,"kb. kulit ari, kulit luar."
+epiglottis,"kb. katup tenggorok/napas, kelep lekum."
+epigram,kb. epigram.
+epigraph,kb. 1 prasasti. 2 inskripsi.
+epigraphist,kb. ahli prasasti.
+epigraphy,"kb. ilmu membaca dan menafsirkan prasasti, epigrafi."
+epilepsy,"kb. penyakit ayan/kejang-kejang,  epilepsi, pitam babi."
+epileptic,"kb. seorang penderita epilepsi, sawan, orang ayan. e. fit serangan sawan/ayan."
+epilogue,kb. bagian terakhir dari buku sanjak dsb yang merupakan kesimpulan dari karya tersebut.
+episcopal,ks. 1 yang berhubungan dengan seorang uskup atau uskup-uskup. 2 yang berhubungan dengan gereja Inggris.
+episcopalian,kb. He's on E. Ia  anggota Gereja Episcopal. lih  EPISCOPAL.
+episcopate,kb. keuskupan.
+episode,"kb. peristiwa, kisah."
+epistemology,kb. bagian dari ilmu filsafah yang membahas tentang asal.
+epistle,kb. 1 surat. 2 surat yang ditulis oleh salah seorang sahabat  Isa Almasih.
+epitaph,kb. tulisan di batu nisan.
+epithet,kb. julukan.
+epitome,"kb. 1 ringkasan, singkatan. 2 lambang, contoh."
+epitomize,"kkt. melambangkan, merupakan contoh. He epitomizes the well - dressed man Ia merupakan contoh orang yang berpakaian baik."
+epoch,"kb. jangka waktu, jaman, masa.  epoch-making ks. yang membuka zaman baru."
+epochal,ks. dari atau yang berhubungan dengan zaman yang penting.
+epsom,kb. E. salts garam Inggeris.
+equable,"ks. hampir tidak berubah, agak tetap sifatnya. e. climate iklim yang agak tetap sifatnya iklim yang mantap."
+equal,kb. sama. -ks. 1 sama. 2  sederajat. -kkt. 1 sama dengan . 2menyamai. -equally kk. sama-sama.
+equality,kb. (j. -ties) persamaan (hak).
+equalize,"kkt. menyamakan, meratakan,  menyerupakan."
+equanimity,kb. ketenangan hati.
+equate,kkt. menyamakan. to e. might with right menyamakan kekuasaan dengan hak.
+equation,"kb. persamaan, penyamaan."
+equator,kb. khattulistiwa.
+equatorial,ks. yang berhubungan dengan  khattulistiwa. E. Africa Afrika daerah khattulistiwa.
+equestrian,kb. seorang ahli penunggang kuda. -ks. yang berhubungan dengan penunggang kuda.
+equidistant,ks. sama jauhnya.  e. from sama jauhnya dari.
+equilateral,ks. sama sisi. e. triangle segitiga sama sisi.
+equilibrium,"kb. keseimbangan, kesetimbangan."
+equinox,kb. waktu siang dan malam sama lama.
+equip,"kkt. (equipped) memperlengkapi, melengkapi."
+equipment,"kb. perlengkapan, peralatan."
+equitable,"ks. pantas, patut, wajar, adil. an e. price for the house harga yang pantas untuk rumah itu."
+equity,"kb. (j. -ties) hak menurut keadilan, kewajaran, keadilan."
+equivalent,"kb. 1 padan. 2 padankata, perkataan yang sama artinya. -ks. sama dengan."
+equivocal,"ks. samar-samar, mempunyai dua arti  atau lebih, kurang tegas. He was e. in his reply Dia kurang tegas dalam menjawab pertanyaan itu."
+equivocate,"kki. 1 berdalih, mengelakkan pertanyaan. 2 berbohong dengan sengaja."
+era,"kb. tarikh, masa, zaman. the Christia E. Tarikh Masehi."
+eradicate,"kkt. 1 membasmi (malaria). 2 menghapuskan (ink). 3 mencabut, memberantas (weeds)."
+eradication,"kb. pembasmian, pemberantasan."
+eradicator,kb. 1 pembasmi. 2 alat/bahan penghapus tinta (of ink).
+erase,"kkt. menghapus, menhilangkan, mengikis. to e. sadness menghilangkan kesedihan."
+eraser,kb. 1 (backboard) (alat) penghapus. 2 (pencil) karet penghapus.
+erasure,kb. 1 penghapusan. 2 pengikisan.
+ere,"kd., ksam. sebelum, tidak lama, segera. We expect them e. long Kami harap mereka segera datang."
+erect,"ks. tegak, lurus. -kkt. 1 mendirikan, membangunkan. 2  memasang, menanam, menegakkan"
+erection,"kn. 1 pembangunan (of a building). 2 pemasangan, pemancangan, penegakan (of a pole)."
+ermine,kb. semacam cerpelai.
+erode,"kkt. mengikis dan menghanyutkan, melongsorkan. -kki. longsor, mengalami erosi."
+erosion,"kb. erosi, pengikisan, longsor."
+erotic,"ks. erotik, memberahikan, mendatangkan nafsu birahi."
+err,"kki. berbuat salah, keliru, khilaf."
+errand,"kb. pesanan, suruhan. Can you run an e. for me ?  Apakah kau bisa kusuruh ?"
+errata,lih  ERRATUM.
+erratic,"ks. tak menentu. 2 aneh. 3 berpindah-pindah, tak teratur."
+erratum,kb. (j. errata) kesalahan tulis atau cetak. list of errata daftar kesalahan-kesalahan.
+erroneous,"ks. salah, keliru. e. impression kesan yg salah."
+error,kb1. kesalahan 2 keliru tulis.
+erstwhile,ks. yg dahulu. my e. friends teman-teman saya dahulu.
+erudite,ks. terpelajar.
+erudition,kb. pengetahuan. a work of e. karya ilmiah.
+erupt,"kki. meletus, meledak ( of a volcano)."
+eruption,"kb1 letusan, ledakan. 2 pemunculan."
+erysipelas,kb. api luka
+escalate,"kkt. memperluas, menghebatkan, meningkatkan.-kki. naik, meninggi, mendaki."
+escalation,"kb.1 kenaikan, peningkatan. 2 Mil. : hal meluas."
+escalator,"kb. tangga bergerak/berjalan, eskalator."
+escapade,"kb. perbuatan, gila-gilaan. petualangan."
+escape,"kb. 1 jalan keluar.2 pelarian.3 hiburan.-kkt. 1 lepas dari, hilang.2 melepaskan/melarikan diri dari.3 luput dari.-kki.1 meloloskan diri dari penjara.2 keluar.3 lepas."
+escapee,kb. orang pelarian.
+escapism,kb. keadaan memasuki alam khayal/hiburan utk melupakan atau menghindari kenyataan-kenyataan yg tdk mengembirakan.
+escapist,kb. orang yg suka memasuki alam khayal atau yg lari dari kenyataan.
+escarpment,kb. lereng/tebing gunung yg curam.
+eschatology,kb. ilmu (ttg) akhirat.
+eschew,"kkt. mengelakkan, menjauhkan diri dari."
+escort,"kb. es'kart kkt./ kb. 1 pengantar, kawan 2 kawalan, pengawal.-kkt.1 mengantar(kan).2 mengiringi.3 menemani"
+escrow,kb. wasiat yg disimpan oleh pihak ketiga.
+escutcheon,kb. perisai yg berlukiskan lambang.
+eskimo,kb. Eskimo. E. dog  anjing Eskimo.
+esophagus,"kb. corong/pembuluh makanan yang menghubungkan mulut dengan perut, saluran makanan atas, kerongkongan."
+esoteric,ks. hanya diketahui dan dipahami oleh beberapa orang tertentu saja.
+espec,[especially] teristimewa.
+especial,especial
+esperanto,kb. (bahasa) Esperanto.
+espionage,"kb. spionase, pengintaian, soal memata-matai."
+esplanade,kb. taman/lapangan terbuka (tempat pesiar).
+espouse,"kkt. mendukung, menyertai. to e. unusual couses menyertai gerakan-gerakan yang aneh sekali."
+espresso,"kb. e. coffee sari kopi, kopi yang sangat keras, kopi pekat."
+esprit,"kb. jiwa, semangat. e. de corps rasa persatuan dalam kalangan tertentu, semangat korp."
+esq.,[esquire] tuan yang terhormat.
+esquire,kb. tuan yang terhormat (gelar).
+ess,"kb. huruf yang kesembilan belas dalam abjad Inggeris, huruf s."
+essay,"kb. 1 karangan, esei (sastra). 2 Acad.: skripsi. -kkt. mencoba, berusaha. We essayed a crossing of the river without success Kami mencoba menyebrangi sungai itu tanpa hasil."
+essayist,"kb. eseis, pengarang esei."
+essence,"kb. intisari, pokok. the e. of the matter intisari dari soal itu."
+essential,"kb. essentials j. 1 hal-hal yang perlu. 2 barang-barang yang perlu. 3 sifat-sifat dasar. -ks. esensiil, perlu sekali. -essentially  kk . pada dasarnya/pokoknya."
+est,[Eastern Standard Time] Waktu Tolok (Bagian) Timur.
+establish,"kkt. 1 mendirikan. 2 membuat. 3 menetapkan, menentukan. 4 menyusun. 5 membentuk (a corporation). 6 mengadakan, menentukan. 7 menegakkan. 8 membuka. 9 memperlihatkan, membuktikan. -established ks. yang tak dapat dipungkiri."
+establishment,"kb. 1 pendirian, penegakan. 2 pembukaan. 3 perusahaan. 4 pembuatan, pembentukan. The E. yang berkuasa, kekuasaan yang ada."
+estate,kb. perkebunan. 2 tingkat dalam hidup. 3 tanah. 4 tanah milik.
+esteem,"kb. penghargaan. to hold s.o. in high e. mempunyai penghargaan tinggi terhadap seseorang., menjunjung seseorang.  -kkt. menghargai. to e. good manners menghargai sopan santun. -esteemed  ks. mulia."
+esthete,kb. =  AESTHETE.
+esthetic,ks. = AESTHETIC.
+esthetics,kb. AESTHETICS.
+estimable,ks. patut dihargai. an e. young lawyer  pengacara muda yang patut dihargai.
+estimate,"kb. 1 perkiraan, kalkulasi, taksiran.  2 penilaian. -estimates j. anggaran belanja.  -kkt. menaksir."
+estimation,"kb. penilaian, pendapat. 2 perkiraan. 3 perhitungan, pengkalkulasian."
+estrange,kkt. 1 menjauhkan. 2 menjadi asing.
+estrangement,"kb. kerenggangan, pengasingan, pemisahan."
+estuary,"kb. (j. -ries) kuala, muara."
+eta,[Estimated Time  of Arrival] Perkiraan Waktu Tiba.
+etc.,"[et cetera] dsb, dll."
+etcetera,"dan sebagainya, dan lain-lain."
+etch,"kkt. mengetsa, menggores. The horror was etched on his mind Kengerian kejadian itu tertanam dalam ingatannya.-etching kb. 1 etsa. 2 pengetsaan. 3 penggoresan."
+etd,[Estimated Time of Departure] Perkiraan Waktu Berangkat.
+eternal,"ks. abadi, kekal. 2 terus-menerus.  -eternally kk. selalu.  Rhe children are e. fussing Anak-anak itu selalu ribut saja."
+eternity,"kb. (j. -ties) kekekalan, keabadian, kebakaan."
+ether,kb. eter.
+ethereal,ks. sangat halus/ringan.
+ethical,"ks. etis, pantas, layak, beradab, susila. Such procedures are not e. Cara-cara yang demikian itu tak pantas."
+ethics,"kb. etika, tata susila."
+ethiopian,kb. seorang Etiopia. -ks. yang berhubungan dengan Etiopia.
+ethnic,ks. kesukuan. e. group suku bangsa.
+ethnocentric,ks. etnosentris.
+ethnographer,kb. ahli etnografi.
+ethnography,kb. etnografi.
+ethnologist,kb. ahli bangsa-bangsa.
+ethnology,"kb. etnologi, ilmu bangsa-bangsa."
+ethos,kb. jiwa khas suatu bangsa.
+ethyl,kb. etil.
+etiology,kb. etiologi.
+etiquette,"kb. tatacara, etiket."
+etymology,"kb. ilmu asal kata, etimologi."
+eucharist,kb. ekaristi(a).
+eugenics,kb. egenetika.
+eulogize,"kkt. memuji, memuliakan."
+eulogy,kb. (j. -gies) pidato atau kata-kata pujian tentang seseorang  yang telah meninggal.
+eunuch,"kb. orang kasim, sida-sida."
+euphemism,"kb. ungkapan pelembut, pelembutan."
+euphony,kb. (j. -nies) sifat bunyi yang enak kedengarannya di telinga.
+euphoria,kb. perasaan senang dan bahagia rohani dan jasmani.
+eurasian,"kb., ks. orang Indo (-Eropa)."
+europe,kb. Eropa(h).
+european,"kb., ks. orang Eropa. E. countries negeri-negeri Eropa."
+eustachian,kb. E. tube pipa/pembuluh Eustachio
+euthanasia,kb. tindakan mematikan orang untuk meringankan penderitaan sekarat.
+evacuate,kkt. 1 mengungsikan (an area). 2 mengosongkan (bowels).  -kki. mengungsi.
+evacuation,kb. 1 pengungsian (of refugees). 2 pengosongan.
+evacuee,kb. pengungsi.
+evade,"kkt. menghindarkan, mengelakkan, menyingkiri. Don't e. the question Jangan mengelakkan pertanyaan itu."
+evaluate,"kkt. menilai, mengevaluasi, menaksir.  How would you e. this book ? Bagaimana penilaianmu terhadap buku ini ?."
+evaluation,"kb. evaluasi, penilaian,penaksiran."
+evaluator,"kb. penilai, juru taksir."
+evangelical,ks. evangelis.
+evangelism,kb. (pekerjaan) penyebaran agama Nasrani.
+evangelist,kb. pengabar Injil.
+evaporate,kkt. menguapkan. Heat evaporates water Panas menguapkan air. -kki. menguap. Water evaporates Air menguap. -evaporated  ks. yang di uapkan.
+evaporation,kb. penguapan.
+evasion,"kb. penghindaran, pengelakan, penyingkiran."
+evasive,"ks. bersifat mengelakkan, mengelak- elak. e. action tindakan yang mengelak."
+eve,kb. malam. New Year's  e. malam Tahun Baru. Eve  kb.(siti) hawa
+even,"ks. 1 rata, datar. 2 tetap, mantap. 3 seri. 4 genap. 5 lengkap. 6 tenang. 7 lurus, sejajar. 8 sama. 9 lunas. -kk. pun. -kkt. meratakan. -evenly  kk. kk. rata."
+evening,kb. malam. -evenings j. di waktu malam.
+evenness,"kb. sikap tidak memihak persamaan, keserasian, uniformitas, keadaan rata."
+event,"kb. 1 peristiwa, kejadian. 2 pertandingan, perlombaan. in the e. that sekiranya, seandainya."
+eventful,"ks. 1 penuh kejadian. 2 penting, luar biasa."
+eventide,"kb. senja, malam."
+eventual,ks. ks. (pada) akhirnya.  e. takeover by the insurgents pengambil-alih oleh pemberontak pada akhirnya. -eventually kb. akhirnya.
+ever,"kk. 1 pernah. 2 sesungguhnya. for e. and e. untuk selama-selamanya, abadi. e. and anon sekali-sekali. e. since 1 (selalu) sejak. 2 sejak waktu itu."
+evergreen,kb. pohon yang selalu berdaun hijau.
+everlasting,"ks. abadi, tetap, kekal. -everlastingly kk. senantiasa, selalu saja.  He's e. doing s.t. he shouldn't  Dia senantiasa berbuat sesuatu yang seharusnya tidak boleh dia kerjakan."
+every,"ks. (se)tiap, tiap-tiap. e. day tiap hari. Inf.: e. last tiap-tiap."
+everybody,"kg. semuanya, semua orang. Will e. please move to the rear ? Silahkan semuanya pindah kebelakang."
+everyday,ks. sehari-hari. e. accurrence peristiwa sehari-hari. e. clothes pakaian sehari-hari/pelasak.
+everyone,kg. tiap orang. e. and his brother setiap/semua orang.
+everything,"kg. segala sesuatu., segala-galanya."
+everywhere,kk. dimana-mana. I looked e. for you Saya mencari kamu dimana-mana.
+evict,"kkt. mengusir, mengeluarkan. to e. tenants mengusir penghuni-penghuni (rumah)."
+eviction,"kb. pengusiran, pengeluaran. e. notice surat pengusiran."
+evidence,"kb. 1 fakta-fakta. 2 bukti. 3 keterangan, tanda , petunjuk. conflicting e. keterangan yang saling bertentangan. -kkt. menunjukkan."
+evident,"ks. terang, jelas. It was e. that... Adalah terang (sekali) bahwa)... evidently kk. dengan terang. He was e. broke Teranglah bahwa kantongnya sedang kempes."
+evil,kb. kejahatan. -ks. ks. 1 jahat. 2 malang.  e. -minded ks. 1 berhati busuk. 2 (berpikiran) jahat.
+evildoer,"kb. orang jahat, penjahat."
+evince,kkt. menunjukkan dengan jelas. to e. interest in menunjukkan perhatian terhadap.
+evoke,"kkt. 1 menimbulkan, membangkitkan. to e. pleasant memories menimbulkan kenang - kenangan yang menyenangkan.   2 menyebabkan timbulnya.  to e. a smile menyebabkan senyum."
+evolution,"kb. evolusi, perkembangan."
+evolutionary,ks. evolusioner.
+evolve,"kkt. menyusun, memperkembangkan. -kki. berkembang."
+ewe,kb. biri-biri betina.
+ex officio,karena jabatan. ex officio member anggota (dewan) karena jabatannya.
+ex-,"aw. bekas, ex-soldier bekas prajurit."
+exact,"ks. 1 tepat. 2 persis, tepat. 3 eksakta. 4 seksama, terperinci, teliti. -kkt. 1 memeras. 2 meminta, memeras. 3 memerlukan, membutuhkan. -exacting ks. 1 sukar sekali, beret, sulit. 2 rewel. -exactly kk. 1 persisi, tepat, justru. 2 sebenarnya."
+exaggerate,"kkt. 1 membesar-besarkan, melebih-lebihkan. 2 melebih - lebihkan.  -kki. berlebih-lebihan. -exaggerated ks. dilebih-lebihkan, dibesar-besarkan, berlebih-lebihan."
+exaggeration,kb. pernyataan yang dilebih-lebihkan. It's no e. to say that ... Bukanlah sesuatu yang dibesar-besarkan kalau dikatakan bahwa....
+exalt,"kkt. mengangungkan, memuliakan, memuji-muji.  -exalted ks. agung, mulia. e. ruler penguasa yang agung."
+exam,inf.: = EXAMINATION.
+examination,"kb. 1 pemeriksaan, kir.  physical e. pemeriksaan badan. 2 ujian (in scholl)."
+examine,"kkt. 1 memeriksa (a patient, baggage, witness, record). 2 menguji (student)."
+examinee,"kb. penempuh ujian, orang yang diuji."
+examiner,"kb. 1 penguji. 2 pemeriksa (of customs, engine)."
+example,"kb. contoh, teladan.  for e., by way  of e. misalnya, umpamanya."
+exarbate,kkt. membuat lebih buruk. The medicine only exarbated the poin Obat itu hanya menambah rasa sakitnya saja.
+exasperate,"kkt. menjengkelkan, menyakiti hati, menggusarkan.  -exasperating. ks. yang menjengkelkan, yang mendongkolkan."
+exasperation,"kb. kejengkelan, kegusaran, kemarahan."
+exc.,"[excellent] 1 ulung, baik sekali, unggul  2  [except] kecuali. 3 [exception] kekecualian, pengecualian."
+excavate,kkt. menggali.
+excavation,kb. penggalian.
+excavator,kb. panggali (orang atau alat).
+exceed,"kkt. 1 melebihi. 2 melampaui, melewati. -exceedingly. kk. sangat, sekali. e. charming sangat menawan hati."
+excel,"kkt. (excelled) melampaui, mengatasi, melebihi, mengungguli. -kki. unggul."
+excellence,kb. 1 keunggulan. 2 mutu yang baik sekali. the e. of that coffee mutu kopi itu yang sangat baik.
+excellency,kb. (j. -cies) (Paduka) Yang Mulia.
+excellent,"ks. ulung, baik sekali, unggul."
+excelsior,"kb. ekselsior, terus semakin tinggi."
+except,"kd. kecuali. e. that kalau tidak. -kkt. mengecualikan. -excepting kd. kecuali. e. my brother kecuali saudara laki-lakiku, selain dari saudara laki-lakiku."
+exception,"kb. kekecualian, pengecualian. without e. tanpa kecuali."
+exceptional,"ks. luarbiasa,  sangat, sekali. to do e. work melakukan pekerjaan yang luarbiasa. -exceptionally kk. luarbiasa, sangat, sekali."
+excerpt,"kb. petikan, kutipan, kucilan. -kkt. mengutip, membuat petikan."
+excess,"kb. 1 kelebihan. 2 perbuatan yang keterlaluan, kewalahan. -ks. kelebihan. e. paint kelebihan cat."
+excessive,"ks. berkelebihan, terlalu banyak. The rent is e. Sewanya sangat tinggi."
+exchange,kb. 1 penukaran. 2 Fin.: kurs. 3 pertukaran. 4 kantor (pusat).  5 (stock) bursa. -kkt. 1 bertukar. 2 menukarkan. 3 bertukaran. 4 tukar-menukar. 5 saling memberi.
+exchangeable,ks. dapat ditukar(kan).
+exchequer,kb. bendahara.
+excise,"kb. pajak. e. on cigarettes pajak sigaret. -kkt. 1 memotong, mengeluarkan. 2 menghilangkan."
+excision,"kb. 1 pengeluaran, penghilangan, pemotongan (of a tumor). 2 pengucilan (of a church, club)."
+excitability,kb. sifat dapat dirangsang / digairahkan.
+excitable,ks. dapat dirangsang/ digugah. She is easily  e. Ia mudah sekali dapat dirangsang.
+excite,"kkt. membangkitkan gairah, menggairahkan.  -excited ks. 1 gembira. 2 gairah, kegairahan. 3 yang naik darah. 4 heboh. -exciting ks. 1 yang menggairahkan. 2 yang mengasyikkan."
+excitement,"kb. 1 kegembiraan. 2 kegemparan, kehebohan. 3 (stimulation) (pe)rangsangan."
+exclaim,kkt. berseru.  He exclaimed that... Ia menyerukan bahwa...  -kki. berseru.
+exclamation,kb. 1 seruan. 2 kata seru. e. point tanda seru.
+exclamatory,ks. secara berseru. e. sentence kalimat seru.
+exclude,"kkt. 1 mengeluarkan, melarang masuk. Nonmembers are excluded from admission Mereka yang bukan anggauta  dilarang masuk. 2 meniadakan."
+exclusion,kb. pengeluaran.e. of material pengeluaran bahan.
+exclusive,"ks. ekslusip, sendirian, dengan tidak disertai yang lain, terpisah dengan yang lain.  -exclusively  kk. semata- mata.  for official use e. hanya untuk kepentingan kantor semata-mata."
+excommunicate,kkt. mengucilkan.
+excommunication,kb. pengucilan.
+excoriate,"kkt. mencela, mengeritik."
+excrement,"kb. kotoran badan, benda najis, benda-buang."
+excrete,kkt. mengeluarkan (a fluid).
+excretion,kb. 1 pengeluaran. 2 (sweat) kotoran badan.
+excruciate,"kkt. menyiksa.  -ex-cruciating ks. mengerikan. -excruciatingly kk. bukan main, luar biasa."
+excursion,"kb. 1 darmawisata, pesiar, ekskursi.  e. boat kapal pesiar. 2 penyimpangan (dari pokok persoalan)."
+excuse,"kb. 1 alasan. 2 pernyataan menyesal, pernyataan maaf. -kkt. memaafkan. 2 membebaskan. 3 meminta maaf/permisi."
+excute,"kkt.  1 menjalankan, melaksanakan. 2 melaksanakan, melakukan.  3 membuat, mengerjakan menurut rencana. 4 menghukum mati, menjalankan hukuman mati."
+execrable,"ks. buruk sekali, benar-benar terlalu /keterlaluan. Her Dutch is e. Bahasa Belandanya buruk sekali."
+execution,"kb. 1 pelaksanaan.  2 Law : menghukum mati, pelaksanaan hukum mati. 3 pembuatan . 4 penandatanganan, pengesahan / pengabsahan dengan penandatanganan."
+executioner,kb. algojo.
+executive,"kb. pelaksana, eksekutip, laksanawan (of a firm).  -ks. 1 eksekutip. 2 pelaksana. e. board meeting rapat kepala-kepala bagian."
+executor,"kb. wali, pengawas seseorang yang dalam surat wasiat ditunjuk sebagai pelaksana dari ketentuan-ketentuan dalam surat wasiat."
+executrix,kb. wali wanita.
+exegesis,"kb. penjelasan, penafsiran."
+exemplary,ks. patut dicontoh. e. behavior  kelakuan yang patut dicontoh.
+exemplification,kb. 1 pemberian contoh. 2 contoh.
+exemplify,kkt. (exemplified) 1 memberikan contoh. 2 menunjukkan. His manners e. his breeding Tingkah lakunya menunjukkan didikannya.
+exempt,"ks. dibebaskan. e. from taking examinations dibebaskan dari ujian. -kkt. membebaskan, mengecualikan."
+exemption,"kb. 1 pembebasan.  e. from military duty pembebasan dari dinas militer. 2 pengecualian, potongan (for income tax purposes)."
+exercise,"kb. 1 gerak badan. 2 latihan. 3 penggunaan, penghikmatan.  -kkt. 1 menggunakan (a right, duty). 2 menjalankan, melakukan. 3 mengadakan. 4 meminta perhatian. -kki. bergerak badan."
+exert,"kkt. menggunakan, mendesak. to e. pressure menggunakan tekanan."
+exertion,"kb. 1 penggunaan, penyelenggaraan. 2 pemerasan / pengerahan tenaga, usaha."
+exfoliation,kb. pengelupasan kulit.
+exhalation,kb. pernapasan keluar.
+exhale,"kkt. mengeluarkan (dengan bernafas), menghembuskan. to e. air from the lungs mengeluarkan udara dari paru-paru. -kki. mengeluarkan napas."
+exhaust,"kb. tempat atau alat pembuangan uap atau gas. -kkt.  1 meletihkan, menghabiskan tenaga. 2 melemahkan.  3 menanduskan.  4 menyelesaikan.  -exhausted ks. 1 kehabisan tenaga, sangat letih. 2 habis, terpakai. -exhausting ks. meletihkan, melelahkan."
+exhaustion,"kb. kelelahan, keletihan, kepayahan. to be in a state  of e. dalam keadaan sangat lelah."
+exhaustive,"ks. yang mendalam, lengkap. e. search penyelidikan yang mendalam."
+exhibit,"exhibit , kb.pameran"
+exhibition,"kb. pameran, pertunjukan. He gave e. of temper Ia memperlihatkan kemarahan yang besar sekali."
+exhibitionist,kb. orang yang suka sekali memperlihatkan kecakapan-kecakapannya.
+exhilarate,"kkt. meriangkan, menggembirakan. The atmosphere exhilarated us Suasananya meriangkan kami. -exhilarating ks. yang menyegarkan, yang meriangkan."
+exhilaration,"kb. keriangan, kegembiraan."
+exhort,kkt. mendesak. to e. s.o. to greater efforts mendesak seseorang untuk berusaha lebih keras.
+exhortation,"kb. 1 desakan. 2 nasihat, peringatan."
+exhume,kkt. menggali (dari kuburan).
+exigency,"kb. (j. -cies) urgensi, keadaan darurat."
+exile,"kb. 1 pembuangan, pengasingan. 2 orang buangan. He was sent into e. Dia dibuang. Dia diasingkan. -kkt. mengasingkan, membuang."
+exist,kkt. 1 ada. 2 hidup.- existing ks. yang ada. in e. circumstances dalam keadaan demikian.
+existence,"kb. 1 adanya.  to be aware of its e.  sadar akan adanya. 2 kehidupan, keadaan hidup. to come into e. menjelma, menjadi ada."
+existential,ks. eksistensial.
+existentialism,kb. eksistensialisme.
+exit,"kb. (jalan) keluar. to make a hasty e. keluar dengan cepat. -kkt. keluar, pergi, meninggalkan."
+exodus,kb. 1 kepergian banyak orang. the June e. from school kepergian anak- anak dari sekolah dalam bulan  Juni. 2 Bible : Keluaran.
+exogamy,"kb. eksogami, perkawinan diluar suku, perkawinan campuran."
+exonerate,"kkt. membebaskan dari tuduhan/celaan, membuktikan tidak bersalah."
+exorbitant,ks. melebihi yang biasa. e. price for a house harga yang terlalu tinggi untuk sebuah  rumah.
+exorcise,"kkt. mengusir setan, membebaskan dari roh jahat. to e. a  spirit from s.o. mengusir roh jahat dari tubuh seseorang, membebaskan seseorang dari roh jahat."
+exotic,"ks.  aneh-aneh, luar biasa, asing. e. dishes makanan-makanan yang aneh-aneh, makanan dari negeri asing."
+expand,"kkt. memperluas, mengembangkan. to e. a business memperluas perusahaan. -kki. mengembang, meluas, memuai. -expanding ks. yang mengembang/berkembang."
+expandable,ks. dapat diperluas/di(per)kembangkan.
+expanse,kb. suatu ruang/bidang/permukaan yang luas. An ocean is a large e. of water Samudera adalah permukaan air yang luas.
+expansion,"kb. 1 perluasan (of business). 2 pengembangan, pemuaian (of ballon, metal). 3 ekspansi."
+expansive,ks. 1 luas. 2 meluap-luap. He's in on e. mood  Perasaannya meluap-luap.
+expatiate,kki. mengarang/bercakap dengan panjang-- lebar.
+expatriate,"kb., ks. seorang yang melepas kewarganegaraannya. e. writer penulis dalam pengasingan. -kkt. 1 meninggalkan negeri asalnya. 2 mengusir, membuang (dari negeri asalnya)."
+expect,kkt. 1 mengharapkan. to e. him home tonight mengharapkan dia pulang malam ini.  2 menyangka.  3 mengira. What did you e. me to do ? Apa yang kau kira akan saya perbuat/lakukan ?
+expectancy,"kb. (j. -cies) 1 pengharapan. 2 harapan. life e. harapan lamanya orang hidup, harapan panjangnya umur seseorang."
+expectant,"ks. 1 yang mengandung harapan.  an e. smile senyuman yang mengandung harapan. 2 yang sedang mengandung, hamil. e. mother ibu yang sedang mengandung."
+expectation,"kb. (peng) harapan, dugaan. beyond expectations diluar dugaan."
+expectorate,kki. meludah.
+expediency,"kb. (j. -cies) keadaan yang layak, kelayakan, kebijaksanaan, kemanfaatan, kegunaan."
+expedient,kb. jalan yang berguna sekali. -ks. bijaksana. to take an e. course mengambil jalan yang bijaksana.
+expedite,"kkt. mempercepat, melancarkan.  It will e. matters if we cooperate Dengan bekerja sama kita akan menyelesaikan hal-hal lebih cepat."
+expediter,kb. ekspeditur.
+expedition,kb. 1 ekspedisi. 2 kecepatan.
+expeditious,"ks. 1 cara terbaik, tepat guna. 2 cepat."
+expel,"kkt. (expelled) 1 mengeluarkan, memaksa keluar. 2 mengeluarkan, menghembuskan. 3 membuang (from society group)."
+expend,"kkt. 1 mengeluarkan, membelanjakan to e. money mengeluarkan uang. 2 mencurahkan. to e. time on a project mencurahkan waktu untuk suatu rencana."
+expendable,ks. dapat dihabiskan.
+expenditure,"kb. pengeluaran, belanja."
+expense,"kb. biaya, ongkos. at the e. of 1 atas biaya. 2 dengan mengorbankan. -expenses j. ongkos-ongkos, pengeluaran-pengeluaran."
+expensive,ks. mahal.
+experience,kb. pengalaman. -kkt. mengalami. -experienced ks. berpengalaman. He is e. in reporting Ia sudah berpengalaman sebagai wartawan.
+experiment,"kb. percobaan, eksperimen.  e. station balai percobaan/penyelidikan.  -kki. mengadakan percobaan (on/with dengan)."
+experimental,ks. bersifat percobaan. e project proyek percobaan.
+experimentation,"kb. (pelaksanaan suatu) percobaan, pencobaan."
+expert,kb. ahli.    to call in an e. minta nasehat seorang ahli. -ks. ahli. e. advice nasehat seorang ahli.
+expertise,kb. keahlian.
+expiration,"kb. 1 waktu berakhir.  e. date on an insurance policy tanggal berakhirnya polis asuransi. 2 penghembusan nafas terakhir, mati, meninggal."
+expire,"kki. 1 berakhir, habis waktunya.  The policy has expired Polis itu telah berakhir. 2 (die) meninggal. -expired ks. daluwarsa (of a policy, treaty, contract)."
+expiry,"kb. (j. -ries) waktu berakhir, habis waktu."
+explain,"kkt. menerangkan, menjelaskan. to e. away  menghilangkan dengan memberi alasan."
+explanation,"kb. keterangan, penjelasan. We owe an e. for... Kita perlu memberi keterangan tentang..."
+explanatory,ks. bersifat menjelaskan. to provide some e. remarks memberikan keterangan-keterangan yang bersifat mejelaskan.
+expletive,"kb. 1 kata seru/lontaran. 2 kata yang tak ada artinya, kata pengisi."
+explicit,"ks. 1 tegas, eksplisit.  2 jelas.  -explicitly kk. dengan tegas, secara eksplisit."
+explode,"kkt. meledakkan, meletuskan (dynamite).  -kki. 1 meledak, meletus. 2 marah sekali."
+exploit,"kb. perbuatan yang berani/luarbiasa. -kkt. 1 mengeksploitir (s.o.). 2 mengeksploitasi, memanfaatkan. to e. the mineral resources mengeksploitasi sumber-sumber mineral."
+exploitation,"kb. eksploitasi, pengharapan, pemerasan."
+exploration,"kb. eksplorasi, penjelajahan."
+exploratory,"kb. yang berhubungan dengan penyelidikan untuk suatu penemuan. e. talks pembicaraan mengenai usaha-usaha penyelidikan, pembicaraan bersifat penyelidikan."
+explore,"kkt. 1 menjelajahi (an island, cave). 2 menyelidiki (opportunies). 3 memeriksa (a wound). -kki.  mengadakan penyelidikan.  to e. for uranium mengadakan penyelidikan untuk menemukan uranium."
+explorer,kb. penjelajah.
+explosion,"kb. letusan, ledakan, letupan. e. of anger kemarahan yang meledak."
+explosive,kb. 1 bahan peledak. 2 Phon.: bunyi eksplosif. -ks. bersifat meledak. e. temper sifat orang yang suka marah dengan tiba-tiba.
+exponent,"kb. 1 orang yang menerangkan/menguraikan. 2 eksponen, pangkat dalam aljabar. 3 contoh, lambang."
+exponential,ks. yang berhubungan dengan eksponen aljabar. e. curve garis lengkung yang tergantung dari suatu fungsi eksponen.
+export,kb. (bahan) ekspor. -kkt. mengekspor.
+exporter,kb. eksportir.
+expose,"kkt. 1 membuka, menyingkapkan terhadap cahaya (film). 2 membongkar. -exposed ks. yang tidak tersembunyi/terlindung. e. to the air kena udara, terbuka terhadap udara."
+expose`,"kb. pembongkaran, pembeberan."
+exposition,"kb. 1 (exhibit) pameran, pertunjukan, eksposisi. 2 penjelasan yang terperinci. 3 karangan yang menjelaskan sesuatu proses atau gagasan, perawian."
+expostulate,"kki. 1 bertukar pikiran dengan sungguh-sungguh. 2 berbantah, membantah"
+expostulation,kb. 1 peringatan. 2 bujukan.
+exposure,"kb. 1 pembukaan. 2 kedapatan, pembongkaran. 3 pencahayaan (of film). e. meter  meteran cahaya pada alat pemotret."
+expound,kkt. menjelaskan/menguraikan secara terperinci.
+express,"kb. kereta api kilat. -ks. 1 kilat. 2 jelas, tegas, tepat. -kk. dengan ekspres.  -kkt. 1 menyatakan, mengutarakan, mengungkapkan. 2 memperlihatkan. 3 menandakan. 4 mengirimkan dengan ekspres. 5  mengucapkan, menyatakan. 6 menyampaikan."
+expression,"kb. 1 ungkapan, ucapan. 2 pernyataan. 3 perasaan, ekspresi. 4 tanda, lambang."
+expressive,ks. bersifat menyatakan perasaan. Her face was e. of her feelings Mukanyamembayangkan perasaan-perasaannya.
+expressly,kk. 1 dengan jelas. 2 (dengan) sengaja.He went e. to avoid you Ia sengaja pergi untuk menghindari kamu.
+expressman,kb. (j. -men). petugas (cepat) pada perusahaan pengiriman barang-barang dengan cepat.
+expressway,kb. jalan raya untuk lalu lintas kendaraan cepat.
+expropriate,kkt. mengambil alih. The government expropriated the firm Pemerintah mengambil alih perusahaan itu.
+expropriation,kb. pengambilan alih.
+expulsion,"kb. 1 pengusiran (from school). 2 pengenyahan, pengeluaran dengan paksa (of undersirables)."
+expunge,"kkt. menghapus, menghilangkan, mencoret.  E. those remarks from the court record Hapuslah pernyataan-pernyataan itu dari catatan pengadilan."
+expurgate,"kkt. menghilangkan bagian-bagian atau kata-kata yang tidak patut (dari buku, surat dsb).   expurgated  version versi yang telah banyak dihilangkan bagian-bagiannya yang tidak patut."
+exquisite,"ks. 1 indah sekali, sangat elok.  2 halus sekali. 3 hebat sekali. -exquisitely kk. dengan sangat indah, secara halus."
+exsistent,ks.  =  EXISTING.
+ext.,1 [extension] sambungan. 2 [external] ekstern/luar. 3 [extra] ekstra/tambahan.
+extant,ks. (masih) ada. His manuscripts are still e. Naskah-naskahnya masih ada.
+extemporaneous,ks. yang dilakukan tanpa persiapan. e. speech pidato yang diucapkan tanpa persiapan.
+extend,"kkt. 1 memperpanjang (a visa, ladder, vacation. 2 menyampaikan. 3 mengulurkan. 4 memberikan. 5 memperluas. -kki. sampai. extended ks. secara luas, diperpanjang."
+extension,"kb. 1 perpanjangan (time, visa). 2 perluasan. e. cord kawat sambungan, kabel penyambung."
+extensive,ks. luas. e. search pencaharian yang luas.
+extent,kb. 1 luas. e. of the plain luas dari dataran itu.   2 tingkat. The e.  of the crime is still not known Tingkat kejahatan itu belum lagi diketahui.
+extenuate,"kkt. memperlunak, memperingan. -extenuating ks. yang meringankan. e. circumstances keadaan-keadaan yang meringankan."
+exterior,kb. 1 bagian luar. e. of a house bagian luar rumah. 2 lahirnya. He has  a severe e. Ia pada lahirnya seorang yang keras. -ks. (sebelah) luar.e. angle sudut luar.
+exterminate,"kkt. membasmi,  memusnahkan. to e. mosquitoes  membasmi nyamuk."
+extermination,"kb. pembasmian nyamuk, pemusnahan."
+exterminator,kb. 1 pembasmi. 2 (instrument) alat pembasmi.
+external,"kb. externals j. rupa, keadaan luar. -ks. 1 luar. e. ear telinga luar. 2 luar negeri. e. affairs urusan-urusan luar negeri."
+extinct,"ks. 1 padam. The fire is e. Api itu telah padam. 2 mati. The cigarette is e. Rokok itu mati. 3 punah, hilang. an e. animal binatang yang punah."
+extinction,"kb.  1 pemadaman (of lights). 2 pematian (of cigarette). 3 kepunahan, punahnya (of species)."
+extinguish,kkt. 1 memadamkan. to e. a flame memadamkan api. 2 mematikan. to e. the lights mematikan lampu.
+extinguisher,kb. alat pemadam. fire e. alat pemadam api.
+extol,kkt. memuji. to e. her beauty to the skies memuji kecantikannya setinggi langit.
+extort,kkt. memeras. to e. money from s.o. memeras uang dari seseorang.
+extortion,"kb. pemerasan, penghisapan."
+extortioner,kb. pemeras.
+extortionist,kb. pemeras.
+extra,"kb. 1 edisi tambahan (of a newspaper). 2 Film : figuran. -extras j. pengeluaran-pengeluaran tambahan. -ks. ekstra, tambahan. kk. istimewa."
+extract,"kb. sari, kutipan. -kkt. 1 mencabut (a tooth). 2 menyadap (sap from trees). 3 menyuling. 4 mengeduk, menggali. 5 memeras, memaksakan. e. of vinegar  biang cuka."
+extraction,kb.1 pencabutan (of tooth). 2 keturunan. of Polish e. keturunan Polandia.
+extractive,ks. yang dikeduk/digali. e. industries industri yang menghasilkan bahan-bahan baku.
+extracurricular,ks. diluar rencana pelajaran. e. activities aktivitas ekstrakurikuler
+extradite,kkt. menyerahkan. to e. a prisoner to a neighboring state menyerahkan seorang tawanan kepada negara bagian tetangga.
+extradition,kb. penyerahan tawanan.
+extramural,ks. diluar sekolah. e. sports olahraga diluar sekolah.
+extraneous,ks. 1 yang tak ada hubungannya. e. remarks ucapan-ucapan yang tak ada hubungannya. 2 asing (matter).
+extraordinary,ks. luarbiasa. He has an e. capacity for food Ia luar biasa kuatnya makan. extraordinarily kk. secara luar biasa.  His remarks proved to be effective Pernyataannya ternyata luarbiasa tepatnya.
+extrapolate,kkt. kki. memperhitungkan/meramalkan kemungkinan. to e. from the reactions received meramalkan kemungkinan atas dasar reaksi-reaksi yang diterima.
+extrapolation,"kb. ramalan, perhitungan."
+extrasensory,ks. diluar jangkauan/tanggapan normal pencaindra. e. perception tanggapan diluar pancaindra.
+extraterritoriality,kb.keadaan atau hal mempunyai hak-hak ekstraterritorial.
+extravagance,"kb. 1 keroyalan, pemborosan. 2 yang berlebih-lebihan. the e. of some advertising beberapa periklanan yang berlebih-lebihan."
+extravagant,"ks. ks. boros, royal. 2 luarbiasa. 3 yang berlebih-lebihan (praise). -extravagantly kk. secara mewah sekali."
+extravaganza,kb. pertunjukan (musik) yang hebat sekali.
+extreme,"kb. perbedaan yang besar. in the e. sangat, sungguh-sungguh. -ks. 1 ekstrim, ekstrem.  2 hebat sekali, bukan main/buatan. 3 keras. 4 bukan main. 5 tertinggi. e. penalty hukum mati. -extremely kk. luarbiasa, sekali."
+extremist,kb. ekstremis.
+extremity,kb. (j. -ties) 1 kaki  dan tangan. His lower extremisties were  burned Kakinya terbakar. 2 kebutuhan yang sangat.
+extricate,kkt. melepaskan. to e. a child from a fence melepaskan anak dari pagar.
+extrovert,kb. orang yang mementingkan hal-hal lahir.
+exuberance,"kb. 1 kegembiraan yang besar sekali. 2 kesuburan, kerimbunan. e. of foliage kesuburan daun-daunan."
+exuberant,"ks.1 gembira sekali. 2 banyak sekali. 3 subur, rimbun."
+exude,"kkt. 1 memancarkan (confidence, sweetness). 2 menetes (sweat)."
+exult,kki. bersuka-ria. to e. in o's good fortune bersuka-ria karena bernasib baik.
+exultant,"ks. gembira, yang menunjukkan kegembiraan. e. shout sorak/seruan/teriakan gembira."
+exultation,kb. kegembiraan yang meluap-luap.
+eye,"kb. mata.  without batting an e. tanpa memejamkan sebelah matapun. -kkt. 1 memandang. 2 mempertimbangkan.  eye-catching ks. menyolok, menarik (perhatian).  e. opener 1 sesuatu yang tidak disangka-sangka. 2 yang menakjubkan."
+eyeball,"kb. biji/bola mata, mata-bola."
+eyebrow,kb. alis mata. to raise an e. at s.t. heran ketika melihat atau mendengar sesuatu.
+eyedropper,kb. (pompa) penetes mata.
+eyeful,"kb. sebanyak yang dapat dilihat oleh mata pada satu ketika. She presented quite an e. in her new outfit Dia sedap, dipandang dalam pakaian barunya."
+eyeglasses,"kb. j. kacamata, tesmak."
+eyelash,kb. bulumata. Our team lost by an e. Regu kami kalah tipis.
+eyelet,kb. lubang tali (seperti pada sepatu).
+eyelid,kb. kelopak mata.
+eyepatch,kb. tutup mata.
+eyepiece,kb. lensa mata. e. on a microscope lensa mata pada mikroskop.
+eyeshade,eyeshade
+eyesight,kb. penglihatan. to have good  e. mempunyai penglihatan yang baik.
+eyesore,kb. yang merusak pemandangan. That  house is an e. Rumah itu merusak pemandangan.
+eyestrain,kb. kelelahan/ketegangan mata.
+eyetooth,"kb. gigi taring disebelah atas.  to cut o's e. yang tidak hijau lagi, melampaui masa  kekanak-kanakan."
+eyewash,kb. obat  cuci mata. Sl.: What he said  was pure e. Apa yang    dikatakannya itu  omong kosong belaka.
+eyewitness,"kb. saksi mata, saksi yang melihat dengan mata sendiri. to give on e. account memberi laporan pandangan mata."
 ,
 ,
 ,

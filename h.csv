@@ -1,797 +1,797 @@
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+"h, h",kb. 1 huruf yang kedelapan dari abjad Inggris. 2 setiap bunyi yang digambarkan dengan huruf ini. H-bomb bom zat air.
+h.i.,[Hawaiian Island] Kepulauan Hawaii.
+h.p. hp,[housepower] daya kuda.
+"h.q., hq",(headquarters) Markas Besar.
+"h.r., h. res., hr",[House of Reprensetatives] Dewan Perwakilan Rakyat A.S.
+h.r.h.,[His or Her Royal Highness] P.J.M. [Paduka yang Mulia].
+ha,"kseru. ha ! (menyatakan keheranan, kecurigaan, keriangan)."
+habeas corpus,kb. hak untuk diperiksa dimuka hakim.
+haberdasher,kb. penjual pakaian laki-laki.
+haberdashery,kb. (j. -ries) toko pakaian laki-laki.
+habit,kb. 1 kebiasaan.  I'm in the h. of getting up early Kebiasaan saya bangun pagi-pagi benar. 2 pakaian. riding h. pakaian naik kuda. habit-forming ks. yang mencandukan.
+habitat,kb. tempat kediaman/tinggal.
+habitation,kb. tempat tinggal. fit for h. cocok/layak untuk dijadikan tempat tinggal.
+habitual,ks. yang dilakukan karena kebiasaan. He's a h. criminal Dia sudah biasa menjadi pejahat. a h. reader seorang yang sudah membiasakan diri membaca.
+habitue,"kb. penggemar, pencandu."
+hack,"kb. 1 orang yang diupah untuk mengerjakan kerja-kerja kesusasteraan. 2 Inf.: taksi. -kkt. 1 menetak. memakuk, memarang. 2 melukai seseorang dengan kasar. Sl.: to h. around ngeluyur. hacking cough batuk pendek."
+hackles,"kb., j. kecurigaan, kemarahan/kegusaran. Inf.: to raise s.o's hackles menimbulkan/membangkitkan kegusaran seseorang."
+hackneyed,"ks. sudah usang, sudah basi. h. phrase kalimat yang sudah usang."
+hacksaw,kb. gergaji logam/besi.
+hackwork,"kb. pekerjaan yang bermutu rendah, karangan picisan, pekerjaan yang bersifat buru-buru."
+had,lih  HAVE.
+haddock,kb. semacam ikan di Atlantik Utara.
+hades,"kb. alam barzach, neraka."
+hadn't,[had not] lih  HAVE.
+hag,kb. seorang wanita tua yang rupanya sangat jelek (dan hatinya biasanya busuk).
+haggard,ks. kurus dan cekung.
+haggle,kki. tawar-menawar. to h. over prices tawar-menawar mengenai harga.
+hagridden,"ks. kemasukan setan, suka ngawur."
+hail,"kb. 1 hujan batu es. 2 hujan (of bullets). -kkt. 1 berteriak kepada. 2 mengelu-elukan (the winner). 3 memanggil(kan) (a cab). 4 menerima, menyambut. 5 menghujani. -kki. hujan (batu) es. to h. from berasal dari. Sl.: H. Columbia teguran, celaan."
+hailstone,kb. batu hujan es.
+hailstorm,kb. hujan es disertai angin ribut.
+hair,"kb. rambut, bulu. to do o's hair merias rambut. hair -raising ks. mengerikan, menakutkan. h. shirt kemeja kasar terbikin dari bulu kuda. h. restorer obat menumbuhkan rambut. h. stylist ahli penata/rias rambut."
+hairbreadth,"kb nyaris, sangat sempit. to have a h. escape from death nyaris mati."
+hairbrush,kb. sikat rambut.
+haircut,"kb. potong/pangkas rambut. to get a h. memotong rambut, berpangkas."
+hairdo,"kb. cara susunan rambut, tata/rias rambut."
+hairdresser,"kb. ahli rias rambut wanita, penata rambut."
+hairiness,kb. keadaan berbulu.
+hairline,kb. batas tumbuh rambut di kepala.
+hairpiece,kb. rambut palsu.
+hairpin,"kb. jepit rambut. 2 tusuk konde, pasak sanggul. h. curve tikungan tajam."
+hairsplitting,kb. amat/terlampau teliti.
+hairy,ks. berbulu. hair-chested ks. berbulu dada.
+halcyon,"ks. tenang dan damai, bahagia. h. day hari-hari yang tenang dan damai."
+hale,"ks. kuat dan sehat. h. and hearty sehat dan segar, sehat wal'afiat. -kkt. memaksa pergi."
+half,"kb. (j.halves). 1 paruhan, separuh. 2 tengah. 3 separuh. 4 Sport : babak. -ks., kk  setengah.  half-and-half ks. campuran. Inf.: half-baked ks. setengah matang. half-blooded ks. peranakan. half-hearted ks. ragu-ragu, tanggung-tanggung."
+halfback,ksb. gelandang tengah (soccer).
+halfway,kk. separuh jalan. We are h. there Kita sudah separuh jalan kesana.
+halibut,kb. semacam ikan perak.
+halitosis,"kb. nafas berbau, mulut busuk."
+hall,kb. 1 ruang(an)  the front h. ruang depan. 2 aula/ruang. 3 gang. h. of justice gedung pengadilan.
+hallelujah,ks. 1 pujian kepada Tuhan (Kristen). 2 nyanyian pujaan untuk Tuhan.
+hallmark,kb. tanda (resmi). Politeness is the h. of a gentleman Kesopanan adalah tanda orang yang berbudi.
+hallow,"kkt. menyucikan, mempersucikan. Hallowed be Thy name Sucikan namaMu. -hallowed ks. keramat. h. ground tanah keramat, tanah yang suci."
+hallowe'en,kb. malam 31 Oktober.
+hallucination,"kb. (peng)khayalan, minyak, maya."
+hallway,kb. 1 gang. 2 (entrance) ruang masuk.
+halo,"kb. 1 lingkaran cahaya, pagar bulan. (around moon). 2 lingkaran kekeramatan. She seems to wear a h. Dia seakan-akan memakai mahkota keagungan."
+halt,"kb. penghentian, perhentian.  to call a h. memberhentikan.-kkt. memberhentikan. -kki. berhenti. -halting ks. terhenti-henti, tertegun-tegun His speech is h. Dia  berbicara terputus-putus."
+halter,"kb. tali leher kuda. 2 oto, pakaian penutup dada, diikatkan pada belakang leher dan punggung."
+halve,kkt. membagi dua. I'll h. this candy bar with you Saya akan membagi dua batang gula-gula ini dengan kau.
+halves,lih  HALF.
+ham,kb. 1 daging (paha) babi (yang biasanya diasinkan).  2 Sl.: pemain sandiwara yang jelek. 3 Sl.: pelayan radio amatir. -kkt. (hammed) Sl.: to h. it up bermain berlebih-lebihan.
+hamburger,kb. 1 perkedel daging. 2 (sandwich) roti pakai perkedel daging.
+hamlet,kb. dusun kecil.
+hammer,"kb. palu, martil. -kkt. memalukan, memukul. -kki. to h. at menekankan kepada. -hammered ks. tempaan, yang sudah ditempa. h. metal logam yang sudah ditempa. -hammering kb. pukulan palu."
+hammock,"kb. tempat tidur gantung, buaian."
+hamper,kb. keranjang. clothes h. keranjang pakaian. -kkt. 1 menghambat (progress).  to be hampered without a car terhambat karena tidak ada mobil. 2 merintangi. Heavy rains hampered rescue efforts Hujan-hujan lebat merintangi usaha-usaha pertolongan.
+hamster,kb. semacam tupai.
+hamstring,"kb. urat-urat lutut. -kkt. (hamstrung) 1 melumpuhkan, memotong."
+hand,"kb. 1 tangan. 2 Agri.: buruh tani. 3 Nau.: anak kapal. 4 Bridge : susunan kartu. 5 sisi. 6 (measure) empat inci (lebar tangan). 7 jarum (of watch, clock). 8 tulisan tangan. 9 (applause) tepukan tangan. 10 sisir, tandan."
+handbag,kb. tas (tangan).
+handball,kb. bola tangan.
+handbill,kb. surat sebaran/edaran.
+handbook,"kb. buku penuntun, pedoman."
+handclasp,kb. jabatan tangan (yang hangat).
+handcuff,"kb. belenggu, borgol, gari. -kkt. membelenggu, memborgol."
+handful,kb. 1 segenggam. by the h. segenggam/bergenggam-genggam.  2 orang yang sukar diurus. 3 sedikit. Only a h. attended the rally Hanya sedikit orang menghadiri rapat itu.
+handicap,"kb. 1 rintangn, sesuatu yang merugikan. 2  Golf : handikap. -kkt. (handicapped) menghalangi, merintangi. -the physically handicapped orang-orang yang cacat jasmaniah. ks. cacat. h. child anak cacat."
+handicraft,kb. pertukangan/kerajinan/ keprigelan/ketrampilan tangan.
+handily,lih  HANDY.
+handiness,"kb. ketangkasan, kecekatan, ketrampilan."
+handiwork,kb. 1 pekerjaan tangan. 2 hasil perbuatan.
+handkerchief,kb. saputangan.
+handle,"kb. 1 tangkai (of a broom, spoon). 2 pegangan (of a bag, basket). 3 gagang (of a knife, tennis racket). 4 Sl.: nama, gelar, pangkat. -kki. dikemudikan. -handling kb. 1 pemeliharaan, perawatan, perlakuan. 2 penanganan (of a case)."
+handmade,ks. buatan/karya tangan. That tablecloth is h. Taplak meja itu dibuat dengan tangan.
+handout,"kb. Inf.: 1 sedekah, pemberian. 2 (news story) berita surat selebaran."
+handrail,kb. susuran tangan/tangga.
+handsaw,kb. gergaji tangan.
+handshake,kb. jabatan tangan.
+handsome,"ks. 1 ganteng, gagah, tampan, rupawan. 2 bagus, banyak. 3 cantik."
+handspring,"kb. jengkelit, jengkolet, jempalit. to do a h. menjengkelit."
+handstand,"kb. jungkir. to do a h. menjungkir, berdiri diatas tangan."
+handwringer,kb. orang putus asa.
+handwriting,kb. tulisan tangan. h. on the wall alamat buruk.
+handy,"ks. 1 cekatan, ringan tangan. 2 berguna. 3 dekat. -handily kk. dengan mudah."
+handyman,kb. (j. -men) tukang.
+hang,"kb. cara bergantung.-kkt. (hung;hanged kalau dihukum mati). 1 menggantung. 2 menggantungkan 3 menundukkan (o's head). 4 melekatkan, menempelkan. (wallpaper). -hanging kb. 1 mati di gantungan, hukuman gantung. 2 hiasan yang digantungkan."
+hangar,kb. (h) anggar.
+hangdog,"ks. malu, hina. He has a h. look Mukanya suram."
+hanger,kb. gantungan. hanger-on kb. (j. hangers-on) pengikut-pengikut.
+hangker,"kki. ingin sekali, rindu. to h. after ingin sekali, menginginkan sangat, rindu sekali. -hangkering kb. keinginan yang sangat."
+hangman,"kb. (j. -men) algojo, tukang gantung."
+hangnail,kb. bintil kuku.
+hangout,"kb. Sl.: 1 tempat diam, tempat yang sering dikunjungi. 2 tempat berkumpul, markas (sering untuk penjahat)."
+hangover,kb. S.: perasaan sakit pada waktu bangun pagi setelah minum minuman keras terlalu banyak.
+hank,"kb. gulung(an), gumpal(an). a h. of hair segumpal/segulung rambut. a h. of yarn segulung benang."
+hanky-panky,"kb. Inf.: tipu daya, sikut-menyikut."
+haphazard,"ks. sembarangan, serampangan, sembrono. -haphazardly kk. dengan sembrono."
+happen,"kki. 1 terjadi.  2 kebetulan saja. to h. (up)on menemukan. -happening kb. kejadian, peristiwa."
+happenstance,kb. kejadian dengan/secara kebetulan.
+happily,lih HAPPY.
+happiness,kb. kebahagiaan.  We wish you h. Kami doakan semoga kau berbahagia.
+happy,"ks. gembira, senang, bahagia. happy-go-lucky ks. yang tak kenal susah, suka bersenang-senang. -happily kk. dengan gembira, dengan riang."
+harangue,kb. pidato (yang panjang dan penuh gembar-gembor). -kkt. berpidato panjang-lebar kepada.
+harass,"kkt. menggoda, menggangu, mengusik. to be harassed da[pat godaan, tergoda."
+harassment,"kb. gangguan, godaan, usikan."
+harbinger,"kb. pertanda, alamat."
+harbor,kb. pelabuhan. -kkt. 1 mempunyai. 2 mengandung. 3 menyembunyikan.
+hard,"ks. 1 keras. 2 sukar, susah. -kk. 1 keras.  2 lebat. 3 dalam-dalam, baik-baik. 4 dengan tajam. hard-driving ks. gesit dan suka bekerja keras.  -hardly kk. hampir tidak."
+harden,"kkt. mengeraskan, memperkeras. -kki. mengeras, menjadi keras. -hardened ks. dijadikan keras. -hardening kb. 1 pengerasan (of metal, attitude). 2 pembekuan. h. of the artery pembekuan/penyempitan pembuluh nadi."
+hardiness,"kb. ketahanan, ketabahan hati, daya tahan."
+hardness,kb. kekerasan.
+hardship,"kb. kesukaran, penderitaan. to work a h. upon s.o. menimpakan  kesulitan pada seseorang."
+hardtop,kb. mobil yang kapnya dibuat dari logam yang kelihatannya dapat dilipat.
+hardware,"kb. 1 barang-barang dari logam/besi.  2 Mil.: senjata atau perlengkapan seperti tank-tank, meriam-meriam dll. 3 setiap mesin atau komponennya yang lengkap."
+hardwood,kb. kayu keras.
+hardy,"ks. tahan, tabah. h. pioneer pelopor yang tahan. h. plants tanaman-tanaman yang tahan."
+hare,"kb. kelinci, terwelu. mad as a March h. gila betul."
+harebrained,"ks. bodoh, kurang pikiran (of a plan)."
+harelip,kb. (bibir) sumbing.
+harem,"kb. harem, tempat kediaman selir-selir sultan."
+hark,"kki. mendengar. to h. back to berhubungan dengan, memperingatkan kepada."
+harlot,"kb. perempuan sundal, wanita WTS."
+harm,"kb. kerugian, kejahatan, kerusakan, kesalahan. -kkt. 1 merugikan, mengganggu. 2 membahayakan akan. 3 melukai, mencelakakan."
+harmful,"ks. berbahaya. h. to the teeth berbahaya terhadap gigi, merusak gigi. 2 membahayakan. This medicine is h. Obat ini membahayakan."
+harmless,ks. tak berbahaya.
+harmonica,kb. harmonika (mulut).
+harmonious,"ks. rukun, seia-sekata. h. relationship hubungan yang rukun."
+harmonize,"kki. berpadanan, seimbang, cocok, berpadu. These colors h. beautifully Warna-warna ini berpadanan secara indah."
+harmony,"kb. (j.-nies) keselarasan, keserasian, kesesuaian, kecocokan, kerukunan."
+harness,"kb. pakaian kuda. to die in h. mati dalam pekerjaannya. -kkt. 1 memasang pakaian kuda. 2 mempergunakan, memanfaatkan, mengekang (a river). to h. the ocean's power memanfaatkan tenaga samudera."
+harp,kb. semacam kecapi. -kki. to h. on berbicara berulang-ulang tentang.
+harpoon,kb. seruit. -kkt. menyeruit.
+harries,lih  HARRY.
+harrow,"kb. sisir tanah, garu, penggaruk. -kkt. menyisir tanah, menggaru, menggaruk. -harrowing ks. yang mengerikan/menyiksa. h. experience pengalaman yang mengerikan."
+harry,"kkt. (harried) mengganggu, merusakkan, menggarong. to h. shipping mengganggu pelayaran."
+harsh,"ks. 1 kasar (towel, expression, statement). 2 keras. 3 parau (of voice). 4 tajam. h. coast pantai yang gundul dan berbukit. -harshy dengan kasar. to treat h. memperlakukan dengan kasar."
+harshness,"kb. kekerasan (of a verdict, weather)"
+harum-scarum,ks. Inf.: 1 sembrono. 2 lupa daratan.
+harvest,"kb. 1 hasil panen. 2 pemungutan, panen. -kkt., kki. memungut hasil panen. to h. rice memotong/memanen padi."
+has,lih  HAVE.
+has-been,kb. Inf.: seorang tokoh yang pernah dulu/penting.
+hash,"kb. 1 campuran daging dan kentang yang dicencang halus dan digoreng/dipanggang. 2 membunuh. -kkt. Inf.: to h. out membicarakan, mendiskusikan, memperbincangkan (problems, matters). Inf.: to h. over mengobrol (tentang masa lampau)."
+hashish,kb. ganja.
+hasn't,[has  not] lih  HAVE.
+hasp,"kb. sangkutan, kaitan, pengait."
+hassle,"kb. perkelahian, percekcokan. legal h. pertengkaran secara hukum."
+hassock,kb. bantal lutut/kaki.
+haste,"kb. kegopohan. in h. dengan tergesa-gesa, terburu-buru, tergopoh-gopoh."
+hasten,"kkt. mempercepat. to h. the fall of the Cabinet mempercepat jatuhnya Kabinet.   -kki. bersegera, cepat-cepat. I h. to reply to your letter Saya cepat-cepat menjawab suratmu"
+hasty,"ks. 1 terburu-buru, tergesa-gesa. 2 sebentar, singkat.3 gegabah. -hastily kk. dengan tergesa-gesa."
+hat,kb. topi. h.in hand 1 dengan rendah hati. 2 dengan hormat.   to take off o's h. to 1 mengangkat topi  terhadap. 2 menghormati.
+hatband,kb. pita/sekeliling topi.
+hatbox,kb. kotak/tempat topi.
+hatch,kb. lubang palka. Down the h.! Selamat! -kkt. 1 menetaskan (chickens). 2 merencanakan. (a scheme). -kki. menetas.
+hatchery,kb. (j. -ries) kb. tempat/perusahaan penetasan.
+hatchet,"kb. kapak kayu, beliung, kampak. to bury the h. melupakan yang sudah-sudah (berdamai), hidup damai."
+hate,"kb. rasa benci, kebencian. -kkt. membenci. -kki. 1 segan, tidak suka. 2 tidak senang."
+hateful,ks. penuh/merasa benci. 2 membangkitkan benci.
+hatpin,kb. jepitan/tusuk topi.
+hatrack,kb. rak topi.
+hatred,"kb. kebencian, rasa benci."
+haughtiness,"kb. kesombongan, keangkuhan, kecongkakan, kekibiran."
+haughty,"ks. sombong, angkuh, kibir, congkak, tinggi hati, tekebur. -haughtily kk. dengan tinggi hati."
+haul,"kb. 1 hasil tangkapan (of fish, robbery). 2 muatan (of trucks, etc). -kkt. 1 menarik, menyeret, menghela (by/with horses, elephants). 2 mengangkut."
+haulage,"kb. daya tarik/seret/angkut, ongkos/biaya penarikan/penyeretan/pengangkutan."
+haunch,"kb. pangkal paha, (daerah) pinggang."
+haunt,"kb. tempat yang sering dikunjungi. -kkt. 1 terbayang, sering membayang. 2 sering mendatangi. -haunted ks. berhantu, angker. -haunting ks. yang sering timbul"
+have,"kb. haves j. the haves and the have-nots si-kaya dan si-miskin. -kkt. (had) 1 mempunyai. 2 memiliki 3 memegang. 4 memperoleh. 5 mengizinkan. 6mengalami. 7 ada, punya. 8 merasa. 9 mendapat. 10 ingin.11 ber-. 12 memberi. 13 menyuruh. 14 menyimpan, memegan"
+haven,kb. 1 tempat berlindung/berteduh. 2 tempat singgah.
+haven't,[have not] lih  HAVE.
+havoc,"kb. kerusakan, malapetaka. to play/raise/wreak h. with merusakkan."
+haw-haw,"kb., kseru, tertawaan terbahak-bahak."
+hawk,kb. burung elang. He has eyes like a h. Matanya tajam. Penglihatannya tajam. hawk-eyed ks. bermata-tajam. -kkt. menjajakan. to h. up mengeluarkan.
+hawker,kb. penjaja.
+hawsepipe,"kb. ulup, lubang rantai jangkar, ungkak."
+hawser,kb. kabel/tambang kapal.
+hay,"kb. 1 rumput kering, jerami. Sl.: to hit the h. pergi tidur. 2 Inf.: Pal.: keuntungan. 3 Sl.: sedikit uang. to make h. menarik keuntungan, mengambil manfaat. to make h. while the sun shines mempergunakan kesempatan sebaik-baiknya."
+hayfield,kb. padang rumput.
+hayloft,kb. loteng jerami.
+hayseed,"kb. Sl.: petani, kampungan, orang udik/desa."
+haystack,"kb. timbunan rumput kering. like looking for a needle in a h. sama dengan mencari jarum dalam timbunan rumput kering, mengerjaklan pekerjaan yang sia-sia."
+haywire,"ks. Sl.: to go h. 1 menjadi rusak (of machinery). 2 menjadi gila, rusak ingatan (of people)."
+hazard,"kb. bahaya, risiko. -kkt. mengambil risiko. to h. a guess coba-coba menebak. to h. an opinion berani mengemukakan pendapat."
+hazardous,"ks. berbahaya, penuh risiko. risiko."
+haze,"kb. kabur. -kkt. memperlakukan mahasiswa-mahasiswa baru sewenang-sewenang, memperplonco. -hazing kb. perlakuan sewenang-wenang terhadap mahasiswa baru, perpeloncoan, pemapraman."
+hazelnut,kb. semacam buah kemiri.
+haziness,kb. kekaburan.
+hazy,"ks. 1 berkabut, kabur. The view is h. Pemandangan berkabut.   2 tidak jelas. I'm h. about last night Tidak jelas bagi saya apa yang terjadi semalam."
+hdbk.,[handbook]buku pedoman/ penuntun.
+hdqrs.,[headquarters]  markas besar.
+he,"kg. dia, ia. Inf.: he-man jantan betul."
+he'd,[1 he had 2 he would]. 1 ia telah. 2 ia akan.
+he'll,[1 he will  2 he shall]. 1Ia akan. 2 Ia hendak.
+he's,[1 he is. 2 he has]. 1 ia adalah. 2 ia ada.
+head,"kb. 1 kepala. 2 bungkul, bongkol.4 ujung kepala. 5 ekor. 6 busa. 7 bagian depan.head-to-toe ks. dari kepala sampai ke kaki. heads up ks. berhati-hati, waspada.-heading kb. kepala, bagian atas."
+headache,"kb. 1 sakit kepala. 2 Inf.: soal. If he throws his money away, that's not my h. Jika ia menghamburkan uangnya, itu bukan soal saya."
+headband,"kb. destar, ikat kepala."
+headboard,kb. papan di ujung kepala tempat tidur.
+headdress,kb. hiasan kepala.
+header,kb. Inf.: to take a h. jatuh tersungkur.
+headfirst,"kk. dengan kepala lebih dahulu, dengan kepala kebawah."
+headgear,kb. tutup kepala.
+headland,kb. tanjung.
+headlight,kb. lampu besar.
+headline,"kb. pokok/kepala berita.  -kkt. 1 menempatkan sebuah cerita di halaman muka. 2 membintangi (a show, revue)."
+headlong,"kk. segera, tidak pikir panjang lagi, langsung.  to fall h. jatuh dengan kepalanya dahulu."
+headman,"kb. (j. -men), penghulu, lurah, kepala kampung."
+headmaster,kb. kepala sekolah.
+headphone,kb. telepon kepala.
+headquarters,kb. markas besar. police h. markas besar polisi.
+headstone,"kb. 1 batu kubur, nisan. 2 batu pertama."
+headstrong,"ks. keras kepala, degil, kepala batu."
+headwaiter,"kb. kepala pelayan, pelayan kepala."
+headwaters,"kb., j. daerah hulu. h. of the Amazon huku sungai Amazon."
+headway,kb. kemajuan. to make h. (bergerak) maju.
+heady,"ks. 1 keras, lekas memabukkan. a h. wine anggur keras. 2 sengit lekas panas hati, gegabah. h. talk percakapan yang sengit. 3 gegabah. h. speculation spekulasi yang gegabah."
+heal,kkt. menyembuhkan. -kki. menjadi sembuh. -healing kb. penyembuhan.
+healer,"kb. pengobat, dukun, penyembuh."
+health,"kb. kesehatan. to be in poor h. sakit -sakitan, keadaan kesehatannya. jelek, penyakitan. h. resort tempat tetirah/peristirahatan."
+healthful,ks. sehat. h. climate iklim yang sehat.
+healthwise,kk. Inf.: dari sudut kesehatan.
+healthy,ks. sehat. h. appetite nafsu makan yang baik. That's not a h. situation Itu bukan keadaan yang sehat.
+heap,"kb. tumpukan, timbunan. h. of wood tumpukan kayu. -kkt. menumpuk, menghimpun."
+hear,kkt. (heard)  1 mendengar. 2 mendengarkan.-kki. mendengar. -hearing kb. 1 pendengaran. 2 Law : pemeriksaan.
+heard,lih  HEAR.
+hearer,kb. pendengar.
+hearken,kki. to h. to mendengarkan.
+hearsay,"kb. kabar orang/angin, desas-desus, sas-sus."
+hearse,"kb. kereta jenazah, mobil jenazah/mayat."
+heart,"kb. 1 jantung. 2 hati.  3 bagian tengah (of lettuce, celery). 4. Bridge : hart. 5 inti, pokok. 6 kehendak. heart-shaped ks. berbentuk jantung. heart-stirring ks. yang membangkitkan semangat (speech, song). heart-to-heart ks. dari hati ke hati."
+heartace,"kb. dukacita, kepiluan."
+heartbeat,kb. denyut/debaran/detik jantung.
+heartbreak,"kb. kesedihan/remuk hati, kemasygulan."
+heartbreaker,"kb. mata keranjang, penghancur hati (orang)."
+heartbreaking,"ks. mamilukan, menyayat hati."
+heartbroken,"ks. bersedih/berpilu hati, amat sedih, berhati pilu."
+heartburn,kb. rasa panas dalam perut.
+hearten,kkt. membesarkan hati.
+heartfelt,ks. yang sepenuh hati. my h. thanks for terima kasihku yang sepenuh hati atar.
+hearth,"kb. perapian, tungku."
+heartily,kk. lih  HEARTY.
+heartsick,"ks. sedih, gundah-gulana, pilu hati."
+heartstrings,"kb., j. hati sanubari, perasaan hati. to tug at o's heartstrings sangat menggetarkan hati sanubari."
+heartthrob,kb. S.: kekasih.
+hearty,"ks. 1 besar. 2 sungguh-sungguh, dengan sepenuh hati. -heartily kk. 1 dengan penuh nafsu makan. 2 sungguh-sungguh. to disagree h. sungguh-sungguh tidak setuju."
+heat,"kb. 1 panas, kepanasan. 2 bagian dari balapan. 3 tekanan.  -kkt.  memanaskan. -heated ks. hangat, bernafsu. -heating kb. pemanasan. -ks. pemanas"
+heater,kb. alat pemanas. electric h. alat pemanas (dengan tenaga) listrik. gas h. alat pemanas (dengan tenaga) gas.
+heathen,"kb. penyembah berhala, kafir, yang tidak ber-Tuhan."
+heatstroke,heatstroke
+heave,"kb. angkatan, dorongan. -kkt. (heaved) 1 membongkar, mengangkat (jangkar). 2 menghela. -kki. 1 bergelombang (of a sea). 2 menyembul, timbul. 3 (hove) timbul, muncul."
+heaven,"kb. 1 sorga, surga. 2 (Hindu) kayangan. -heavens j. langit, cakrawala. heaven-sent ks. mujur, mendapat karunia Tuhan, kedatangan seorang yang menguntungkan."
+heavenly,"ks. 1 amat menyenangkan.  2 lezat, sedap."
+heavily,lih  HEAVY.
+heavy,"kb. Film : peranan penjahat/bandit. -ks. (heavier, heaviest). 1 berat. 2  padat, ramai (of traffic). 3 tebal. 4 keras. 5 hebat. 6 kasar. -kk. secara berat. -heavily kk. secara berat."
+heavyweight,kb. 1 Box.: kelas berat. 2 kaliber berat. He's intelligent but not a h. Dia pintar tapi bukan termasuk kaliber berat.
+heb.,[Hebrew(s)] 1 Bible : Orang Yahudi. 2 Yahudi.
+hebrew,kb. 1 orang Yahudi. 2 bahasa Yahudi. -ks. Yahudi. The H. language bahasa Yahudi.
+heck,"kb. to give s.o. h. mengomeli seseorang. -kseru persetan, buset."
+heckle,"kkt. menggoda, mengganggu (dengan ucapan yang mengejek). -heckling kb. mencela, memfitnah, mengejek."
+heckler,kb. tukang ejek yang berteriak.
+hectare,kb. hektar.
+hectic,"ks. tidak tenang, ribut, ramai sekali."
+hectogram,kb. hectogram.
+hectograph,kb. hektograf. -kkt. memperbanyak. (sesuatu) dengan alat hektograf.
+hedge,"kb. 1 (garden) pagar tanam-tanaman 2 pembendung. -kkt. to h. in memagari, membatasi, mengungkung. -kki. mengelak- elakkan, menghindarkan. to hedge-hop kki. (hedge-hopped) melakukan penerbangan yang rendah diatas tanah."
+hedgehog,kb. landak.
+hedgerow,kb. pagar tanaman.
+hedonism,kb. paham yang dianut orang-orang yang mencari kesenangan semata-mata.
+heed,heed
+heedless,ks. dengan tidak memperhatikan/mengindahkan/memperdulikan. h. of. the danger dengan tidak memperhatikan bahaya.
+heehaw,kb. tertawa kasar. -kki. meringkik.
+heel,"kb. 1 tumit. 2 Inf.: bangsat, bedebah. -kki. memiringkan. -heeled ks. bertumit."
+hefty,"ks. besar dan kuat, kokoh, kekar (of people). h. steel frame rangka baja yang kuat."
+height,kb. 1 tinggi.  2 puncak.
+heighten,"kkt. mempertinggi (a doorway, interest). -kki. memuncak, menambah. The conflict heightened Pertentangan itu memuncak."
+heinous,"ks. bengis, mengerikan, keji sekali, kejam. h. crime kejahatan yang keji sekali."
+heir,kb. waris. She is h. to a lot of money Dia akan mewarisi uang yang banyak. h. apparent putera mahkota.
+heiress,kb. ahli waris perempuan.
+heirloom,kb. pusaka.
+helicopter,kb. helikopter.
+heliport,kb. lapangan helikopter.
+helium,kb. helium.
+hell,kb. neraka. kseru. persetan.
+hellbent,ks. Sl.: bersikeras. He  was h. on getting to New York Dia bersikeras untuk pergi ke New York.
+hellcat,kb. perempuan yang jahat.
+hellenic,ks. Yunani.
+hellfire,"kb. api neraka, hukuman di neraka."
+hellhole,kb. tempat yang sangat tidak menyenangkan.
+hellish,"ks. jahat, kejam. h. temper watak yang jahat."
+hello,kb. salam. Please say h. to your wife Beri salam kepada istrimu. -kseru. halo.
+helluva,"ks. Sl.: 1 buruk/jelek sekali. 2 baik sekali, luarbiasa, bukan main (soccer team)."
+helm,"kb. kemudi. to be at the nation's h. mengemudikan negara, memimpin bangsa, menjadi pimpinan negara."
+helmet,kb. topi baja. crash h. helm.
+helmsman,kb. (j. -men) jurumudi.
+help,"kb. pertolongan, bantuan. -kseru. sungguh mati. -kkt. 1 menolong, membantu. 2 menuntun. -helping kb. porsi, mangkuk. a h. of rice seporsi nasi. h. hand. bantuan pertolongan."
+helper,"kb. pembantu, penolong."
+helpful,"ks. suka menolong, berguna, bermanfaat."
+helplessness,kb. keadaan tdk berdaya.
+helpmate,"kb. pembantu, suami atau istri."
+helpmeet,#NAME?
+helpness,"ks. tdk berdaya, mati kutu."
+helter-skelter,"kk. dlm keadaan kacau balau, puntang-panting dan tergesa-gesa."
+hem,"kb. keliman, depun (of dress. -kkt. (hemmed) mengelim (a skirt).to h. and haw  berbicara dgn ragu-ragu. to h. in mengepung, mengurung."
+hemispere,kb. belahan bumi. the Western H. Belahan bumi Barat.
+hemlock,kb. cemara (beracun).
+hemorrhage,kb. pendarahan.-kki. mengeluarkan darah.
+hemorrhoids,"kb., j. bawasir, puru sembelit."
+hemp,kb. rami.
+hemstitch,kb. jahit kelim.-kkt. mengelim.
+hen,"kb. ayam betina, induk ayam, babon."
+hence,"kk. sebab itu, karena itu, karenanya."
+henceforth,"kk. mulai sekarang, utk selanjutnya."
+henchman,"kb. (j.-men). pengikut, antek."
+henhouse,kb. kandang ayam.
+henna,"kb. inai, pacar."
+henpeck,"kkt. menguasai, menaruh pengaruh. henpecked husband suami yg dikuasai oleh istrinya."
+hep,"ks. Sl,: banyak mengetahui. to be h. to banyak mengetahui ttg."
+hepatitis,kb. radang hati.
+heptagon,kb. segi tujuh.
+heptagonal,ks. bersegi tujuh.
+her,"kg. dia, ia, -nya.I see h. Saya lihat dia. h. vacation liburannya. I wrote h. yesterday Saya menyuratinya kemarin. to give a book to h. memberikan buku kepadanya. Inf. : It's h.! Itu dia! Dialah itu!"
+herald,kb. bentara. -kkt. menggembar - gemborkan. His coming has been widely heralded Kedatangannya itu sudah digembar-gemborkan kemana-mana.
+heraldry,kb. (j. -ries) ilmu lambang.
+herb,"kb. Med.: jamu. -herbs j. (for seasoning) ramuan untuk membumbui masakan, tumbuh-tumbuhan bumbu."
+herbivore,kb. pemakan tumbuh-tumbuhan.
+herbivorous,"ks. (yg) hidup dari rumput atau tanam-tanaman, yang makan tumbuh-tumbuhan."
+herculean,"ks. seperti raksasa (kuatnya, besarnya). H. task pekerjaan raksasa."
+herd,"kb. kumpulan, kawanan. -kkt. mengumpulkan, menggembalakan. to h. together mengumpulkan, menggiring menjadi satu kumpulan."
+here,"kb. the h. and now waktu sekarang, sekarang ini. -kk. 1 (di)sini. 2 ini. 3 begini. 4 kesini, kemari. 5 sini."
+hereabouts,kk. didekat/disekitar sini.
+hereafter,"kb. alam baka. -kk. sesudah ini, selanjutnya, sekarang."
+hereby,kk. dengan ini. I h. declare that.. Dengan ini saya permaklumkan bahwa...
+hereditary,ks. 1 turun- temurun. h. position pangkat yang turun-temurun. 2 pusaka. h. estate tanah pusaka.
+heredity,"kb. (j. -ties) keturunan, hal turun-temurun, kebakaan."
+herein,kk. didalam ini. the letter enclosed h. surat yang terlampir didalam ini.
+hereinafter,"kk. selanjutnya, sesudah ini."
+heresy,"kb. (j. -sies) bid(a)'ah, klenik."
+heretic,kb. orang bid'ah.
+heretical,ks. yang berhubungan  dengan bida'ah.
+hereto,kk. dengan ini.
+heretofore,"kk. sebelum ini, sampai sekarang. H. we had been good friends Sebelum ini kami teman baik."
+herewith,kk. bersama ini. I h. enclose... Bersama ini saya lampirkan...
+heritage,"kb. warisan, pusaka. our cultural h. kebudayaan yang kita/kami warisi."
+hermaphrodite,hermaphrodite
+hermetically,"kk. rapat-rapat, kedap udara. h. sealed dipateri/ditutup rapat-rapat."
+hermit,kb. pertapa.
+hermitage,kb. pertapaan.
+hernia,"kb. burut, turun berok."
+hero,kb. pehlawan. hero-worship pemujaan (terhadap) pahlawan.
+heroic,"ks. 1 sengit, gagah berani. h. struggle perjuangan yang gagah berani. 2 bersifat kepahlawanan."
+heroin,kb. heroin (sejenis obat bius yang dibuat dari morfin).
+heroine,kb. pahlawan wanita.
+heroism,kb. kepahlawanan.
+heron,kb. burung bangau/jangkung.
+herring,kb. ikan haring.
+herringbone,kb. pola hiasan seperti kerangka haring. h. pettern corak seperti puncuk rebung
+hers,kg. kepunyaan (perempuan). a. friend of h. seorang temannya. That book isn't h.  Buku itu bukan kepunyaannya.
+herself,"kg. dia, sendiri. lih  SELF."
+hesitancy,kb. (j. -cies) keragu-raguan.
+hesitant,ks. ragu-ragu. He was h. to accept the job Dia ragu-ragu menerima pekerjaan itu.
+hesitate,hesitate
+hesitation,kb. keragu-raguan.
+het,"ks. marah, naik darah, bersemangat. Don't get so h. up Janganlah begitu naik darah."
+heterodox,"ks. bida'ah, murtad."
+heterogeneous,"ks. heterogen, beraneka-ragam, berbeda-beda."
+hew,"kkt. (hewed, hewed atau hewn) menebang. to h. down a tree menebang pohon. -kki. to h. to memegang pada."
+hewn,lih  HEW.
+hex,"kb. Inf.: kutukan, guna-guna. to place a h. on s.o. menjatuhkan kutukan atau seseorang."
+hexagonal,ks. bersegi enam.
+hexameter,"kb. heksameter, puisi yang baris-barisnya memuat enam derap/daktilus."
+hey,kseru. he !
+heyday,"kb. masa jasa, jaman gemilang. In his h. he was a fine actor Dalam masa kejayaannya dia adalah aktor yang baik."
+hf,[High Frequency] frekwensi tinggi.
+hgt.,"[height] tingginya, ketinggian."
+hi,"kseru. halo ! Hi, how are you ? Halo, apa kabar ?"
+hi-fi,[high fidelity] kb. Inf.: perekaman dan pemancaran suara kembali dengan teliti.
+hiatus,"kb. rumpun, kekosongan, ruang kosong, ompong."
+hibernate,hibernate
+hibiscus,"kb. waru, bunga raya/sepatu."
+hiccough,#NAME?
+hiccup,"kb. sedakan, sedu, ketegukan, kecegukan. -kki. tersedak, bersedu."
+hick,kb. Inf.: orang udik/dusun/kampungan.
+hickory,kb. (j. -ries) sejenis pohon di A.S. yang buahnya berkulit keras.
+hid,lih  HIDE.
+hidden,lih  HIDE.
+hide,"kb. kulit, jangat.  -kkt. (hid, hidden) menyembunyikan. -kki. bersembunyi. to h. out menyembunyikan diri. hide-and-seek kb. main alip-alipan/bulus-bulusan/umpet- umpetan/cari-carian. hidden treasure harta-benda yang terpendam. hiding pergi dalam bersem u hideaway"
+hideaway,kb. tempat persembunyian.
+hidebound,ks. picik. h. opinion pendapat/pandangan yang picik.
+hideous,"ks. seram, mengerikan."
+hideout,kb. tempat persembunyian.
+hierarchy,kb. (j. -chies] hirarki.
+hieroglyphics,"kb., j. tulisan Mesir kuno."
+high,"kb. 1 ketinggian, puncak. 2 Meteor.: tekanan udara yang tinggi. 3 Auto.: persneling tiga. ks. 1 tinggi. 2 mahal, tinggi (of prices). 3 besar. 4 tinggi, nyaring (of a voice). 5 Inf.: mabuk. -highly kk. sangat, terlalu."
+highball,"kb. wiski dicampur dengan air (soda) dan es. -kki. Sl.: berjalan dengan cepat. (of a train, auto)."
+highborn,ks. dari keturunan yang bangsawan.
+highbrow,kb. Inf.: cendekiawan. He has h. tastes Dia mempunyai citarasa seorang ahli.
+highchair,kb. kursi tinggi untuk bayi.
+highfalutin(g),"ks. Sl.: yang muluk-muluk, yang penuh gembar-gembor. h. language kata-kata yang muluk-muluk."
+highlands,"kb., j. tanah tinggi, pegunungan."
+highlight,"kb. hal/acara yang penting. -highlights j. pokok-pokok. -kkt. menyoroti, membunga-bungai."
+highness,kb. keberatan. H. Yang Mulia.
+hightail,kki.: berlari cepat.
+highwater,h. mark garis tinggi air pasang.
+highway,kb. jalan raya/besar. h. patrolman polisi patroli jalan-raya.
+hijack,"kkt. Inf.: membajak, merampok. to h. a plane in midlair  membajak kapal terbang di angkasa."
+hijacker,"kb. Inf.: perampok, pembajak."
+hijinks,"kb., j. pesta gila, pesta- pora."
+hike,kb. 1 perjalanan kaki. to go on h. pergi berjalan kaki. 2 Inf.: kenaikan. salary h. kenaikan gaji.-kkt. Inf.: to h. up o's trousers menarik celananya keatas. -kki berjalan kaki. -hiking kb. gerak jalan.
+hiker,kb. pejalan kaki.
+hilarious,"ks. riang, gembira. h. party pesta yang meriah."
+hilarity,"kb. kegembiraan, keriangan, keriaan, keriuhan."
+hill,kb. bukit.  h. country daerah yang berbukit-bukit.
+hillbilly,"kb. (j. -lies) orang (yang diam di) pegunungan, orang udik/dusun. h. song  lagu dusun/pegunungan - pegunungan, nyanyian udik."
+hilliness,kb. keadaan berbukit-bukit.
+hillock,kb. bukit kecil.
+hillside,kb. lereng bukit.
+hilltop,kb. puncak bukit.
+hilly,ks. berbukit-bukit.
+hilt,"kb. puting, pangkal pedang. to enjoy life to the h. menikmati hidup sepuas-puasnya. up to the h. samasekali, sepenuhnya."
+him,"kg. dia (laki-laki), -nya. Ask h. Tanyalah dia."
+himself,kg. diri(nya) sendiri. He keeps his thoughts to h. Dia menyimpan (buah) pikirannya untuk diri sendiri.
+hind,ks. belakang. h. leg kaki belakang.
+hinder,"kk. 1 menghalangi, merintangi. to h. him in his research menghalangi dia dalam penyelidikannya itu. 2 mengganggu. The noise hindered  him from studying Keributan itu mengganggu dia belajar."
+hindi,kb. 1 orang Hindi. 2 bahasa Hindi.
+hindmost,ks. yang paling belakang. Everyone for himself and the devil take the h. Setiap orang berusaha menyelamatkan dirinya dan/tidak mengacuhkan orang lain.
+hindquarter,kb. bagian kaki belakang dan pinggang (mis. daging).
+hindrance,"kb. 1 halangan, rintangan. 2 gangguan. lih  LET kb."
+hindsight,"kb. peninjauan hal-hal yang sudah terjadi, melihat kebelakang."
+hindu,"kb., ks. Hindu."
+hinduism,"kb. Hinduisme, agama Hindu."
+hindustani,kb. 1 orang Hindustan. 2 bahasa Hindustan.
+hinge,kb. 1 engsel. 2 Phila.: sepotong kertas berlem guna menempelkan perangko dalam album. -kki. bergantung.
+hint,"kb.1 isyarat, petunjuk.2 bayangan, gambaran.3 tanda.-kki. membayangkan, mengisyaratkan."
+hinterland,kb. daerah pedalaman.
+hip,"kb.1 pinggul.2 pangkal paha.-ks. Sl. : modern.-kseru.H.. h. hurrah Hip. hip. hura! Hidup! Horas! -hipped ks. Sl, : keranjingan."
+hipbone,kb. tulang pinggul/pinggang.
+"hippie, hippy",kb. (j.-pies) hippi
+hippopotamus,"kb. (j.-muses/-mesez/) kuda nil, badak sungai."
+hire,"kb. sewa. for h. bisa disewa, disewakan. -kkt.1 menyewa oto.2 menggaji, mengupahi.-hired ks. yg diupahi. -hiring kb. penyewaan, persewaan."
+hireling,kb. orang sewaan.
+his.,"kg.-nya, kepunyaannya (laki-laki).h. book bukunya. This book is h. Buku ini dia (yg) punya.Buku ini punya dia."
+hiss,"kb.1 (bunyi) suitan.2 desis (of steam, gas). -kkt. mengejek, mencemoohkan.-kki. bersuit.-hissing kb. bersuit-suit, suitan, desis."
+histology,kb. ilmu jaringan tubuh.
+historian,"kb. ahli sejarah, sejarawan."
+historic,ks. bersejarah. h. landmark tempat kejadian  yg bersejarah.
+historical,ks. berh. dgn sejarah.-historically kk. menurut sejarah.
+historiography,kb. penulisan sejarah.
+history,kb. (j.-ries) sejarah.
+histrionics,kb. seni drama.
+hit,"kb.1 pukulan (boxing, baseball).2 sukses.3 suatu tindakan yg mengenai sasaran.-kkt. (hit) 1 memukul.2 mengenai.3 membentur, menabrak.-kki.1 Tenn.: masuk.2 terbentur.to h. at memukul.to h. back 1 memukul kembali.2 membalas serangan.ks. untung-untungan."
+hitch,"kb.1 (jerk) sentak.2 (snag) rintangan,halangan.3 Inf. : jangka waktu. Sl. : They were hitched last week Mereka kawin minggu yg lalu. Inf. : to h. a ride membonceng. to h. up memasang hewan penarik pd kereta."
+hitchhike,"kki. menggonceng, minta nunutan,membonceng."
+hitchhiker,"ks. seorang yg membonceng, tukang bonceng, pembonceng."
+hither,"kk. kesini-kemari. h. and thither kesini-kesana, kesana kemari."
+hitherto,kk. sampai sekarang (ini).
+hitter,kb. pemukul.
+hive,"kb. sarang (utk lebah). -hives j. penyakit, rasa gatal dgn bintik-bintik merah dan bengkak dll."
+hoard,kb. timbunan. h. of money timbunan uang. -kkt. menimbun. to h. up menimbun. -hoarding kb. penimbunan.
+hoarder,kb. penimbun.
+hoarfost,kb. embun beku (berwarna putih).
+hoarse,"ks. parau, serak. to shout o.s. h. berteriak-teriak sampai parau."
+hoary,"ks. tua, beruban."
+hoax,"kb. olok-olok(an), cerita bohong. -kkt. memperdayakan."
+hobble,kkt. mengikat kaki (kuda).  -kki. berjalan pincang.
+hobby,kb. (j. -bies) kegemaran.
+hobbyhorse,"kb. kuda-kudaan, kuda main-mainan. to ride o's favorite h. membicarakan persoalan yang disenanginya."
+hobgoblin,"kb. orang kerdil, hantu."
+hobnob,kki. (hobnobbed) bergaul (rapat) dengan.
+hobo,kb. orang gelandangan/jembel/gembel.
+hock,kb. Sl.: keadaan berhutang / menggadaikan. to be in h. banyak berhutang. to put o's ring in h. menggadaikan cincin. -kkt. Sl.: menggadaikan.
+hockey,kb. (permainan) hockey.
+hocus-pocus,kb. permainan sunglap.
+hodgepodge,"kb. campur-aduk, gado-gado."
+hoe,"kb. cangkul, pacul. -kkt. mencangkul (i)."
+hog,"kb. babi. h. raising peternakan/pemeliharaan babi. Sl.: to go the whole h. mengerjakan sesuatu sepenuhnya. -kkt. (hogged) Sl.: 1 menjadi pusat perhatian. 2 memonopoli (the road). hog-wild ks. Sl.: lupa daratan, mengamuk."
+hogwash,kb. Sl.: omong kosong.
+hoist,"kb. 1 kesekan. 2 lift. -kkt. 1 menaikkan, mengerek.  to h. the colors menaikkan bendera.   2 mengangkat.  to h. a safe to the third floor mengangkat lemari besi ke tingkat ketiga."
+hoity-toity,"ks. angkuh, sombong. kseru. Astaga ! Y a  Allah."
+hokum,"kb. Sl.: kebohongan, humor murahan."
+hold,lih HOLD.
+holder,kb. 1 tempat. cigarette h. tempat rokok. 2 pemilik (of shares). 3 pemegang (of records).
+holdover,kb. 1 peninggalan. 2 pegawai (lama) yang masih dipertahankan.
+holdup,"kb. perampokan, penghadangan, penggarongan, penodongan, pembegalan. h. man penodong, tukang todong, perampok, pembegal"
+hole,"kb. 1 lubang, lobang. 2 rongga. 3 liang. 4 (water) lubuk. 5 kekurangan, kelemahan, kesalahan. 6 Golf ; lubang, hole. -kki. to h. up pergi menjauhkan/mengasingkan. diri. hole in the wall kb. gubuk kecil. ks. kecil, miskin."
+holiday,kb. hari besar/raya. Where are you spending the holidays ? Dimana kau menghabiskan/meliwatkan hari-hari liburmu ?
+holiness,"kb. kesucian, kekudusan. His H. the Pope Sri Paus."
+holland,kb. Negeri Belanda.
+holler,kki. Inf.: berteriak (halo).
+hollow,"kb. lembah. -ks. 1 berlubang. 2 bergaung, bergema. 3 palsu. 4 cekung, caung, kempung (of eyes, cheeks). -kk. lemah. -kkt. to h. out melubangi. hollow-eyed ks. bermata cekung. hollow-sounding ks. yang dibuat-buat saja, dempang, berbunyi kosong."
+holly,"kb. sejenis tumbuh-tumbuhan yang hijau dan runcing daunnya, dan buahnya merah bergugus-gugus."
+hollyhock,kb. sejenis tumbuh-tumbuhan hiasan.
+holocaust,kb. 1 bencana. 2 pembakaran.
+holster,kb. sarung pistol.
+holy,"ks. 1 suci, kudus. 2 keramat. H. Bible Kitab Injil. H. City Baitul Mukaddas. H. Father Sri Paus. H. Scripture Kitab Injil."
+homage,kb. penghormatan. to pay h. to menyembah/memberi penghormatan kepada.
+home,kb. 1 rumah. 2 tempat diam. 3 kampung halaman. 4 panti asuhan. -homing pigeon merpati pos.
+homebody,kb. (j. -dies) orang yang senang atau yang lebih suka tinggal di rumah.
+homecoming,kb. 1 Acad.: reuni alumni. 2 pulang ke rumah/kampung.
+homefolk,"kb. 1 orang sekampung, tetangga. 2 keluarga."
+homeland,"kb. tanah air, tanah tumpah darah."
+homeless,ks. tunawisma.
+homelike,"ks. yang menyenangkan, seperti suasana rumah (sendiri)."
+homeliness,kb. kesederhanaan.
+homely,"ks. 1 sederhana, bersahaja. 2 tidak cantik (of a person)."
+homemaker,kb. ibu rumah tangga.
+homeowner,kb. pemilik rumah.
+homesick,"ks. rindu, hendak pulang ke kampung."
+homesickness,kb. kerinduan.
+homesite,kb. tanah perumahan.
+homespun,ks. 1ditenun di rumah. h. cloth kain tenunan sendiri. 2 sederhana. h. philosophy filsafat yang sederhana.
+homestead,kb. rumah (dan pekarangannya).
+hometown,kb. kota kediaman. We're from the same h. Kami sekampung.
+homeward(s),ks. pulang. the h. trip perjalanan pulang. -kk. The ship is h. bound Kapal dalam perjalanan pulang.
+homework,"kb. pekerjaan rumah, PR. to do o's h. 1 mengerjakan pekerjaan rumah. 2 Inf.: mempersiapkan diri."
+homey,"ks. seperti di rumah, enak."
+homicidal,kb. yang berhubungan dengan pembunuhan.
+homicide,kb. pembunuhan. member of the h. squad seorang penyelidik pembunuhan.
+hominy,kb. bubur jagung.
+homo,Sl.: HOMOSEXUAL. kb.
+homogeneity,kb. keserbasamaan.
+homogeneous,"ks. serbasama, homogen."
+homogenize,kkt. membuat sejenis. homogenized milk susu yang dibuat/dicampur  sedemikian rupa sehingga tidak ada kepala susunya.
+homonym,"kb. homonim, kata sebunyi."
+homophone,kb. huruf sebunyi.
+homosexual,kb. homoseks. -ks. homoseksuil.
+homosexuality,kb. homoseksualitas.
+homy,#NAME?
+hone,"kkt. mengasah, mengikir. -honing kb. pengasahan,  pengikiran."
+honest,"ks. jujur, lurus hati.  h. face muka yang jujur. -honestly kk. secara jujur, dengan terus terang."
+honesty,"kb. kejujuran, kelurusan hati. in all h. dengan terus terang."
+honey,"kb. 1 madu. 2 sayang (form of address of husband to wife, wife to husband). I love you, h. Saya cinta padamu, sayang."
+honeybee,kb. lebah yang bermadu.
+honeycomb,kb. sarang madu/lebah.
+honeydew,h. melon semacam semangka (kulitnya putih).
+honeymoon,kb. bulan madu. -kki. berbulan madu.
+honeymooner,kb. orang yang sedang berbulan madu.
+honeysuckle,kb. semacam kamperfuli.
+honk,kb. bunyi tuter. H.! h.! Tet ! tet ! -kkt. membunyikan. to h. the horn membunyikan klakson. -kki. mengklakson. The car honked Mobil itu mengklakson.
+honor,"kb. 1 kehormatan. 2 kemurnian (of a woman). 3 Yang terhormat. (from of address to a judge). -honors j. 1 tanda-tanda jasa. 2 Bridge : kartu-kartu yang tertinggi. -kkt. menghormati. 2 menerima, menguangkan (a check). 3 mempertahankan, menetapi."
+honorable,ks. 1 yang terhormat. 2 Yang Mulia. -honorably kk. dengan hormat.
+honorarium,"kb. (j. -ria) uang jasa, honorarium, imbalan, honor."
+honorary,ks. kehormatan. h. member anggota kehormatan. h. degree gelar kehormatan.
+honorific,kb. sebutan kehormatan.
+hood,"kb. 1 kerudung (kepala). 2 Auto.: kap. 3 Sl.: buaya darat, penjahat."
+hooded,ks. berkerudung. h. snake ular sendok.
+hoodlum,"kb. penjahat, buaya darat."
+hoodoo,"kb. Inf.: sial, naas. to put a h. on s.o. menjadikan seseorang sial."
+hoodwink,"kkt. menipu, memperdayakan."
+hoof,kb. (j. hooves) kuku ( binatang).  -kkt. to h. it Inf.: berjalan.
+hook,"kb. 1 sangkutan, cantelan (of clothes). 2 (fish) kail. 3 kait(an), pengait. 4 hak (on door, window). -kkt. 1 menyangkutkan. 2 mengail (fish). 3 memancing. hook-nosed ks. berhidung kakaktua. -hooked ks. 1 bengkok (nose). 2 ketagihan, doyan."
+hookey,#NAME?
+hookup,"kb. 1 pemasangan, persambungan. 2 siaran radio atau televisi."
+hookworm,kb. cacing tambang.
+hooky,kb. Sl.: to play h. membolos.
+hooligan,kb. =  HOODLUM.
+hoop,"kb. 1 gelindingan. 2 simpai (of barrel, drum). h. skirt rok bergelung/kembang."
+hooray,#NAME?
+hoot,kb. teriak(an). Inf.: to care/give a h. peduli. -kkt. meneriaki. -kki. berteriak-teriak. -hooting kb. ejekan.
+hooves,lih  HOOF.
+hop,"kb. 1 loncatan, lompatan. 2 penerbangan. 3 buah hop. 4 pesta dansa/tari-menari. -kkt. (hopped) 1 Inf.: meloncat (aboard a freight train). 2 turun naik. -kki. melompat, meloncat. -hopping kk. sangat. He was h. mad  Dia  sangat marah."
+hope,"kb. harapan. -kki.  berharap, mengharap."
+hopeful,ks. penuh harapan. He was h. of.. Besar harapannya bahwa...
+hopeless,"ks. tidak ada harapan, putus asa, sia-sia. h. task pekerjaan yang sia-sia. -hopelessly  kk. dengan tidak ada harapan. He's h. drunk Ia mabuk sekali."
+hopelessness,"kb. keputusasaan, keadaan putus-asa."
+hopper,kb. 1 pelompat. 2 gerobak. coal h. gerobak batubara.
+hopscotch,kb. main jingkat/pincang-pincangan.
+horde,"kb. 1 gerombolan (of savages). 2 sekelompok, sekumpulan (of ants)."
+horizon,"kb. kaki langit, ufuk, horison. on the h. di masa datang."
+horizontal,kb. garis mendatar. -ks. mendatar. h. line garis mendatar. -horizontally kk. secara horizontal.
+hormone,kb. hormon.
+horn,"kb. 1 terompet. 2 tanduk (of goat, etc). 3 Auto.: klakson. -kki. Sl.: to h. in menyelundup masuk (kedalam). -horned ks. bertanduk."
+hornbill,kb. burung enggang/lilin.
+hornet,"kb. langau kerbau, tabuhan, penyengat. to stir up a hornet's nest menimbulkan keributan, membangunkan ular tidur."
+horoscope,"kb. primbon, pestaka, tenung, ramalan."
+horrendous,ks. menghebohkan.
+horrible,ks. mengerikan. What a h. sight ! Alangkah ngerinya pemandangan itu ! -horribly kk. mengerikan. h. burned mendapat luka bakar yang mengerikan.
+horrid,ks. 1 mengerikan.  a h. cut luka yang mengerikan.   2 Inf.: tidak enak (of a person).
+horrify,"kkt. (horrified) menakutkan, mengejutkan. We were horrified to learn of his death Kami merasa terkejut sekali mendengar kematiannya."
+horror,"kb.  kenngerian, ketakutan. to have a h. of takut/ ngeri sekali akan  horror-stricken ks. lumpuh ketakutan, tak berdaya karena ketakutan."
+hors d'oeuvre,"kb. makanan kecil, penganan, kudapan."
+hors(e)y,"ks. 1 suka pada kuda, gemar berkuda. 2 Sl.: besar dan canggung (of build)."
+horse,"kb. 1 kuda. 2 (saw-horse, trestle) kuda-kuda. -kki. Sl.: to h. arround mempermainkan."
+horseback,kb. punggung kuda. h. ride naik kuda.  to go on h. (pergi) naik kuda.
+horsefly,kb. (j. -lies) langau/lalat kuda.
+horsehair,kb. bulu kuda.
+horselaugh,"kb. gelak terpingkal-pingkal, tertawa riuh."
+horseman,kb. (j. -men) penunggang kuda.
+horsemanship,kb. kepandaian menunggang kuda.
+horsemeat,kb. daging kuda.
+horseplay,"kb. kelakar yang kasar dan ribut,permainan kasar."
+horsepower,kb.  daya kuda [dk].
+horseradish,kb. semacam tanaman lobak.
+horseshoe,"kb. ladam, sepatu kuda."
+horsewhip,"kb. pecut, sambuk, cambuk. -kkt. (horsewhipped) memukuli, menghajar."
+horticultural,ks. yang mengenai ilmu perkebunan.
+horticulture,"kb. ilmu perkebunan, hortikultura."
+horticulturist,kb. ahli perkebunan.
+hose,"kb. 1 Cloth.: kaus kaki. 2 pipa air (dari karet), selang karet. -kkt. to h. down/off menyemprot, menyirami (a car, lawn, burning house)."
+hosiery,kb. kaus kaki.
+hospitable,"ks. ramah, bermurah hati, senang menjamu."
+hospital,"kb. rumah sakit. h. attendant perawat, jururawat rumah sakit. h. ship kapal rumah sakit."
+hospitality,"kb. (j. -ties) keramah-tamahan, kesukaan/kesediaan menerima tamu."
+hospitalization,"kb. hal masuk rumah sakit, hal berobat di rumah sakit, opname."
+hospitalize,"kkt. masuk rumah sakit, menghospitalkan, mengopname."
+host,"kb. 1 tuan rumah. 2 (wafer)hosti, roti suci. 3 rombongan besar.  a whole h. of ants sekumpulan besar semut."
+hostage,kb. sandera.
+hostel,"kb. asrama, pondok(an). losmen. youth h. asrama pemuda."
+hostess,kb. 1 nyonya rumah. 2 Rest.: kepala pelayan. airlines h. pramugari. nightclub h. pramuria.
+hostile,ks. bermusuhan. h. attitude sikap bermusuhan. to have h. feelings towards berperasaan permusuhan terhadap.
+hostility,"kb. permusuhan. -hostilities j. permusuhan, peperangan kecil-kecilan."
+hot,"ks. 1 panas. 2 Inf.: hebat. 3 pedas. 4 sulit. 5 Sl.: enak.  6 Sl.: dicari/dikejar/diuber.     7 Sl.: beruntung, mujur. -hotly kk. dengan semangat/hangat."
+hour,kb. 1 jam.  2 saat. -hours j. 1 jam-jam. 2 waktu.
+hourglass,kb. jam pasir.
+hourly,"ks. sejam, setiap jam, per jam. h. wage upah perjam. -kk. sekali satu jam. to take medicine h. minum obat sekali sejam."
+house,"kb. 1 rumah. 2 rumah tangga.3 Dewan Perwakilan Rakyat. 4 Majelis. 5 keturunan kerajaan. 6 Thea.:  para penonton.-kkt. 1 menempatkan, mengasramakan, memondokkan. 2 menyimpan. -housing kb. 1 perumahan, penginapan. 2 blok/kerangka mesin."
+houseboat,"kb. rumah perahu, rumah terapung."
+housebound,ks. terkurung di rumah.
+houseboy,kb. pelayan rumah.
+housebreaker,kb. pencuri/pembongkar rumah.
+housebreaking,kb. mencuri dengan membongkar rumah.
+housebroken,ks. terlatih untuk tidak buang air dalam rumah.
+housecleaning,kb. pembersihan rumah.
+housecoat,kb. hoskut.
+housedress,kb. baju rumah.
+housefly,"kb. (j. -flies) lalat, lalar."
+houseful,kb. serumah penuh. We had a h. of guests  this weekend Akhir pekan ini rumah kami penuh dengan tamu.
+household,kb. rumah tangga.  The entire h. attended the wedding Seisi rumah itu menghadiri perkawinan itu.
+housekeeper,kb. pengurus rumah-tangga.
+housekeeping,kb. berumah tangga. to set up h. mulai berumah tangga.
+housemaid,housemaid
+housemate,kb. teman serumah.
+housemother,kb. ibu  asrama.
+housetop,kb. puncak (atap) rumah. to shout from the h. mengumumkan kemana-mana.
+housewares,"kb., j. perkakas/perabotan."
+housewarming,kb. selamatan memasuki atau menaiki rumah baru.
+housewife,"kb. (j. -wives) isteri, nyonya rumah, ibu rumah tangga."
+housework,kb. pekerjaan rumah tangga.
+hove,lih  HEAVE.
+hovel,"kb. pondok, gubuk."
+hover,"kki. 1 menunggu dekat. 2 melayang-layang (of a bird, helicopter)."
+how,1 bagaimana. 2 bagaimana caranya. 3 berapa. 4 betapa. 5 apa. 6 apa sebabnya. 7 alangkah. 8 kenapa.
+howdy,kseru. Inf.: bagaimana ! apa kabar !
+however,"kk. bagaimanapun,  betapapun, biarpun. -ksam. (akan) tetapi."
+howl,"kb. 1 deru (of the wind). 2 gonggong (of a dog, wolf). 3 teriak. 4 tangis. -kki. menggonggong, melolong, meraung (of animals)."
+howler,kb. Inf.: kesalahan (besar).
+hrs.,[hours] jam.
+ht.,[height] tingginya.
+hub,"1 naf, nap. 2 pusat. h. of the financial district pusat daerah keuangan. h. of the universe pusat alam semesta."
+hubbub,"kb. keributan, kebisingan, keriuhan."
+hubby,"kb. (j. -bies) Inf.: pap, papi (julukan buat suami)."
+hubcap,kb. dop (roda).
+huckleberry,kb. (j. -ries) semacam buah frambos kecil.
+huckster,"kb. penjaja, pedagang keliling."
+huddle,"kb. berkumpul/berkerumun dengan membungkuk. to be in a h. berjubal. -kkt. berjubal, berdempet. to h. together berimpit-impitan."
+hue,"kb. (corak) warna, warna-warni. h. and cry tampik sorak. to raise a h. and cry berteriak-teriak."
+huff,"kb. kemarahan, kegusaran. to go off in a h. berangkat dengan marah."
+huffy,"ks. cepat marah, mudah tersinggung. Don't act so h. Janganlah berlaku/bersikap cepat marah."
+hug,"kb. peluk(an), rangkulan, rangkuman. -kkt. (hugged) 1 memeluk, merangkul, merangkum. 2 melanggar (the curb). 3 menyusur (the shore)."
+huge,"ks. 1 sangat besar. 2 sangat banyak. -hugely kk. luar biasa besarnya, tingginya dsb."
+huh,"kseru. he, ya."
+hulk,kb. badan kapal. a ship's h. bangkai kapal.
+hulking,ks. bagur.
+hull,"kb. Nau.: badan bahara, lambung kapal. 2 sekam, kulit (of a peanut). -kkt. menguliti."
+hullabal(l)oo,"kb. keributan, kebisingan, keriuhan. to make/raise a h. menimbulkan keributan."
+hum,"kb. deruman, dengungan,senandung. h. of a car suara derum mobil. h. of bees dengung tawon. -kkt., kki. (hummed) menyanyi kecil, bersenandung.  -humming kb. dengungan, deruman."
+human,kb. manusia. ks. bersifat manusia. She's very h. Dia sangat pengasih. -humanly kk. secara kemanusiaan. h. possible dari batas kemampuan manusia.
+humane,"ks. peramah, orang yang penyayang. She's a h. person Di adalah seorang yang peramah."
+humanism,"kb. humanisme, perikemanusiaan."
+humanist,"kb. penganut paham humanisme, budayawan."
+humanitarian,kb. pengasih sesama manusia. -ks. berperikemanusiaan.
+humanitarianism,kb. (peri)kemanusiaan.
+humanity,"kb. (j. -ties) 1 umat manusia, menusia seluruhnya. 2 perikemanusiaan. -the humanities j. ilmu sastera."
+humanize,kkt. mempermanusia. memperlakukan sebagai manusia.
+humble,"ks. 1 sederhana, rendah (of dwelling, of upbringing). 2 rendah hati. to eat h. pie terpaksa mengaku kesalahannya dan minta maaf. -humbly kk. dengan merendahkan hati."
+humbug,"kb. 1 penipu, pengecoh, pembual. 2 cakap-besar, omong kosong, pengoceh."
+humdrum,ks. yang membosankan/menjemukan. a h. life kehidupan yang membosankan.
+humerus,kb. tulang bagian atas dari lengan atau kaki depan.
+humid,"ks. lembah, lengas."
+humidifier,kb. alat pelembab udara.
+humidify,kkt. (humidified) melembabkan.
+humidity,"kb. kelembaban, kelengasan."
+humidor,kb. kotak/tempauan/kaleng tembakau.
+humiliate,kkt. 1 menghina. 2 memalukan. to h. o's parents memalukan orang tuanya. -humiliating ks. 1 menghinakan. 2 memalukan.
+humiliation,kb. penghinaan.
+humility,kb. (j. _ties) kerendahan hati.
+hummingbird,kb. semacam burung kolibri.
+humor,"kb. kejenakaan,kelucuan. in good h. dalam keadaan  menyenangkan. -kkt. menyenangkan hati, menghiburkan."
+humorist,"kb. orang pelucu, jenakawan."
+humorous,"ks. lucu, penuh kelucuan, yang menggelikan."
+hump,kb. 1 onok (of a camel). 2 bongkol. 3 punggung bukit barisan. over the h. melalui saat-saat kritis. -kkt. membungkukkan (the back).
+humpback,"kb. 1 punggung bungkuk. 2 orang yang berpunggung bungkuk, sibongkok."
+humpbacked,ks. berpunggung bungkuk.
+humus,"kb. humus, bunga tanah, tanah (gemuk)."
+hunch,"kb. Inf.: firasat, prasangka, dugaan. to sit hunched up duduk membungkuk."
+hunchback,kb. orang bungkuk.
+hunchbacked,"ks. bungkuk, berpunggung bungkuk."
+hundred,"kb., j. (se)ratus. a. h. and two seratus dua."
+hundredfold,"kb., ks. seratus kali. He repaid me a h. Ia membalas kebaikan saya seratus kali lipat."
+hundredth,ks. keseratus.
+hundredweight,"kb., j. ukuran berat 50 pon Inggris atau 100 pon Amerika Serikat."
+hung,lih  HANG.
+hungarian,kb. 1 orang Hongaria. 2 bahasa Hongaria. -ks. yang berhubungan dengan Hongaria.
+hungary,kb. Hongaria.
+hunger,"kb. kelaparan, rasa lapar. h. pains perut kosong. -kkt. sangat menginginkan/mengharapkan/ merindukan/mendambakan. to h. after ice cream ingin sekali minum eskrim. h. strike mogok makan."
+hungry,ks. lapar. to be h. lapar. to get h. menjadi lapar.
+hunk,"kb. bingkah, bongkah, bungkal. a h. of bread sebingkah roti."
+hunker,"kki. bercangkung, mencangkung."
+hunky-dory,ks. Sl.: baik sekali.
+hunt,"kb. 1 pemburuan, perburuan. 2 pencarian. -kkt. memburu, berburu. -hunting kb. pemburuan. to go h. pergi berburu."
+hunter,kb. 1 pemburu. souvenir h. pemburu tandamata. 2 penggemar.
+hurdle,"kb. Sport : gawang. high/low hurdles lari gawang tinggi/rendah. 2 rintangan, halangan. -kkt. 1 melompati (a fence). 2 melintasi, mengatasi (an abstacle)."
+hurdler,kb. pelari gawang.
+hurdy-gurdy,"kb. (j. -dies) Lir, orgel jalanan (yang dimainkan dengan alat putaran)."
+hurl,"kkt. melemparkan (a stone, javelin). to h. defiance at the crowd menantang orang banyak itu."
+hurly-burly,"kb. (j. -lies) huru hara, hiruk-pikuk."
+hurrah,"kb. sorakan,  teriakan karena kegembiraan. to give a h. bersorak. -kseru. hure."
+hurricane,kb. angin ribut/topan.
+hurried,lih  HURRY.
+hurries,lih  HURRY.
+hurry,"kb. (j. -ries) 1 kegopohan. 2 buru-buru, tergesa-gesa. -kkt. (hurried) 1 menyegerakan. 2 mempercepat. 3 melakukan dengan terburu. 4 menyuruh melakukan dengan cepat. -kki. bergegas (-gegas).  hurried ks. sekilap, sekejap mata, cepat-cepat."
+hurt,"kb. luka. -kkt. 1 menyakiti (feeling, body). 2 melukai. 3 merugikan. -kki. 1 sakit. 2 melukai hati."
+hurtle,kki. 1 meluncur dengan cepat. 2 menderu dengan cepat (of a train).
+husband,"kb. suami. h. and wife suami istri. -kkt. menghematkan, berhemat dengan (resources, strength)."
+husbandry,kb. pertanian. animal h. peternakan hewan.
+hush,"kb. diam, hening. -kkt. mendiamkan. -kki. diam. h. money uang sogok/suap/hangus."
+husk,"kb. kulit ari, sekam. -kkt. mengupas (corn)."
+huskiness,kb. keparauan (of voice).
+husky,"kb. (j. -skies) anjing Eskimo. -ks. 1 parau, serak(of voice). 2 besar dan kuat. He's a h. boy Dia adalah anak yang berbadan  tegap lagi kuat."
+hussy,"kb. (j. -sies) gadis tak sopan, perempuan yang nakal sekali."
+hustle,"kb. Inf.: kegiatan, semangat bertanding/bekerja yang meluap. -kkt. memaksa dengan cepat.-kki. buru-buru."
+hustler,kb. orang yang giat dan mempunyai banyak tenaga.
+hut,"kb. pondok, gubuk."
+hyacinth,kb. sejenis bunga bakung.
+hybrid,"kb. 1 bastar, cangkokan. 2 peranakan. h. plant tanaman cangkokan, tanaman yang dikawinkan."
+hydrangen,kb. sebangsa semak.
+hydrant,kb. 1 sambungan pipa air di tepi jalan untuk keperluan kebakaran. 2 pipa air.
+hydraulic,"ks. hidrolis, hidrolik. h. brakes rem hidrolik. -hydraulics j. hidrolika."
+hydrocephalus,kb. kepala busung.
+hydrochloric,ks. zat asam garam. h. acid air keras.
+hydrodynamics,kb. hidrodinamika.
+hydroelectric,ks. hidrolisterik. h. power tenaga hidrolisterik.
+hydrogen,"kb. zat air, hidrgen. h. bomb bom hidrogen. h. peroxide peroksida zat air."
+hydrographic,ks. mengenai pengetahuan tentang perairan. The H. Service Jawatan Hidrografi.
+hydrography,kb. (ilmu) hidrografi.
+hydrology,"kb. (ilmu)tata air, hidrologi."
+hydrophobia,kb. penyakit anjing gila.
+hydroxide,kb. hidroxid(a).
+hyena,kb. dubuk.
+hygiene,kb. ilmu kesehatan. h. kesehatan pribadi/perseorangan
+hygienics,ks. menurut ilmu kesehatan. under h. condition dengan syarat-syarat yang menjamin kesehatan badan.
+hygienist,kb. ahli kesehatan. dental h. perawat gigi.
+hymen,"kb. selaput dara, jangat keperawanan."
+hymn,"kb. nyanyian pujian, hymne."
+hymnal,kb. buku nyanyian pujian.
+hymnbook,kb. buku nyanyian pujian.
+hyperactive,ks. sangat giat/aktip.
+hyperbola,kb. hiperbola.
+hyperbole,"kb. penghebat, ucapan yang bersifat berlebih-lebihan."
+hypercritical,ks. sangat suka mengeritik.
+hypersensitive,"ks. terlalu halus perasaan, sangat perasa."
+hypertension,kb. hipertensi.
+hyphen,kb. tanda sengkang/penghubung.
+hyphenate,kkt. menghubungkan dengan garis penghubung. hyphenated word kata yang diuraikan/dituliskan dengan memakai garis penghubung.
+hypnosis,kb. hipnose.
+hypnotic,"ks. hipnotis, hipnotik."
+hypnotism,"kb. hipnotisme, ilmu sihir."
+hypnotist,kb. ahli hipnotisme
+hypnotize,"kkt. menghipnotisir, menghipnotis."
+hypo,"kb. 1 Inf : suntikan, injeksi. 2 Sl.: penyedih, seorang yang menderita penyakit cemas."
+hypochondria,"kb. penyakit bersedih hati, kesedihan tanpa alasan."
+hypochondriac,kb. seorang yang terlalu cemas terhadap kesehatannya.
+hypocrisy,"kb. (j. -sies) kemunafikan, muka dua, pura-pura."
+hypocrite,"kb. orang munafik, lidah biawak."
+hypocritical,"bersifat munafik, bermuka dua."
+hypodermic,kb. injeksi. -ks. h. needle jarum suntik.
+hypotenuse,kb. hipotenuse.
+hypothesis,kb. hipotesa
+hypothesize,kki. mengadakan hipotesa tentang.
+hypothetical,ks. hipotetis.
+hysteria,"kb. penyakit histeria, gangguan syaraf."
+hysterical,ks. histeris. -hysterically kk. secara histeris. to cry h. menangis secara histeris.
+hysterics,"kb., j. naik pitam, kemasukan setan. to go into h. tertawa terbahak-bahak."
 ,
 ,
 ,

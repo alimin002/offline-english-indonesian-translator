@@ -1,1736 +1,1736 @@
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+f,1[Fahrenheit] Fahrenheit. 2 [February] Pebruari. 3  [Fryday] Jum'at. 4 [France] Perancis. 5 [French] bahasa Perancis. 6 [Fellow] anggouta (terhormat.
+"f, f","kb. 1 huruf keenam pada abjad Inggris. 2 penghargaan angka kurang pada pekerjaan sekolah. 3 titinada, huruf musik."
+f.,[feminine] perempuan. 2 [florin] rupiah Belanda. 3 [fluid] cairan.
+"f.o.b., f.o.b.",[free on board] harga sampai diatas alat pengangkutan. to buy a car F.O.B membeli oto dengan harga sampai diatas tempat pengangkutan.
+faa,[Federal Aviation Agency] Jawatan Penerbangan Federal.
+fable,kb. 1 dongeng perumpamaan. 2 bohong. -fabled ks. 1 yang banyak diceritakan dalam dongeng. 2 yang dibuat-buat.
+fabric,"kb. 1 barang tenunan, kain. sheer f. kain tipis. 2 susunan, struktur (of society)"
+fabricate,"kkt. 1 membuat, membangun. 2 memalsukan, mengarang - ngarang."
+fabrication,"kb. 1 pembuatan, pembikinan. 2 pemalsuan. f. of reports laporan yang dibikin-bikin."
+fabulous,"ks. 1 hebat, menakjubkan. f. view pemandangan yang hebat. 2 besar. f. salary gaji yang luar biasa tingginya."
+"facade, facade",kb. 1 bagian muka dari suatu gedung. 2 tedeng aling-aling (terutama)kalau dianggap untuk menyembunyikan sesuatu kesalahan atau kelemahan.
+face,"kb. 1 muka, rupa, paras. 2 permukaan (of a cliff). 3 wajah. 4 keberanian. -kkt. 1 menghadapai. 2 menghadapkan muka, menghadap. 3 berhadapan (muka) dengan. -kki. menghadap. -facing kb. 1 bis, pinggiran. 2 lapisan (luar)."
+facecloth,kb.kain penyeka muka.
+facedown,"kk. to turn s.t. f. menelungkupkan/ meniarapkan sesuatu, sehingga mukanya berpaling kebawah."
+facet,"kb. 1 segi, sanding.  facets of te problem segi-segimasalah itu. 2 permukaan (of a gem)."
+facetious,ks. secara berkelakar. f. remarks ucapan-ucapan jenaka.
+facial,kb. masase muka. -kt. yang berhubungan dengan muka. f. expression ekspresi muka.
+facile,"ks. lancar. her f. nature tabiat yang lancar, sifatnya yang penurut."
+facilitate,kkt. memudahkan.
+facility,"kb. (j. -ties) 1 fasilitas, kesempatan. 2 kecakapan. f. for languages kecakapan dalam bahasa-bahasa."
+facsimile,"kb. reproduksi, jiplakan. a reasonable f. sesuatu yang serupa dengan itu."
+fact,"kb. 1 fakta, kenyataan.  2 kebenaran.  fact-finding kb. pencarian fakta."
+faction,"kb. golongan, kumpulan orang-orang dalam partai politik, gereja dsb."
+factor,"kb. faktor, unsur. a f. in his defeat faktor  dalam kesalahannya."
+factory,kb. (j. -ries) paberik.
+factual,"ks. yang mengandung atau berdasarkan fakta-fakta, yang sesungguhnya."
+faculty,"kb. (j. -ties) 1 staf pengajar disekolah (tinggi). 2 kemampuan, kecakapan. 3 pancaindera.  4 fakultas."
+fad,"kb. mode, iseng(-iseng). It's a f. Hanya iseng saja."
+faddist,kb. pengikut mode.
+fade,"kkt. memudarkan. -kki. 1 meluntur, menjadi pudar.  2 menghilang. 3 layu. to f. away 1 menjadi kabur, berangsur hilang. 2 mati, wafat. 3 menghilang, berangsur pergi.  -fading kb. 1 kehilangan warna. 2 TV, Tel.: kehilangan kekuatan suara atau gambar."
+fadeproof,ks. tak/tahan  luntur.
+faeces,#NAME?
+fag,"kb. ujung, akhir. f. end akhir ujung, sisa yang paling jelek. -kki. (fagged) Inf.: to f. out meletihkan. I'm fagged out Saya letih sekali."
+faggot,kb.  =FAGOT.
+fagot,"kb. berkas kayu api, seikat kayu bakar."
+fahrenheit,kb. ukuran suhu atau termometer yang memakai skala Fahrenheit.
+fail,"kb. without f. pasti, tentu. -kkt. 1 gagal/jatuh dalam. 2 meninggalkan, membiarkan. 3 menjatuhkan, tidak meluluskan.(a student). -kki. 1 lalai. 2 lupa. 3 menjadi rusak, gagal. -failing kb. kekurangan, kelemahan."
+failure,"kb. 1 kegagalan, pengabaian, pelalaian. 2 kerusakan, gangguan."
+faint,"kb. pingsan. -ks. 1 pusing. 2 redam, redup (of sounds). -kki. (jatuh) pingsan. -fainting ks. sedang/membikin pingsan. -faintly kk. sedikit."
+fainthearted,"ks. pengecut, penakut, tidak berani."
+fair,"kb. pekan raya, pasar malam. -ks. 1 kuning langsat, perang (of complexion). 2 terang. 3 adil. 4 cukup, wajar. 5 sedang, lumayan. 6 cantik.  -fairly kk. 1 agak baik. 2 hampir."
+fairground,"kb. tempat, gelanggang pekan raya."
+fairness,"kb. kejujuran, keadilan, kewajaran.  In all f. I must admit... Dengan segala kejujuran saya harus mengakui...."
+fairway,kb. 1 Nav.: aluran/jaluran pelayaran. 2 Golf.: bagian dari lapangan golf antara tempat pemukulan bola golf pertama di tiap hole dan lapangan hijau.
+fairy,kb. (j. -ries) peri. f. tale 1 cerita dongeng. 2 bohong.
+fairyland,kb. tempat yang menyenangkan dan menarik.
+fait accompli,"kb. keadaan yang dihadapi, ketentuan yang harus diterima."
+faith,"kb. 1 kepercayaan. 2 agama, keyakinan.  to act in  bad f. berbuat tidak jujur. to keep f. with tetap setia kepada.   f. healer ahli pengobatan dengan menggunakan kebatinan."
+faithful,kb. the f. j. orang-orang yang beriman.  -ks. 1 setia.  2 tepat.  -faithfully kk. tepat. to promise f. berjanji tepat.
+faithless,"ks. 1 tidak setia. 2 Rel.: tak percaya kepada  agama, tanpa iman. 3 durhaka (of a wife)."
+fake,"kb. 1 penipu. 2 gadungan, sesuatu yang palsu. -ks. palsu.  f. bill uang kertas palsu. -kkt. 1 memalsukan. 2 berbuat seakan-akan, berpura-pura."
+faker,"kb. pemalsu, penipu."
+fakir,"kb. ahli sihir, seorang wali yang hidup mengemis."
+falcon,kb. semacam burung elang yang dipergunakan untuk berburu.
+fall,"kb. 1 Meteor.: musim gugur/rontok. 2 jatuh. 3 jatuhnya. 4  runtuhnya. 5 surut. 6 turunnya. 7 tingginya. -falls j. air terjun. -kki. (fell, fallen) 1 jatuh. 2 turun. 3 gugur. 4 melihat kebawah. fall-off kb. kemerosotan.  falling-out kb. pertengkeran, sen"
+fallacious,"ks. salah, keliru. f. statement pernyataan yang menyesatkan."
+fallacy,kb. (j. -cies) buah pikiran yang keliru.
+fallen,lih  FALL.
+fallible,ks. dapat berbuat keliru/salah.
+fallopian,ks. f. tubes saluran/pembuluh telur ke kandungan rahim.
+fallout,kb. jatuhan (radioaktif). f. shelter lubang/ruang perlindungan dibawah tanah terhadap radioaktif.
+fallow,"ks. kosong, belum ditanami. to lie f. tandus."
+FALSE,ks. 1 palsu. 2 bohong. 3 tidak benar. 4 sumbang. f. colors 1 bendera palsu. 2 pembawaan diri yang dibikin-bikin. f. pretenses  alasan-alasan palsu.
+falsehood,"kb. kebohongan, dusta."
+falsetto,"kb., ks. suara buatan bernada tinggi, suara tinggi yang tidak wajar."
+falsies,"kb., j. Inf.: sumpalan, isi BH supaya buah dada kelihatan lebih montok"
+falsify,kkt. (falsified) memalsukan.
+falsity,kb. (j. -ties) kepalsuan.
+falter,"kki. 1 bimbang. 2 terputus-putus. 3 berjalan bergoyang atau terhuyung, tertatih. -faltering ks. yang bergoyang, terhuyung. -falteringly kk. dengan terputus-putus, dengan gagap."
+fame,"kb. kemasyhuran, popularitas. to win f. menjadi tenar/terkenal. of ill f. yang mempunyai nama buruk."
+famed,"ks. terkenal, termasyhur, ternama."
+familial,ks. yang berhubungan dengan keluarga. f. relationship hubungan keluarga.
+familiar,"ks. 1 terkenal, dikenal. 2 akrab. 3 yang sudah lazim."
+familiarity,"kb. (j. -ties) 1 keakraban, kebiasaan. F. breeds contempt Keakraban menimbulkan benih kebencian / rasa kurang hormat.  2 hal mengetahui."
+familiarize,kkt. to f. 0.s. with membiasakan diri dengan mempelajari supaya mengenal.
+family,"kb. (j. -lies) 1 keluarga. the human f. keluarga manusia  2 rumpun. f. of languages rumpun bahasa.  family - size ks. yang dapat memuat seluruh keluarga, cukup untuk seluruh keluarga. family-style ks. gaya yang disukai atau cocok untuk seluruh keluarga."
+famine,kb. kelaparan.
+famished,ks. sangat lapar. I'm f. Saya sangat lapar.
+famous,"ks. terkenal, termasyhur, tersohor, kenamaan (for sebagai/akan)."
+fan,"kb. kipas  (angin). 2 penggemar. -kkt. (fanned) 1 mengipas (a fire). 2 mengusir dengan kipas. 3 memperbesar, menghembus."
+fanatic,kb. seorang yang fanatik. -ks. fanatik.
+fanatical,"ks. secara fanatik.  to be f. on fanatik dalam, keranjingan yang berlebih-lebihan."
+fanatisicm,kb. fanatisme.
+fancier,"kb. 1 penggemar. 2 pemelihara (of dogs, birds, etc.) 3 lih FANCY."
+fanciful,"ks. 1 aneh, fantastis. 2 khayal. f. writer penulis cerita-cerita khayal, penulis yang penuh daya khayal."
+fancy,"kb. (j. -cies) 1 khayalan, fantasi. 2 kesukaan. 3 angan-angan. -ks. (fancier, fanciest) 1 tinggi. 2 indah. -kkt. (fancied) 1 mengkhayalkan, membayangkan. 2 mengira. 3 menyukai. 4 berangan-angan. -fancied ks. yang dikhayalkan."
+fancywork,kb. pekerjaan jahitan indah seperti sulaman dsb.
+fanfare,"kb. 1 keriuhan di pawai, pawai yang riuh. 2 Mus.: musik yang dimainkan oleh terompet-terompet. without f. tanpa gembar-gembor."
+fang,"kb. kb. 1 gigi taring. 2 gigi anjing, ular, dsb."
+fanny,"kb. (j. -nies) Sl.: pantat, bokong."
+fantail,kb. 1 ekor/ujung/bagian yang melebar seperti kipas yang terbuka. 2 Nav.: bagian buritan yang terletak diatas air dikapal.
+fantastic,"ks. 1 fantastik, luar biasa. f. story cerita yang luar biasa. 2 Inf.: sangat / amat tinggi. f. price harga yang amat tinggi. 3 tak masuk akal."
+fantasy,"kb. (j. -nies) fantasi, khayalan, lamunan."
+far,"ks. (farther, farthest). paling ujung. -kk. jauh.  far better jauh lebih baik. far-flung ks. luas sekali. far-off ks. jauh sekali. far -out ks. aneh sekali, sangat menyimpang dari yang biasa. far-ranging ks. luas.  far-seeing ks. bijaksana."
+faraway,ks. 1 jauh.  f. places tempat-tempat yang jauh. 2 bersifat melamun.
+farce,kb. 1 pertunjukan jenaka. 2 sandiwara pelawak/lelucon.
+farcical,"ks. lucu, jenaka, yang menggelikan hati."
+fare,"kb. 1 ongkos/biaya perjalanan, ongkos/harga karcis. 2 makanan (at a restaurant, boarding house). 3 penumpang (in taxi). -kki. berjalan, bepergian.  to f. well 1 berjalan baik. 2 kenyang makan."
+farewell,kb. ucapan selamat (jalan). -kseru. F.! Selamat jalan ! to bid f. to s.o. mengucapkan selamat jalan kepada seseorang.
+farm,"kb. kebun, perkebunan, rumah dan ladang, tanah pertanian, usaha tani -kkt. bercocok tanam, menanami tanah. -kki. bertani.  -farming kb. pertanian. f. community masyarakat petani."
+farmer,"kb. petani, orang tani."
+farmhouse,kb. rumah petani.
+farmland,kb. tanah pertanian.
+farmstead,kb. tanah beserta rumah-rumah pertanian.
+farmworker,"kb. buruh tani, pekerja pertanian."
+farmyard,"kb. halaman pertanian, pekarangan rumah petani."
+fart,"kb. Vulg.: kentut, angin busuk. -kki. berkentut."
+farther,kk. lih  FAR. lebih jauh. I can't go any f. Saya tak bisa pergi lebih jauh.
+farthermost,ks. yang paling jauh.
+farthest,"ks. lih FAR. paling jauh, terjauh. the f. corner of the yard pelosok terjauh di halaman."
+fasc.,"[fascicle] untai(an), lembaran, jilid."
+fascinate,"kkt. mengagumkan, mempesonakan. His skill fascinates me Kecakapannya mengagumkan saya. fascinating ks. sangat menarik, mempesonakan.  f. story cerita yang sangat menarik."
+fascination,"kb. pesona, daya tarik yang sangat kuat. He has a real f. for that girl Gadis itu betul-betul terpesona olehnya."
+fascism,kb. fasisme.
+fascist,kb. seorang fasis.
+fashion,"kb. cara, kebiasaan, basa-basi. 2 mode.  fashion- conscious ks. memperhatikan mode. f. designer pencipta mode. f. plate. a) gambar pola pakaian menurut mode terakhir. b) orang yang mengikuti mode terbaru. -kkt. menciptakan/ membuat."
+fashionable,"ks. 1 modern, sesuai dengan mode terakhir. 2 menjadi kebiasaan yang baik. -fashionably kk. yang sesuai dengan mode terakhir."
+fast,"kb. puasa, saum. -kki. berpuasa.  -ks. 1 cepat. 2 karib, erat, akrab (of a friend). 3 tahan cuci. 4 bebas. -kk. 1 cepat. 2 teguh.  fast-moving ks. yang cepat lajunya, yang berjalan/ bergerak cepat. fast-stepping   ks. maju/melangkah dengan cepat."
+fasten,"kkt. 1 mengikatkan. 2 memasang. 3 mengaitkan,  mengunci. 4 mengancingkan. -kki. to f. upon mengaitkan pada. -fastening kb. pengikat, (alat) pengunci, pengancing."
+fastener,kb. 1 alat pengunci. A lock is a common f. Kunci adalah alat pengunci yang umum.  2 pengancing. A zipper is  a useful f. Resleting adalah pengancing yang berguna.
+fastidious,"ks. terlalu berpilih-pilih, tidak mudah puas, sangat kritis, cerewet, rewel."
+fastness,"kb. 1 kecepatan. 2 kubu, benteng. mountain f. benteng pegunungan."
+fat,"kb. gemuk, lemak. -ks. 1 gemuk, tambun. 2 banyak, besar. 3 Sl.: kecil, sedikit."
+fatal,"ks. 1 yang menimbulkan kematian, yang membunuh, yang membawa maut, yang menewaskan. 2 yang menimbulkan bencana. 3 penting, yang menentukan. -fatally  kk. dalam keadaan yang menuju ke kematian."
+fatalism,"kb. fatalisme, kepercayaan bahwa nasib menguasai segala-galanya."
+fatalist,kb. fatalis.
+fatalistic,ks. fatalistis.
+fatality,kb.(j. -ties) kematian.
+fate,"kb. nasib, takdir. by the irony of f. secara kebetulan."
+fated,ks. ditakdirkan. We were f. to marry Kami ditakdirkan untuk kawin.
+fateful,"ks. amat penting. that f. day hari yang amat penting itu, hari yang menentukan itu."
+fathead,Sl.: kb. orang tolol/bodoh/dungu.
+father,"kb. 1 bapak, ayah. 2  Theol.: pendeta, paderi. 3 Theol.: Sang Ayah/Bapa. -kkt. 1 menjadi ayah. 2 berlaku sebagai ayah.  father-in-law (j. fathers-in-law) mertua laki-laki, bapak mertua. Father's Day Hari Bapak."
+fatherhood,"kb. hal menjadi bapak, keayahan."
+fatherland,kb. tanah air.
+fatherless,"ks. 1 tanpa ayah. 2 anak zina, yatim."
+fatherly,ks. yang berhubungan dengan ayah. He has a f. manner Ia bersifat kebapa-bapaan. f. advice nasihat dari seorang bapak.
+fathom,kb. depa. -kkt. 1 mengukur.  to f. the ocean mengukur dalamnya samudera. 2 mengerti. He's hard to f. Ia sukar dimengerti.
+fathomless,ks. tak dapat diduga/diukur (mis. dalamnya laut).
+fatigue,"kb. kepenatan, kelelahan, keletihan. He is suffering from f. Dia sakit karena terlalu lelah. -kkt. menghabiskan tenaga, melelahkan. f. clothes, fatigues j. pakaian (kerja, korpe). -fatiguing ks. melelahkan."
+fatness,kb. kegemukan.
+fatted,ks. yang telah digemukkan.
+fatten,kkt. menggemukkan. to f. up menggemukkan. -fattening ks. yang menggemukkan.
+fatty,ks. gemuk. f. tissue jaringan lemak.
+fatuous,"ks. tolol, bodoh, dungu. f. smile senyuman tolol."
+faucet,kb. k(e)ran.
+fault,"kb. 1 kesalahan, salah. 2 kekurangan. 3 sifat (yang buruk). -kkt. menyalahkan.  I can't f. him for forgetting Saya tak dapat menyalahkan karena ia lupa."
+faultfinder,"kb. seorang yang rewel, seorang yang selalu  menemukan kesalahan-kesalahan."
+faultfinding,"kb. bawel, cerewet."
+faultless,"ks. tak ada cacadnya, sempurna. -faultlessly kk. sangat rapi, tanpa cacad. f. dressed berpakaian sangat rapi."
+faulty,"ks. salah, cacad. f. brakes rem cacad, rem yang tidak makan."
+fauna,kb. 1 bintang-bintang di suatu daerah atau pada suatu waktu. 2 dunia binatang.
+faux pas,"kb. 1 kesalahan dalam berbicara/tindakan. to commit a f. melakukan kesalahan, melanggar tatacara. 2 kecerobohan."
+favor,"kb. 1 kemurahan/kebaikan hati. 2 hadiah, tanda-mata. 3 surat.  4 tolong. -kkt. 1 menyokong. 2 berlaku berhati-hati. 3 menyerupai. 4 memperlakukan lebih baik daripada yang lain-lain. 5 menyukai/lebih suka 6 berbaik/bermurah hati. -favored ks. kesayangan."
+favorable,"ks. baik. 2 baik, menyenangkan, menguntungkan. -favorably kk. baik, menguntungkan, menyenangkan."
+favorite,"kb. favorit, kesayangan. -ks. kesayangan, kesukaan. f. son a) anak mas, anak lelaki kesayangan. b) (di A.S.) tokoh politik yang diajukan sebagai calon Presiden."
+favoritism,"kb. sikap/tindakan memilih-milih orang yang menjadi kesayangan, sikap pilih-kasih, sikap pilih bulu."
+fawn,"kb. anak rusa. -kki. to f. (up)on 1 menjilat, bertingkah laku yang bersifat membudak. 2 mengibas-ngibaskan ekor kepada (of dog)."
+faxe,kkt. mengganggu. The bad news did not f. him Kabar buruk itu tak mengganggunya.
+"fbi, f.b.i.",[Federal Bureau of Investigation] Biro Penyelidikan Federal.
+"fcc, f.c.c.",kb. [Federal Communications Commission] Panitia Perhubungan Federal.
+fear,"kb. 1 ketakutan, rasa takut. 2 kekhawatiran. -kkt. 1 takut, kuatir. 2 kira, kuatir. -kki. to  f. for kekhawatiran akan."
+fearful,"ks. 1 takut. She is f. of loasing her ring Ia takut kehilangan cincinnya  2 menakutkan. f. sight pemandangan yang menakutkan.  -fearfully kk. terlalu amat, sangat. f. bad headache sakit kepala yang amat berat."
+fearless,"ks. tidak takut/gentar, tak kenal takut."
+fearsome,ks. yang menakutkan. f. sight pemandangan yang menakutkan.
+feasibility,kb. kemungkinan terjadi/dikerjakan.
+feasible,"ks. mungkin, dapat dikerjakan dengan mudah. It isn't f. you to be away now Tidak ada kemungkinan bagimu untuk pergi sekarang."
+feast,"kb. pesta, makan besar. f. day hari besar/raya. -kkt. menyenangkan diri sendiri. -kki. mengadakan pesta."
+feat,kb. 1 prestasi. f. of strength prestasi kekuatan. 2 perbuatan. tremendous f. perbuatan yang hebat sekali.
+feather,"kb. bulu. a f. in o's cap suatu kehormatan bagi seseorang. -kkt. Av.: memutar daun baling-baling. f. bed kasur dari bulu. -feathered ks. berbulu. our f. friends burung, unggas."
+featherbed,kki. mempekerjakan lebih banyak buruh daripada  yang diperlukan.
+featherbrained,"ks. tolol, dungu, bodoh."
+featherweight,kb. kelas bulu (tinju).
+feature,"kb. 1 roman. 2 keistimewaan, segi. 3 film utama. 4 ciri-ciri. -kkt. mengutamakan, menonjolkan. feature-length ks. sepanjang tajuk karangan. -featured ks. yang diutamakan."
+feb.,[February] Pebruari.
+feces,"kb., j. tahi, berak, kotoran, tinja."
+fecund,"ks. produktif, subur."
+fed,lih  FEED.
+fed.,[Federal] federal.
+"federal, federal",ks. federal. f. government pemerintahan federal.
+federation,kb. federasi.
+fee,"kb. biaya, ongkos, bayaran. dentist's f. ongkos bayaran seorang dokter gigi. 2 uang   (pembayaran)."
+feeble,"ks. 1 lemah.  2 sayup, lemah. 3 suram, remang-remang. feeble - minded ks. lemah pikiran. -feebly kk. dengan lemah."
+feebleness,kb. kelemahan.
+feed,kb. makanan. -kkt. (fed) 1 memberi makanan. 2 menjadi makanan.  -feeding kb. pemberian makanan.
+feedback,kb. 1 skakelar arus balik. 2  pengaruh  arus-balik.
+feedbag,kb. kantung makanan (untuk kuda). Sl.: to put on the f. (mulai) makan.
+feeder,kb. 1 orang yang memberi makanan kepada binatang. 2 tempat makanan binatang. 3 pembantu.  4 pengisi.
+feel,"kb. rasa, rabaan, sentuhan. -kkt. (felt) 1 meraba. 2 merasa. -kki. 1 merasa. 2 kira, pikir. -feeling kb. 1 perasaan. 2 daya perasaan -feelings j. perasaan. -feelingly kk. dengan penuh perasaan/semangat."
+feeler,"kb. 1 (insers) peraba, tanduk perasa. 2 penyelidikan.  3 penjajag."
+feet,lih  FOOT.
+feign,"kkt. berpura-pura. to f. illness berpura-pura sakit. -feigned ks. dibuat-buat, pura-pura. f. politeness sopan sanrtun yang dibuat-buat."
+feint,kb. pukulan pura-pura. -kki. membuat gerakan pura-pura.
+felicitate,kkt. mengucapkan selamat. We f. you on your 21st  birthday Kami mengucapkan selamat atas hari ulang tahunmu yang ke-21.
+felicitation,kb. ucapan selamat.
+felicitous,"ks. sangat tepat, sangat baik, sangat pada tempatnya. f. remarks kata-kata/ucapan-ucapan yang sangat tepat."
+felicity,kb. (j. -ties) kebahagiaan (yang besar).
+feline,kb. binatang termasuk keluarga kucing.  -ks. seperti kucing. to walk with f. grace berjalan dengan gaya lembut seperti kucing.
+fell,kkt. menebang (a tree). He was felled by a tree Ia jatuh/rubuh tertimpa pohon. lih  FALL.
+fella,"kb. Sl.: kawan, bung. How're ya. f.? Apa kabar, bung ?"
+fellow,"kb. 1 orang laki-laki. 2 kawan, orang, anak. 3 anggota.  4 mahasiswa tingkat doktoral yang menerima beasiswa. f. worker teman/rekan sekerja."
+fellowship,kb. persahabatan. 2 Acad.: beasiswa.
+felon,"kb. penjahat, narapidana."
+felonious,"ks. jahat, kejam. f. homicide pembunuhan yang kejam."
+felony,"kb. (j. -nies) kejahatan, tindak-pidana yang tergolong berat."
+felt,"kb. lakan, bulu kempa. lih  FEEL."
+fem.,"[feminine] 1 wanita, perempuan. 2 betina (of animals)."
+female,"kb. 1 wanita, perempuan. 2 betina. That dog a f. Anjing itu betina. -ks. wanita, perempuan. f. companion teman wanita."
+feminine,ks. dari atau berhubungan dengan gadis atau wanita.
+femininity,kb. kewanitaan.
+feminisme,"kb. feminisme, keadaan kewanitaan."
+feminist,kb. pejuang hak-hak wanita.
+femoral,ks. dari atau berhubungan dengan tulang paha. f. artery pembuluh nadi paha.
+femur,kb. tulang paha.
+fence,"kb. 1 pagar. 2 (receiver or stolen goods) tukang tadah. -kkt. memagari. -kki. bermain anggar. fence-sitter orang, golongan atau negara yang tidak berpihak. -fence-straddling kb. (ber)sikap netral -fencing kb. olahraga anggar."
+fencer,kb. pemain anggar.
+fend,"kkt. menolak, menangkis. to f. off blows menangkis pukulan-pukulan. -kki. menjaga diri.  to f. for myself menjaga diri saya sendiri."
+fender,"kb. spatbor, sayap recik/roda."
+fennel,kb. adas.
+ferment,"kb. keadaan meragi. -kki. beragi, meragi. The cider fermented Air apel itu meragi."
+fermentation,"kb. peragian, fermentasi"
+fern,"kb. pakis, paku."
+ferocious,"ks. 1 ganas, buas, garang. 2 galak (of a dog)."
+ferocity,"kb. (j. -ties) keganasan, kebuasan, kegarangan. the f. of the wind keganasan angin."
+ferret,"kb. semacam musang yang telah dijinakkan dan dipakai untuk membunuh tikus-tikus atau berburu kelinci. -kkt. to f. out menguber-uber, menemukan."
+ferric,ks. f acid asam besi.
+ferris,kb. f. wheel kincir ria.
+ferrous,ks. f. sulfide besi  belerang.
+ferry,"kb. (j. -ries) 1 perahu/kapal tambang, tambangan. 2 menerbangkan pesawat  udara untuk diserahkan kepada yang membeli. -kkt. menambangkan."
+ferryboat,kb. perahu/kapal tambang.
+ferryman,kb. (j. -men) tukang tambang.
+fertile,ks. 1 subur.  f. mind pikiran yang subur. 2 yang dibuahi. f. egg. telur yang dibuahi.
+fertility,kb. kesuburan.
+fertilization,"kb. 1 perabukan, pemupukan. 2 penghamilan, pembuahan (of an egg)."
+fertilize,"kkt. 1 merabuk, memupuk (soil, yard). 2 membuahi (an egg)."
+fertilizer,"kb. pupuk, rabuk."
+fervent,"ks. kuat, keras, sungguh-sungguh.  -ferventely kk. dengan kuat, dengan sangat."
+fervor,"kb. kegairahan, semangat."
+fess,kki. Sl.: to f. up mengaku.  The little boy fessed up that... Anak kecil itu mengaku bahwa...
+fester,"kki. 1 bernanah. 2 membusuk, memburuk. Don't let your hate f. Jangan biarkan rasa bencimu itu memburuk."
+festival,kb. pesta (perayaan). water f. pesta air. f. atmosfphere suasana perayaan/pesta.
+festive,ks. dari atau berhubungan dengan pesta. in a f. mood dalam suasana pesta.
+festivity,"kb. (j. -ties) pesta-pesta, pesta ria, perayaan."
+festoon,"kkt. memperhias, menghias (dengan rangkaian bunga yang bergantung)."
+fetal,ks. yang berhubungan dengan janin.
+fetch,"kkt. 1 mengambil(kan). 2 menjemput. 3 mencapai, mendapat, memperoleh. fetching ks. yang menarik. f. dress pakaian (wanita yang menarik)."
+"fete, fete","kb. pesta (raya), jamuan. -kkt. menjamu. He was feted on the occasion of the award Dia dijamu meriah pada peristiwa pemberian hadiah itu."
+fetid,"ks. berbau-busuk, kohong."
+fetish,kb. 1 jimat. 2 pemjaan yang mutlak/mendalam.
+fetter,"kb. 1 (shackle) belenggu. 2 kekangan-kekangan. -kkt. mengikat, membelenggu."
+fettle,kb. keadaan. in fine f. dalam keadaan baik. baik.
+fetus,kb. janin.
+feud,"kb. permusuhan, perseteruan, kasemat."
+feudal,ks. feodal.
+feudalism,kb. feodalisme.
+fever,kb. demam. to run a f. sakit demam.
+fevered,"ks. 1 hangat, penuh kegelisahan. 2 panas. f. brow dahi yang panas."
+feverish,"ks. mendemam. -feverishly kk. bergesa-gesa, tergesa-gesa, keburu-buru, lekas-lekas."
+few,"kb. golongan kecil.  2 sedikit, beberapa orang.  -ks. beberapa.  f. and far between jarang sekali."
+fex,"kb. kopiah, tarbus."
+"fiance, fiance",kb. tunangan (lelaki).
+"fiancee, fiancee",kb. tunangan (wanita).
+fiasco,kb. kegagalan.
+fib,"kb. kebohongan, kedustaan. to tell a f. (ber)bohong. -kki. (fibbed) berbohong, membohong."
+fiber,"kb. 1 serabut, serat. rope f. serabut tali.  2 urat. muscle f. urat otot."
+fiberboard,kb. papan serat.
+fiberglass,"kb. serat gelas, kaca-serat."
+fibre,kb. =  FIBER.
+fibrous,"ks. bersabut, berserat, berbenang- benang, berserabut."
+fibula,kb. tulang betis.
+fickle,"ks. berubah-ubah, tidak tetap, plin-plan. a f. girl seorang gadis yang pikirannya berubah-ubah."
+fiction,"kb. 1 fiksi, cerita rekaan. 2 khayalan. The 'average' American is a f. Yang disebut orang Amerika 'pukul rata' hanya khayalan saja."
+fictional,ks. (bersifat) khayal.
+fictitious,ks. 1 khayalan. 2 samaran. 3 yang dibuat-buat.
+fiddle,kb. Inf.: 1 biola.  2 (Indonesian) rebab. -kkt. menggesek(kan). to f. with memainkan.
+fiddle-de-dee,kseru. omong kosong.
+fiddle-faddle,kki. Inf.: menghabis-habiskan waktu dengan hal remeh.
+fiddler,kb. pemain biola.
+fiddlestick,kb. Inf.: penggesek biola. -fiddlesticks kseru. j. omong kosong.
+fidelity,"kb. (j. -ties) 1 kesetiaan, ketaatan. 2 kejituan, kebenaran. high. f. recording perekaman yang sangat teliti dan murni."
+fidget,"kb. keadaan/perasaan gelisah. to give s.o. the fidgets memberikan seseorang kegelisahan, membuat seseorang gelisah. -kki. menjadi gelisah."
+fidgetiness,"kb. keresahan, kegelisahan."
+fidgety,"ks. gelisah, tidak tenang, resah."
+fiduciary,"kb., ks. (j. -ries) gadai(an).f. possession milik gadaian."
+field,"kb. 1 ladang, tanah lapang, padang. 2 lapangan, bidang. 3 medan, alun-alun. 4 dasar. -kkt. 1 menjawab dengan tangkas. 2 menangkap dan mengembalikan bola. (baseball)."
+fiend,"kb. setan, iblis. You f.! Persetan kau!"
+fiendish,kb. jahat dan kejam.  f. look pandangan buas.
+fierce,"ks. 1 sengit, hangat, dahsyat. f. argument perdebatan sengit.  2 galak. f. animal binatang yang galak. 3 terik. f. heat panas yang terik. -fiercely kk. dengan ganas/dahsyat. We were f. attacked Kami diserang dengan hebat."
+fierceness,"kb. keganasan, kebuasan. the f. of the attack a) keganasan kedahsyatan serangan/terkaman seekor binatang buas liar. b) (by a political opponent) kehebatan serangan (seorang lawan politik)."
+fiery,ks. 1 berapi-api. f. lecture ceramah yang berapi-api. 2 pedas. f. sauce f. kuah yang pedas.
+fiesta,kb. pesta.
+fife,"kb. suling, seruling, serunai."
+fifteen,"kb., ks. lima belas."
+fifteenth,ks. yang kelima belas. the f. of March tanggal lima belas Maret.
+fifth,kb. 1 = 1/5 gallon setakaran) (minuman keras). 2 seperlima. -ks. yang kelima. f. wheel barang orang yang tak diperlukan. -fifthly kk. (yang) kelima.
+fiftieth,ks. yang kelima puluh.
+fifty,kb. (j. -ties) lima puluh. to go fifty-fifty masing-masing separuh. -fifties j. sekitar lima-puluhan.
+fig,kb. ara. f. leaf daun ara.
+fig.,[figure] gambar.
+fight,"kb. 1 perkelahian, pertengkaran, pertarungan. 2 Box.: pertandingan tinju. -kkt. 1 berjuang melawan. 2 memerangan, mengalahkan. 3 memperjuangkan. 4 meninju, beradu tinju dengan. 5 berkelahi dengan. -fighting kb. perkelahian.  ks. berjuang."
+fighter,"kb. 1 pejuang (for a cause, an idea) 2 Box.: petinju. 3 Av.: pesawat tempur."
+figment,kb. isapan jempol. f. of my imagination kilasan khayalan saya.
+figurative,"ks. bersifat perlambang atau kiasan. -figuratively kk. beribarat, mengandung ibaratsecara kiasan. f. speaking beribarat."
+figure,"kb. 1 bentuk badan. 2 bilangan, angka. 3 jumlah, bilangan. 4 tokoh. 5 gambar. 6 harga. -figures j. ilmu hitung. -kkt. 1 menghitung, menjumlahkan. 2membayangkan. -kki. 1 berhitung. 2 Inf.: kira. 3 terdapat, tertera. -figured ks. bergambar."
+figurehead,"kb. bukan pemimpin sungguh - sungguh, pemimpin namanya saja, boneka."
+figurine,kb. arca/patung kecil.
+filament,kb. kawat pijar.
+filch,kkt. mencuri (secara kecil-kecilan). to f. candy from a jar mencuri gula-gula dari stoples.
+file,"kb. 1 arsip, catatan, berkas. 2 tempat surat. 3 berkas catatan - catatan, bundel surat-surat. 4 kikir. 5 baris. -files j. perkintalan, arsip. -kkt. 1 menyimpan. 2 mengajukan. 3 mengikir. 4 menurunkan.  5 memangur, mematar."
+filer,kb. 1 tukang kikir. 2 juru arsip.
+filet,kb. =  FILLET. f. mignon daging sapi (bagian belakang) yang tebal dan empuk.
+filial,ks. yang berhubungan dengan anak laki-laki atau anak  perempuan. f. affection kasih-sayang anak.
+filibuster,kb. usaha menggagalkan penetapan undang-undang dengan pidato-pidato yang amat panjang dan tak habis-habis. -kki. berusaha menggagalkan penetapan undang-undang dengan pidato-pidato yang amat panjang.
+filifies,lih   VILIFY.
+filigree,kb. barang perhiasan dari benang mas yang sangat halus.
+filipino,kb. orang Filipina.
+fill,"kb. tanah dan kerikil pengisi (untuk kereta api, jalan raya).  -kkt. 1 mengisi. 2  memenuhi, mengisi. 3 memenuhi, melayani. 4 membuat.  5 menempati, 6 menambal (a tooth). -kki. diisi, terisi. fill-in kb. 1 pengganti. 2 keterangan-keterangan data-data."
+fillagree,kb.  =  FILIGREE.
+filler,kb. 1 pengisi. f. for s looseleaf notebook lembaran-lembaran kertas untuk mengisi buku catatan yang memakai kertas-kertas lepas. 2 News : berita-berita pendek pengisi (halaman) surat kabar.
+fillet,kb. potongan tipis  daging yang tak bertulang. f. of fish daging ikan yang tak bertulang.
+fillip,"kb. perangsang, penyegar. Lime juice gives an added f. to this drink Air jeruk menjadikan minuman ini bertambah segar/lebih menyegarkan."
+filly,kb. (j. -lies) 1 ( horse) anak kuda betina. 2 seorang gadis yang lincah.
+film,"kb. 1 pilem. 2 lapisan tipis ganggang / lumut (on a pond). 3 selaput. 4 lapisan pada gigi (on the teeth). -kkt. mempilem, membuat pilem. -kki."
+filmgoer,"kb. penonton bioskop, pengunjung pilem."
+filmstrip,kb. rentetan foto di pilem.
+filter,"kb. 1 saringan.  2 penapis, tapisan. 3 penyaring. -kkt. menyaring, menapis (water, oil). -kki. merembes.  f. cigarette sigaret filter,  sigaret pakai saringan. f. tip 1 pangkal penyaring. 2 sigaret pakai saringan."
+filth,"kb. 1 kotoran, sampah. 2 kecemaran, kemesuman, cabul, porno. 3 (of animals) najis."
+filthiness,"kb. 1 kekotoran. 2 kecabulan, kemesuman."
+filthy,"ks. 1 kotor, dekil. Her hands were f. Tangannya kotor.  2 mesum, cabul, ceroboh.  f. magazines majalah-majalah cabul."
+fin,kb. 1 sirip (of fish). 2 sirip-sirip karet (of swimmers).
+finagle,kkt. mendapatkan (dengan kecerdikan atau menipu).  to try to f. s.t. extra berusaha (dengan cara licik) untuk mendapatkan sesuatu sebagai tambahan.
+final,"kb. finals j. 1 Acad.: penamatan sekolah, hari wisuda. 2 Acad.: ujian terakhir. 3 Sport : pertandingan terakhir, finale. -ks. 1 terakhir.  2 menentukan. 3 penghabisan. 4 keras  hati. -finaly kk. akhirnya."
+finale,"kb. 1 penutup, finale. 2 babak wasana/mutakhir, bagian terakhir dari musik atau sandiwara."
+finalist,kb. orang finalis.
+finalize,"kkt. mematangkan, menyelesaikan, mengakhiri, membereskan. to f. plans for menyelesaikan rencana-rencana untuk."
+finance,"kb. keuangan. -kki. 1 membiayai, membelanjai. 2 membayar. f. company perusahaan pemberi kredit. -financing kb. pembelanjaan, pembiayaan."
+financial,"ks. finansiil, yang berhubungan dengan keuangan. f. difficulties kesulitan keuangan. -financially kk. mengenai soal-soal keuangan, dalam soal keuangan."
+financier,"kb. pembiaya, yang memberi modal, ahli keuangan, modalwan."
+finch,kb. semacam kutilang (jenis burung penyanyi).
+find,"kb. penemuan.  -kkt. (found) 1 menemukan.  2 mendapati. 3 mengenai.  4 mendapatkan. 5 merasa(kan). 6 mengetahui. 7 melihat. -finding kb. 1 penemuan, pendapatan. 2 kesimpulan (of a report). 3 keputusan (of a jury). 4 temuan."
+finder,kb. penemu. range f. pengukur jarak.
+fine,"kb. Law : denda. -ks. 1 sangat baik, bagus. 2 runcing, halus (of a pen point). 3 menyenangkan.  4 halus. 5 tajam.  -kk. 1 baik. 2 enak.-kkt. mendenda. fine-cut ks. rajangan / racikan halus. fine-grained ks. berjaringan halus. -finely kk. dengan halus."
+fineness,"kb. 1 kehalusan (of wire, thread, steel) 2 keindahan, kebagusan. 3 ketajaman, keruncingan (of a needle)."
+finery,"kb. (j. -ries) 1 dandanan, pakaian bagus. 2 perhiasan."
+finesse,"kb. 1 kecakapan, kecerdikan, kecekatan, kemahiran. 2 Bridge : muslihat. -kki. Bridge : mempergunakan siasat."
+finger,"kb. jari. Inf.: to have a f. in the pie ikut campur, turut mengambil bagian. -kkt. menyentuh.  -fingering kb. Mus.: main jari, cara memainkan jari."
+fingernail,kb. kuku tangan/jari.
+fingerprint,kb. sidik jari. -kkt. mengambil sidik jari.
+fingertip,kb. ujung jari. to have the information at his fingertips mengenal keterangan-keterangan yang segera dapat dipergunakan.
+finicky,ks. rewel. He is awfully f. about what he eats Dalam hal makanan ia sangat rewel.
+finis,"kb. akhir, kesudahan."
+finish,"kb. akhir, penghabisan. 2 cat penutup, politur. 3 kesempurnaan. 4 lapisan penutup. -kkt. 1 menyelesaikan, menyudahi. 2 menghabiskan. 3 menghaluskan (wood). 4 tutup. -kki. 1 selesai.  2 menamatkan. -finished ks. selesai. -finishing ks. terakhir."
+finite,ks. terbatas. f. number bilangan terbatas.
+finland,kb. Finlandia.
+finn,kb. orang Finlandia.
+finnish,kb. bahasa Finlandia. -ks. yang berhubungan dengan Finlandia. the F. language bahasa Finlandia.
+fir,kb. semacam pohon cemara.
+fire,"kb. 1 api. 2 (api) kebakaran. -kkt. 1 menembakkan (a gun, torpedo). 2 memecat. 3 menyalakan (a furnace). -kki. berbunyi, meletus.  -firing kb.  1 penembakan. 2 pemecatan (discharge). 3 pembakaran."
+firearm,kb. senjata api.
+fireball,"kb. 1 bola api. 2 Inf.: seorang yang mempunyai semangat yang luar biasa besarnya, seorang yang penuh gairah. He's a real f. Dia sungguh hebat. Dia bersemangat."
+fireboat,kb. kapal pemadam kebakaran.
+firebomb,kb. bom api/pembakar.
+firebox,"kb. tungku, perapian."
+firebrand,kb. 1 puntung berapi. 2 pengasut.
+firebug,"kb. Inf.: pembakar (rumah, gedung)."
+firecracker,"kb. mercon, petasan."
+firefighter,kb. seorang pemadam kebakaran.
+firefly,kb. (j. -lies) kunang-kunang.
+firehouse,"kb gedung jawatan pemadam kebakaran, pos kebakaran."
+fireless,ks. tanpa api. f. cooker panci listrik.
+fireman,"kb. (j. -men) 1 RR.: tukang api, setoker. 2 anggota pemadam kebakaran. f. 's knot simpul penolong."
+fireplace,"kb. perapian, tungku."
+firepower,kb. daya tembak.
+fireproof,ks. tahan api. f. point cat penahan api. -kkt. membuat tahan api.
+firer,kb. 1 penembak (of a gun). 2 pemecat (of personnel).
+fireside,kb. tempat duduk di muka perapian.
+firetrap,kb. gedung yang mudah terbakar. That building is a f. Gedung itu mudah terbakar.
+firewarden,kb. penjabat pemadam kebakaran yang bertanggung jawab di satu daerah.
+firewater,kb. Sl.: minuman keras.
+firewood,kb. kayu bakar.
+fireworks,"kb., j. mercon, petasan, kembang api. Inf.: When she found her husband with another woman, there were f. Ketika diketahuinya suaminya bersama  dgn   wanita lain, meledaklah pertengkaran hebat."
+firm,"kb. perusahaan, firma. -ks. 1 tetap, tegap. 2 tegas. 3 akrab. 4 kokoh, kuat.  5 teguh. 6 keras (of breast). -kk. 1 kuat. 2 tetap tabah.  -firmly kk. 1 benar-benar, sungguh. 2 rapat-rapat. 3 dengan kuat."
+firmament,kb. cakrawala.
+first,"kb. 1 hadiah pertama. 2 Auto.: persneling satu. 3 yang terbagus, berkwalitas paling baik. -ks. 1 yang pertama. 2 satu. 3 yang pertama - tama.-kk. 1 pertama-tama. 2 dulu(an) terdahulu. -first-string ks. dari pertama, ulung, baik sekali. -firstly"
+fiscal,ks. yang berhubungan dengan keuangan. f. policy politik keuangan. f. year tahun pembukuan.
+fish,"kb. ikan.  -kkt. mengambil, merogoh.  -kki. mengail. to f. out 1 menangkap ikan sampai habis. 2 mendapat keterangan dengan bertanya hati - hati.  -fishing  kb. pemancingan, pengailan, penangkapan ikan."
+fishbone,"kb., tulang ikan."
+fisherman,kb. (j. -men) nelayan.
+fishery,kb. (j. -ries) 1 industri penangkapan ikan. 2 perikanan. Bureau of Fisheries Jawatan Perikanan.
+fishhook,"kb. mata kail, pancing."
+fishpond,kb. kolam ikan.
+fishworm,"kb. cacing pengail, umpan."
+fishy,ks. 1 amis. The kitchen smells f. Dapur itu amis baunya. 2 Inf.: mencurigakan. There is s.t. f. about the affair Ada sesuatu yang mencurigakan dalam peristiwa itu.
+fission,"kb. 1 pembelahan, pembagian (sel). 2 Nucl.: pemecahan."
+fissure,"kb. celah, belahan, retak(an)."
+fist,"kb. tinju, kepalan tangan. f. fight baku hantam."
+fistful,kb. segenggam.
+fisticuffs,"kb.,j. adu/main tinju, baku hantam."
+fistula,kb. Med.: hiliran.
+fit,"kb. 1 serangan tiba-tiba. 2 pas. -ks. 1 pantas, patut, layak. 2 sehat. 3 dapat, siap. 4 baik. -kk. to see f. memutuskan. -kkt. (fit atau fitted) 1 cocok dengan. 2 mencocokkan / menyusun kembali. 3 menjadikan. fitings kb., j. benda-benda, perabot."
+fitful,"ks. resah, gelisah, tidak tenang. f. sleep tidur yang tidak tentram.-fitfully kk. tertegun-tegun, gelisah, lasak. I slept f. last night Tidurku gelisah saja semalam."
+fitness,kb. 1 kemampuan. I question his f. for the job Saya sangsikan kemampuannya untuk pekerjaan itu. 2 (appropriateness) kecocokan. physical f. kesehatan jasmani.
+fitter,"kb. 1 pemasang, pengepas. pipe f. pemasang pipa. 2 Cloth.: tukar ukur baju, tukang jahit."
+five,"kb., ks. lima. five-spot kb. Inf.: 1 uang kertas lima dolar. 2 kartu lima (card). five-star ks. berbintang lima. five-year ks. lima tahun."
+fiver,kb. Inf.: uang kertas lima dolar.
+fix,"kb. 1 kesulitan. 2 Nav.: penentuan posisi. 3 Sl.: suapan. 4 Narc.: Sl.: dosis obat bius. -kkt. 1 memperbaiki, membetulkan. 2 menyediakan. 3Inf.: mengatur, merapikan. 4 Inf.: main kongkalikong, menyuap. 5mengatur, mengurus. 6 menentukan. - fixed"
+fixation,"kb. fiksasi, pendapat/perasaan yang mendalam. a f. about cleanliness fiksasi mengenai kebersihan, perasaan yang mendalam mengenai kebersihan."
+fixer,kb. 1 tukang pasang. 2 Inf.: tukang suap.
+fixture,"kb. perlengkapan tetap, peralatan tetap. She's become a f. iin the office Ia telah menjadi perlengkapan tetap di kantor itu."
+fiz,#NAME?
+fizz,"kb. 1 desis (air). 2 minuman yang menguap. -kki. meruap, mendesis."
+fizzle,"kb. kegagalan. -kki. 1 mendesis (of rockets, firecracker). 2melempem,gagal. The project fizzled out Proyek itu gagal/mati."
+fla,(Florida) negara bagian A.S.
+flabbergast,kkt. Inf.: sangat mengherankan. I was flabbergasted when... Saya ternganga keheranan ketika...
+flabbiness,"kb. kelembekan, kelembutan, kelemahan."
+flabby,"ks. lembek lembut (dagingnya bergantungan), lemah, lunak, kendur-kendur."
+flaccid,"ks. lembek, lembut, lemah."
+flag,"kb. bendera. f. of truce bendera putih. -kkt. (flagged) melambaikan tangan. -kki. merosot berkurang.  -flagging ks. mengendor, lesu. to revive o's f. spirits menghidupkan kembali semangatnya yang mengendur."
+flagpole,kb. tiang bendera.
+flagrant,ks. yang menyolok. f. error kesalahan yang menyolok. f. act of murder perbuatan pembunuhan yang menggemparkan.
+flagship,kb. kapal pemimpin.
+flagstone,"kb. batu hampar, batu ubin besar."
+flail,"kkt. memukuli, mencambuk."
+flair,"kb. 1 pengamatan yang tajam, kepandaian memilih dan menentukan. 2 bakat."
+flak,kb. 1 tembakan penangkis udara. 2 meriam penangkis udara.
+flake,"kb. serpih atas, jonjot. f. of snow serpih salju. -kki. mengelupas, menyerpih."
+flaky,"ks. 1 mengeripik. The pie crust is f. Kulit kueh itu mengeripik. 2 berlapis- lapis, mudah dibelah. Sandstone is a f. rock Batu pasir adalah batuan yang berlapis-lapis."
+flamboyance,kb. keelokan semarak.
+flamboyant,"ks. 1 (ber)semarak/cemerlang. f. personality pembawaan yang semarak, pribadi yang cemerlang. 2 penuh bunga bahasa. f. speech pidato yang penuh bunga bahasa."
+flame,"kb. 1 lidah/nyala api. 2 api. -kki. bernyala, berkobar. -flaming ks. 1 sedang terbakar/menyala. 2 berapi. 3 bersinar-sinar. f. eyes mata yang bersinar-sinar, pandangan yang berapi-api."
+flameproof,ks. tahan api.
+flammable,"ks. mudah terbakar, yang bisa cepat dimakan api."
+flange,"kb. flens, pinggiran roda."
+flank,"kb. 1 panggul (of person or animal). 2 sayap, sisi. -kkt. mengapit."
+flannel,kb. cita pelanel. He looks nice in his flanels Ia tampan tampaknya dengan baju pelanel itu.
+flap,"kb. 1 penutup. 2 tutup. 3 Sl.: keadaan bingung, kehebohan. 4 sirip sayap pesawat terbang. -kkt. (flapped) 1 mengepak (its wings). 2 memukul. 3 mengelepakkan (o's arms). -kki. 1 terkepak-kepak. 2 mengelepak."
+flapjack,"kb. penekuk, semacam serabai."
+flapper,kb. Inf.: seorang gadis modern jaman 1920-an.
+flappy,ks. yang mengepak-ngepak. f. hat topi yang terkulai-kulai.
+flare,"kb. 1 cerawat, nyala api, suar. 2 bagian yang melebar (of a skirt or dress). -kki. 1 menyala. 2 mengembang. flare-up kb. 1 kemarahan, pertengkaran sengit. 2 golak-gejolak (of a struggle). flared  skirt rok layang."
+flash,"kb. 1 cahaya. 2 kilasan. -kkt. 1 menyiarkan. 2 memberikan, mengirim. 3 menyorotkan. -kki. menyala. -flashing  ks. sebentar - sebentar menyala.  f. lights  cahaya kelap-kelip."
+flashback,kb. sorot balik.
+flashbulb,kb. balon/bolah lampu potret.
+flashcard,"kb. kartu pengingat, kartu yang diperlihatkan sekilas."
+flashlight,kb. lampu senter. f. battery batu senter/baterai.
+flashy,"ks. (serba) menyolok, menyilaukan. f. tie dasi yang menyolok."
+flask,"kb. botol, labu (di laboratorium kimia)."
+flat,"kb. 1 flat, rumah petak bertingkat. 2 tapak, setapak.  3 ban yang kempes. -flats j. sepatu bertumit rata. -ks. 1 datar. 2 rata. 3 ceper. 4 kempis, kempes. 5 mentah-mentah. -kk. 1 hambar, tawar. 2 tepat, persis. 3 sama sekali."
+flatcar,kb. gerobak datar.
+flatiron,kb. seterika.
+flatland,"kb. tanah datar, dataran."
+flatten,"kkt. 1 meratakan, memaparkan. 2 memesekkan (a nose). 3 meluruskan"
+flatter,"kkt. 1 merayu. 2 menganjung, menyanjung, memuji.  -flattering ks. memuji-muji, menyanjung-nyanjung."
+flattere,"kb. pemuji, penyanjung, perayu."
+flattery,"kb. (j. -ries) bujukan yang berlebih-lebihan, puji-pujian yang sifatnya menjilat, rayuan, sanjungan."
+flattop,kb. Nau : Inf.: kapal induk.
+flatulence,kb. gas dalam perut/usus.
+flatulent,ks. mengandung/membentuk gas dalam perut.
+flatus,kb. kentut.
+flatware,kb. 1 piring-piring ceper. 2 sendok garpu dan pisau terbikin dari atau berlapis perak.
+flatwork,"kb. bahan-bahan kain/lenan (handuk, sarung bantal dsb.) yang tak begitu perlu diseterika sesudah dicuci."
+flaunt,"kkt. melagak, menjual tampang, memamerkan. to f. o's wealth melagakkan kekayaannya"
+flautist,kb. pemain suling logam.
+flavor,"kb. 1 rasa, selera. f. of candy rasa gula-gula. 2 bau. f. of onions bau bawang. 3 ciri rasa. -kkt. membumbui, memberi bumbu. -flavoring kb. perencah. vanilla f. perencah panili."
+flavorless,"ks. tanpa rasa, hambar."
+flaw,"kb. 1 cacat, kerusakan (in garments, china, etc.) 2 kekurangan."
+flawed,ks. bercacat. f. diamond intan yang bercacat.
+flawless,"ks. sempurna, mulus, tanpa cacat. f. record angka-angka yang sempurna."
+flax,"kb. rami (halus), batang lenan."
+flaxen,"ks. terbuat dari rami, berwarna kuning muda. flaxen-haired ks. rambut yang berwarna seperti jerami."
+flay,"kkt. 1 menguliti (skin, hide). 2 mengecam. to be flayed by the critics dikecam habis-habisan oleh para kritikus/pengulas."
+flea,"kb. kutu (pada hewan). flea-bitten ks. digigit kutu (anjing, kuda dsb). f. market pasar loak/rombengan."
+fleabite,kb. bekas gigitan kutu anjing dsb.
+fleck,kb. bintik-bintik (pada kulit).
+fled,lih  FLEE.
+fledgling,"kb. calon, seorang yang masih muda dan belum berpengalaman. f. pilot calon penerbang."
+flee,"kkt. (fled) melarikan diri.  -kki. 1 melarikan diri. 2  mengambil langkah seribu. 3 (meng)hilang, lenyap. 4 lari. to f. for o's life lari menyelamatkan diri."
+fleece,"kb. bulu domba. -kkt. 1 memotong/mencukur bulu domba. 2 merampas, menipu."
+fleecy,ks. 1 dilapis dengan atau terdiri dari lapisan wol. 2 putih dan lembut. f. clouds awan putih dan lembut.
+fleet,"kb. 1Nau.: armada. 2 konvoi, iring-iringan.  -ks. tangkas, cekatan, cepat. -kki. Time is fleeting Waktu berlalu cepat. -fleeting ks. yang berlalu (cepat)."
+flesh,"kb. daging. to put on f. bertambah gemuk. -kkt. to f. out meluaskan, menyempurnakan. -flesh-colored ks. berwarna seperti daging. flesh-eating ks. yang makan daging. f. wound luka enteng."
+flew,lih  FLY.
+flex,kkt. melenturkan. to f. o's muscles menegangkan otot-ototnya.
+flexibility,kb. sifat melentur.
+flexible,"ks. 1 lunak, lemas, mudah dilenturkan. 2 bisa ditukar-tukar, mudah disesuaikan."
+flick,kb. 1 ceklikan. 2 Sl.: pilem. -kkt. 1 menjentik(kan). 2 mengibaskan.
+flicker,"kb. 1 kerdipan, kelap-kelip, kedipan 2 kejapan. -kki. 1 berkelip-kelip. 2 berkelip, berkelap. 3 berkedip. -flickering kb. kerlap-kerlip.."
+flier,kb. =  FLYER. Inf.: to take a f. in politics mengadu untung dalam politik.
+flies,lih  FLY.
+flight,"kb. 1 penerbangan.  2 terbangnya. 3 tingkat. 4 lari (nya). 5 pengaliran. f. deck 1 landasan peawat terbang diatas kapal induk. 2 ruang pesawat terbang yang digunakan oleh pilot, co-pilot dsb."
+flightiness,"kb. tingkah laku yang tak karuan, kesemberonoan."
+flighty,"ks. bertingkah, bertingkah laku tak karuan."
+flimflam,kkt. (flimflammed) menipu.
+flimsy,"kb. 1 semacam kertas tipis yang digunakan oleh wartawan. 2 naskah berita diatas kertas yang tipis. -ks. 1 tipis, sangat halus. 2 yang bukan - bukan, lemah."
+flinch,"kki. 1 menyentak.  2 mengingkari, meninggalkan, menarik/menjauhkan diri."
+fling,"kb. masa bebas, belum puya tanggung jawab. -kkt. 1 melemparkan, menghempaskan. 2 menjebloskan. -kki. lari dengan cepat. to f. out 1 merentangkan. 2 mencaci-maki (at the government)."
+flint,kb. batu api/geretan.
+flip,"kb. terjun, sambil memutar badan. -kkt. (flipped) 1 melemparkan.  2 menjentikkan. 3 memadamkan, memutar mati (a switch). 4 membalik. -kki. Sl.: memberontak, memprotes flip-flop kb. 1 main salto. 2 perubahan (mutlak). kki. (flip-flopped)"
+flippancy,kb. (j. -cies) kesembronoan dalam berbicara.
+flippant,"ks. 1 sembrono. f. reply jawaban yang sembrono. 2 pandai ngomong, bermulut usil."
+flipper,"kb. sirip (ikan paus, anjing laut). 2 sayap (of penguin)."
+flirt,"kb. orang yang genit. -kki. 1 main-main, bercumbu-cumbuan. 2 mereka-reka. -flirting kb. bercumbu-cumbuan."
+flirtation,"kb. asyik-ma'syuk, berpacaran,  (ber) main-main, cumbu-cumbuan."
+flirtations,ks. genit.
+flit,"kb. F. Flit. -kkt. (flitted) 1 berganti-ganti. 2 terbang. 3 melintasi, melayang dengan cepat. f. gun alat penyemprot obat (pembunuh) serangga."
+flivver,kb. Sl.: mobil kecil yang  harganya murah dan tidak baru lagi.
+float,"kb. 1 pengapung, pelampung. 2 kendaraan berhias (dalam pawai). -kkt. 1 mengadakan.  2 mengapungkan, mengangkat. -kki. 1 terapung, mengapung. 2 berapung - apung. 3 (of the dollar) mengambang melayang. 4 hanyut. 5 tersebar. floating kb. pengambangan."
+floater,kb. 1 Inf.: orang yang sering berganti-ganti kerja. 2 polis asuransi yang meliputi segolongan barang-barang seperti perabot rumah tangga.
+flock,kb. 1 kawan. 2 jemaah. -kki. berkumpul.
+floe,"kb. gumpalan es yang terapung, kepingan dari bidang es yang terapung."
+flog,"kkt. (flogged) mencemeti, mencambuk dengan cemeti, mendera. Sl.: to f. a dead horse mencari jejak didalam air. -flogging kb. dera, pukulan-pukulan."
+flood,"kb. banjir, air bah (of tears, letters, etc). -kkt. 1 membanjiri.  2 mengaliri. 3 mengairi/menggenangi. -kki. 1 meluap. 2  membanjir. flood-stricken ks. dilanda banjir. -flooding kb. kebanjiran, membanjirnya, penggenangan."
+floodgate,kb. pintu air.
+floodlight,kb. lampu sorot. -kkt. (flood-lighted atau floodlit) menyinari dengan lampu sorot.  -floodlit ks. yang disinari dengan/oleh lampu sorot.
+floor,"kb. 1 lantai. 2 tingkat. 3 dasar. 4 mimbar pidato. -kkt. 1 melantai, memapani. 2 Inf.: merubuhkan / menjatuhkan. 3 Inf.: membingungkan. -flooring kb. bahan untuk lantai."
+floorboard,"kb. lantai sebuah mobil, terutama di tempat (ruang) sopir."
+floormat,"kb. tikar, babut."
+floorwalker,kb. pegawai di toko besar yang mengawasi penjualan di suatu tingkat.
+"floozie, floozy",kb. (j. -zies) Sl.: 1 perempuan sundal. 2 gadis atau wanita yang tidak cerdas dan tidak menarik.
+flop,kb. Inf.: kegagalan.  -kki. (flopped) Inf.: 1 gagal. 2 menggeletak.
+floppy,"ks. yang terkelapai, yang (berat) terkulai. f. hat topi yang terkelapai."
+flora,kb. 1 tumbuh-tumbuhan pada suatu daerah atau waktu tertentu. 2 buku tumbuh-tumbuhan.
+floral,ks. yang berhubungan dengan bunga. f. arrangement susunan bunga. f. wreath karangan bunga.
+floriculture,kb. pemeliharaan bunga.
+florid,"ks. 1 kemerah-merahan. f. complexion wajah kemerah - merahan. 2 penuh hiasan. f. speech pidato yang penuh hiasan, pidato yang penuh bunga bahasa."
+florist,kb. tukang/penanam bunga. Which is the best f.? Toko/Penjual bunga mana yang terbaik ?
+floss,kb. 1 benang/serat sutera yang pendek. 2 serat yang halus seperti sutera.
+flossy,ks. mentereng. Her dress was too f. for the occasion Bajunya terlalu mentereng untuk keramaian itu.
+flotilla,kb. armada kecil.
+flotsam,kb. reruntuh muatan kapal karam yang terapung-apung di laut. f. and jetsam reruntuh kapal serta barang-barang muatannya yang terapung-apung di laut.
+flounce,"kb. lipatan (rok) -kki menyentakkan, menggelepakkan badan karena marah. to f. out of the room in a rage keluar dari kamar dengan perasaan amat marah."
+flouncy,"ks. berkelepak, berkelepai (dress)."
+flounder,kb. semacam ikan laut yang gepeng. -kki. menggelepar.
+flour,kb. tepung. f. mill pabrik/gilingan tepung. wheat f. tepung terigu.
+flourish,"kb. tulisan hiasan. -kkt. melambaikan (a ticket). -kki. tumbuh dengan subur. -flourishing ks. maju,  berjalan baik."
+flout,kkt. mencemoohkan. to f. a father's admonitions  mencemoohkan teguran seorang ayah.
+flow,"kb. 1 aliran.  2 arus. 3 iriing-iringan, arus. -kkt. 1 mengalir.  2 melambai. 3 membanjir. -flowing ks. yang berjela-jela. land f. with milk and honey daerah yang penuh dengan makanan dan minuman."
+flower,"kb. bunga, kembang. in f. sedang berbunga. -kki. berbunga. -flowered ks. yang dihiasi dengan bunga. f. rug babut/permadani berhias gambar bunga. -flowering ks. berbunga. f. plant tumbuh-tumbuhan yang sedang berbunga."
+flowerpot,kb. pot bunga.
+flowery,"ks. 1 penuh dengan bunga. 2 muluk-muluk. f. speech pidato dengan bahasa yang muluk-muluk, pidato yang penuh  bunga bahasa."
+flown,lih  FLY.
+flu,"kb. inpelenza,  inplinsa, influenza."
+flub,kkt. (flubbed) gagal. to f. an exam gagal dalam ujian. to f. a ball gagal menangkap bola.
+fluctuate,"kki. turun naik, berubah-ubah, lonjak-anjlok. His grades f. Angkanya turun naik."
+fluctuation,"kb. fluktuasi, turun naik. f. in prices ketidaktetapan dalam harga."
+flue,"kb. jalan asap, corong/pipa asap."
+fluency,"kb. kepasihan, kelancaran."
+fluent,"ks. pasih, lancar. He is in English Ia pasih berbahasa Inggris. -fluently kk. dengan lancar, dengan pasih. He speaks Indonesian f. Bahasa Indonesianya lancar."
+fluff,"kb. 1 bulu-bulu yang ringan, pendek dan halus/lunak seperti kapas. 2 Sl.: kesalahan dalam membaca atau berbicara (sandiwara). -kkt. membuat kesalahan dalam bacaan atau berbicara."
+fluffy,"ks. seperti benang rambut halus, halus. f. kitten anak kucing yang berbulu halus dan lunak seperti busa."
+fluid,"kb. 1 zat cair  gas, cairan dan gas. 2 nafta (for a lighter) -ks. berubah-ubah, tak tetap."
+fluidity,"kb. ketidakstabilan, kemudahan mengalir, keadaan cair."
+fluke,"kb. Inf.: 1 kebetulan, yang menguntungkan. 2 Nau.: ujung sauh. 3 semacamikan gepeng. 4 sejenis cacing pipih/pita."
+flume,"kb. saluran air, jurang sempit yang dilalui air."
+flung,lih  FLING.
+flunk,"kkt. Inf.: menggagalkan, menjatuhkan. -kki. jatuh dalam ujian."
+flunk(e)y,"kb. (j. -kies) 1 bujang, pelayan pria. 2 penjilat."
+fluorescent,"ks. berpendar, berpijar. f. lamp/light lampu berpendar, lampu neon/TL, lampu pijar."
+fluoridation,kb. hal pemberian/pembubuhan fluor kepada air minum.
+fluoroscope,kb. fluoroskop.
+flurry,"kb. (j. -ries) 1 kesibukan/keributan yang tiba-tiba, kebingungan. 2 hujan/salju yang tiba-tiba. -kkt. (flurried) membingungkan. She became flurried Dia menjadi bingung."
+flush,"kb. 1 gejolak, gelora. 2 semangat, kesegaran. 3 cahaya kemerah-merahan. -ks. 1 pemurah, royal. 2 sama rata/tinggi. -kk. tepat. -kkt. 1 mendirus, menyiram, membilas. 2 menyiram. -flushing kb. pembilasan (of drain, toilet)."
+fluster,kkt. membingungkan. to became flustered menjadi bingung.
+flute,"kb. 1 Mus.: suling, seruling (logam). 2 Arch.: galur."
+fluted,ks. yang bergalur. f. coloumn tiang yang bergalur.
+flutist,kb. pemain suling logam.
+flutter,"kb. 1 kibaran (of a flag). 2 kegugupan, kebingungan. 3 kegemparan. 4 debar, denyut. -kkt. 1 mengedip-ngedipkan. 2 mengipas- ngipaskan.-kki 1 berkibar. 2 berjela-jela (of a kite)."
+flux,kb. perubahan yang terus-menerus. 2 pengaliran darah atau air dalam tubuh.
+fly,"kb. 1 lalat. 2 golbi, tutup luar (of trousers). 3 Fish.: mata pancing yang berumpan seperti serangga terbang. -kkt. (flew, flown) 1 menerbangkan 2mengemudikan. 3 mengibarkan. -flying kb. naik kapal terbang. ks. terbang."
+flycatcher,kb. burung penangkap serangga.
+flyer,"kb. 1 pilot, penerbang. 2 Inf.: percobaan.   I once took a f. at insurence Saya pernah mencoba bekerja dalam bidang asuransi.  3 Inf.: pamflet."
+flyleaf,kb. halaman buku paling depan yang tak  tercetak.
+flypaper,kb. kertas pelekat/perekat untuk menangkap lalat.
+flyspeck,kb. tahi lalat.
+flyswatter,kb. pemukul lalat.
+flyweight,kb. Box.: kelas terbang.
+flywheel,"kb. rodagaya, rodaberat, rodagendeng."
+"fm, f.m.",[frequency modulation]   modulasi frekwensi.
+fn.,[footnote] catatan dibawah halaman buku.
+foal,kb. anak kuda. -kki. beranak (kuda).
+foam,"kb. 1 busa (from the mouth). 2 buih, busa. (of beer).  -kki. 1 berbusa.  2 berbuih.  f. rubber karet busa.  -foamy ks. berbuih, berbusa (seperti bir, sabun dsb)."
+focus,kb. 1 titik api. 2 pusat. 3 Med.: sarang (of infection). -kkt. 1 memusatkan. 2 menyetel lensa.  -kki melihat dengan jelas.
+fodder,kb. makanan hewan/ternak.
+foe,"kb. musuh, lawan."
+foetal,#NAME?
+foetus,#NAME?
+fog,kb. kabut. f. bank dinding kabut. -kkt. (fogged) mengaburkan. to f. over/up menutup dengan kabut. f. light lampu (kuning) untuk menembus kabut.
+fogbound,ks. terhalang oleh kabut.
+fogey,kb. =  FOGY.
+foggy,ks. berkabut. It's f. outside Diluar kabut tebal.
+foghorn,kb. peluit kabut.
+fogy,kb. (j. -gies) orang yang sangat kolot.
+foible,"kb. kelemahan, kekurangan."
+foil,kb. 1 kertas perak/timah. 2 Sport : pedang untuk main anggar.  -kkt. menggagalkan. to f. an attempt menggagalkan usaha.
+foist,"kkt. 1 menyelinapkan, menyisipkan tanpa diketahui. 2 menipu, mengibuli."
+fold,"kb. lipatan. -kkt. 1 melipat.  2 membungkus. -kki, tutup, gulung tikar. to f. back membalik. to f.in mengaduk.  fold-away ks. lipatan, yang dapat dilipat. -folding ks. lipat(an), yang dapat dilipat."
+folder,"kb. 1 map, berkas. 2 brosur. travel f. brosur pariwisata."
+foliage,kb. daun-daunan.
+folio,kb. folio.
+folk,"kb. rakyat, bangsa. Inf.: folks j. 1 sanak saudara, pamili. 2 orang - orang. f. song lagu rakyat. f. tales  dongeng-dongeng rakyat."
+folklore,"kb. dongeng-dongeng, cerita-cerita, cerita rakyat."
+folksy,"ks. Inf.: ramah-tamah, sederhana."
+follicle,kb. kantung (rambut).
+follow,"kkt. 1 mengikuti. 2 menuruti. -kki. 1 terjadi, terdapat.  2 menyusul. 3 mengikuti. 4 menyusul.  as follows sebagai berikut. follow-up kb. tindakan lanjutan, penyelenggaraan berikutnya. -following kb. pengikut - pengikut."
+follower,"kb. pengikut, penyokong."
+folly,"kb. (j. -lies) kebodohan, ketololan, kegoblokan."
+foment,"kkt. menimbulkan, menggerakkan. to f. trouble menimbulkan kekacauan."
+fond,"ks. sangat cinta. a f.  father ayah yang sangat mencintai. to be f. of gemar. -fondly kk. sayang, kasih. to feel f. towards sayang kepada."
+fondle,"kkt. memanjakan, menimang."
+fondness,"kb. kesukaan, kemesraan, kegandrungan, kegemaran. a f. for kegandrungan kepada."
+font,"kb. 1 bak. 2 Print.: fon, satu stel lengkap huruf cetakan yang sama jenis dan ukurannya."
+food,kb. 1 makanan. f. and drink makanan dan minuman. 2 masakan. f. and clothing sandang pangan. f. for thought  bahan untuk dipikirkan.
+foodstuff,kb. bahan makanan.
+fool,"kb. 1 goblok, tolol. 2 orang gila.  -kkt. mengelabui. -kki. berolok-olok.  to f. around bermain-main. to f. away bermain-main dengan, mempermain - mainkan."
+foolhardy,"ks. gila-gilaan, membabi-buta."
+foolish,"ks. 1 bodoh, tolol. 2 nekad. -foolishly kk. dengan tolol. I f. agreed... Bodoh benar saya menyetujui..."
+foolishness,"kb. ketololan, kedunguan, kegoblokan."
+foolproof,ks. sangat mudah dan aman sehingga seorang tololpun dapat menjalankannya/memakainya.
+foolscap,kb. kertas folio.
+foot,"kb. (j. -feet) 1 kaki. 2 suku. -feet j. kaki. -kkt. berjalan  kaki. foot-ang- mouth disease penyakit kuku dan mulut. -footing kb. pijakan, tempat berpijak."
+footage,"kb. panjangnya, ukuran panjang."
+football,kb. football.
+footbridge,kb. titian.
+footgear,kb. alas kaki.
+foothill,kb. bukit di kaki gunung.
+foothold,"kb. tumpuan, tempat berpijak, kedudukan. to get a f. in business mendapat kedudukan dalam dunia usaha."
+footlights,"kb., j. lampu yang menyoroti para pemain."
+footlocker,kb. kopor besi.
+footloose,kb. bebas untuk pergi kemana-mana atau mengerjakan apapun.
+footman,"kb.( j.-men) pelayan laki-laki, bujang."
+footnote,kb. catatan dibawah halaman buku/majalah.
+footpath,kb. jalan kecil/setapak.
+footprint,kb. bekas jejak kaki.
+footrest,kb. ganjal/penunjang kaki.
+footsie,kb.  Sl.: 1 bercumbu-cumbuan secara diam-diam. to play f. beneath the table bercumbu-cumbuan dibawah meja. 2 Sl.:  bekerjasama (secara rahasia diam-diam).
+footsore,ks. sakit kaki.
+footstep,kb. langkah (kaki).
+footstool,kb. ganjal/penunjang kaki.
+footwear,kb. alas kaki.
+footwork,kb. cara mengatur kaki.
+fop,kb. pesolek.
+foppish,ks. yang berhubungan dengan pesolek. He has f. manners Dia bergaya pesolek.
+for,"kd. 1 untuk. 2 bagi. 3 selama. 4 atas. 5 karena. 6 ke. 7 terhadap. 8 supaya, agar. 9 jika. 10 demi. f. a long time lama, dalam waktu yang lama, dalam jangka waktu yang panjang.  -ksamb. karena. f. sale akan dijual."
+for.,"[foreign] asing, luar negeri."
+forage,kb. makanan hewan/ternak. f. crops tanaman makanan ternak. -kki. pergi kesana-kemari mencari makanan.
+foray,"kb. penggerebekan untuk perampasan, perampokan, penggarongan."
+forbad(e),lih  FORBID.
+forbear,"kki. (forbore, forborne) menahan diri, mengelak, bersabar hati. -forbearing ks. sabar, suka menahan hati/nafsu."
+forbearance,"kb. kesabaran, penahanan (nafsu)."
+forbid,"kkt. (forbad(e), forbid(den) ) melarang. -forbidden ks. yang terlarang. f. fruit buah yang terlarang. -forbidding ks. yang menakutkan.  He has a f. look Wajahnya menakutkan."
+forbore,lih  FORBEAR.
+forborne,lih  FORBEAR.
+force,"kb. 1 kekuatan. 2 tenaga. 3 angkatan 4 gaya. -kkt. memaksa. f. force-feed memaksa menelan, mencekoki, memberi makan dengan paksa. -forced ks. 1 terpaksa. 2 dibuat-buat, dibikin-bikin."
+forceful,ks. kuat. f. leader pemimpin yang kuat.
+forceps,kb. gunting tang (dipakai di kedokteran).
+forcible,ks. dengan memakai kekerasan secara paksa.
+ford,kb. arungan. -kki. mengarungi/menyebrangi (a river).
+fore,"kb. bagian depan. to the f. kedepan. -ks. depan, muka. in the part of the building di bagian depan gedung itu."
+forearm,kb. lengan bawah. Forewarned is forearmed Diberitahu sebelumnya berarti siap.
+forebear,kb. nenek moyang.
+forebode,"kkt. meramalkan, memberi pertanda. -foreboding kb. ramalan, persangkaan, firasat. I had a f. that... Saya mempunyai firasat bahwa..."
+forecast,kb. ramalan. weather f. ramalan cuaca. -kkt. meramalkan. to f. a victory for meramalkan kemenangan bagi.  -forecasting kb. (pe)ramalan.
+forecaster,"kb. peramal cuaca, tukang ramal."
+forecastle,kb. bangunan atas yang dimuka (pada kapal).
+foreclose,"kki. menyita, menutup, mencabut hak untuk menebus hutang."
+foreclosure,"kb. penutupan, penyitaan. f. on the property penutupan menebus harta, pencabutan hak menebus harta."
+foredoom,kkt. mentakdirkan sebelumnya.
+forefather,kb. nenek moyang.
+forefinger,kb. (jari) telunjuk.
+forefont,kb. front/garis terdepan.
+forego,"(forewent, foregone).=  FORGO  -foregone ks. yg dulu-dulu, yg terdahulu.-foregoing ks. yg terlebih dahulu."
+foregone,lih  FOREGO.
+foreground,"kb. bagian (ter)depan, latar depan. The man in the f. is my father Laki-laki di bagian depan itu ayahku."
+forehand,kb. Tenn.: pukulan forhen.
+forehead,kb. dahi.
+foreign,"ks. 1 luar negeri. f. affair urusan-urusan luar negeri. 2 asing, yang datang dari luar. foreign-born ks. keturunan asing. foreign-made ks. bikinan luar negeri."
+foreigner,kb. orang asing.
+foreleg,kb. kaki-depan.
+forelock,"kb. gombak. to take time by the f. merencanakan/bersiap-siap sebelumnya, mengerjakan dalam waktu yang cukup."
+foreman,"kb. (j. -men) mandor, kepala tukang, werekbas."
+foremost,"ks. terkemuka, terutama, terpenting. the country's f. stateman negarawan yang paling terkemuka di negeri itu."
+forenoon,"kb. pagihari, sebelum tengah hari."
+forensic,ks. yang berhubungan dengan kehakiman dan peradilan. f. medicine jurisprudensi kedokteran.
+forerunner,kb. 1 pelopor. 2 pratanda. A dark cloud may be the f. of the storm Awan hitam mungkin pertanda hujan.
+foresaw,lih   FORESEE.
+foresee,"kkt. (foresaw, foreseen)  meramalkan (the difficulties)."
+foreseeable,"ks. yang dapat diduga, yang dapat diketahui dari sekarang.  I expect to go in the f. future Saya tidak mengharapkan akan pergi dalam waktu mendatang yang dapat diduga."
+foreseen,lih  FORESEE.
+foreshadow,"kkt. memberi pertanda, membayangkan."
+foresight,kb. tinjauan ke masa depan.
+foreskin,"kb. kulup, kulit khatan."
+forest,"kb. hutan, rimba. f. fire kebakaran hutan. f. ranger polisi kehutanan."
+forestall,kkt. mencegah.
+forester,kb. rimbawan.
+forestry,kb. ilmu kehutanan.
+foretaste,kb. rasa pendahuluan.
+foretell,kkt. (foretold) meramalkan.
+forethought,kb. 1 pemikiran sebelumnya. 2 pemikiran ke masa depan.
+foretold,lih  FORETELL.
+forever,"kk. selalu, selama-lamanya, senantiasa. f. and ever untuk selama-lamanya."
+forevermore,kk. untuk selama-lamanya.
+forewarn,kkt. memperingati terlebih dahulu.
+forewent,lih  FOREGO.
+foreword,"kb. prakata, prawacana, kata pendahuluan."
+forfeit,"kb. 1 denda, penebusan. 2 kehilangan.  to f. a friendship kehilangan persahabatan. 2 mengorbankan. to f. o's life in a rebellion mengorbankan nyawanya dalam pemberontakan."
+forgave,lih  FORGIVE.
+forge,"kb. tempat bekerja pandai besi. -kkt. 1 menempa.  to f. on iron bar menempa sebatang besi. 2 memalsukan. to f. o's name on a check memalsukan namanya pada cek. to f. a head maju sedikit demi sedikit. -forging kb. tempaan, benda tempa, hasil tempaan."
+forgene,lih  FORGO.
+forger,kb. 1 pemalsu. 2 pandai besi.
+forgery,"kb. (j. -ries) pemalsuan (tanda tangan lukisan, naskah)."
+forget,"kkt. (forgot, forgotten). lupa, melupakan. to f. o.s. mengabaikan kepentingan pribadi. forget-me-not. kb. semacam tanaman."
+forgetful,ks. pelupa.
+forgetfulness,kb. kelalaian.
+forgive,"kkt. (forgave, forgiven) memaafkan, mengampuni. F. me for being late Maafkan atas kelambatanku. -forgiving ks. mudah memberi maaf. She's very f. Dia mudah sekali memberi maaf."
+forgiven,lih  FORGIVE.
+forgiveness,"kb. keampunan, tindakan memaafkan, kemauan mengampuni."
+forgo,"kkt. (forwent, forgone) tidak jadi melakukan sesuatu.  She decided to f. the movies and study  Dia memutuskan untuk tidak (lagi) menonton film, melainkan belajar.  =  FOREGO."
+forgot,lih   FORGET.
+forgotten,lih  FORGET.
+forhcoming,ks. 1 yang datang. No compliment was f. Tak ada pujian yang datang.  2  yang akan datang.  f. election pemilihan yang akan datang.
+fork,"kb. 1 garpu. 2 percabangan menjadi dua, cabang, pertigaan. 3 anak sungai.  -kki. bercabang menjadi dua. -forked ks. yang bercabang dua."
+forkful,kb. segarpu penuh. sepenuh garpu.
+forlorn,ks. sedih. f. hope harapan yang sangat tipis akan berhasil.
+form,"kb. 1 bentuk. 2 formulir, surat isisan. 3 kondisi. -kkt. 1 membentuk. 2 merupakan. 3 memperoleh. -kki. terbentuk. f. letter surat selebaran/edaran.  f. of address tutursapa, bentuk/cara berbicara/menegur pada orang lain."
+formal,"kb. rok wanita untuk malam, gaun malam. -ks. 1 resmi, formil. 2 kaku. 3 mengenai bentuknya. -formally kk. dengan resmi.  to receive f. menerima dengan/secara resmi."
+formaldehyde,kb. formaldehida
+formalism,kb. formalisme
+formality,"kb. (j. -ties) 1 formalita(s), sikap yang kaku. 2 upacara, acara resmi."
+formalize,"kkt. menyusun, membentuk, merumuskan. to f. o's thoughts  menyusun pikirannya."
+format,"kb. 1 format, ukuran. a book's f. format buku. 2 pola, susunan, bentuk. What is the f. of the TV show ? Bagaimana pola pertunjukan TV itu?"
+formation,"kb. 1 pembentukan f. of a new group membentuk kelompok baru. 2 Mil.: formasi. 3 bentukan, formasi."
+formative,ks. yang berhubungan dengan pertumbuhan atau perkembangan. the f. years tahun-tahun pertumbuhan.
+former,"ks. 1 yang terlebih dahulu, yang tadi. 2 bekas, eks-,  ex- my f. employer bekas majikanku. -formely kk. tadinya, dahulu."
+formic,ks. f. acid asam-semut/formiat.
+formidable,"ks. hebat, berat. He's a f. opponent Dia lawan yang hebat."
+formula,formula
+formulate,kkt. merumuskan.
+formulation,kb. perumusan.
+fornicate,"kki. bersetubuh diluar nikah, berzina."
+fornication,"kb. perbuatan zina, persetubuhan diluar nikah."
+forsake,"kkt. (forsook, forsaken) meninggalkan, mengabaikan. to f. home and family meninggalkan rumah dan keluarga."
+forsaken,lih  FORSAKE.
+forseeable,#NAME?
+forsook,lih  FORSAKE.
+forswear,"kkt. (forswore, forsworn) bersumpah untuk menghentikan. to f. o.s. makan sumpah, bersumpah palsu."
+forswore,lih  FORSWEAR.
+forsworn,lih  FORSWEAR.
+forsythia,kb. semacam bunga.
+fort,"kb. benteng, kubu pertahanan. to hold the f. 1 bertahan. 2 meneruskan."
+forte,kb. keahlian. cooking is his f. Memasak adalah keahliannya.
+forth,"kk. seterusnya.  from that day f. dari hari itu seterusnya, mulai dari hari itu. to come f. maju, tampil kedepan.  to go f. keluar, pergi. and so f. dan sebagainya."
+forthright,"ks. jujur, terus-terang, blak-blakan."
+fortieth,ks. yang keempat puluh. f. anniversary ulang tahun keempat puluh.
+fortification,kb. kubu (pertahanan).
+fortified,lih  FORTIFY.
+fortifies,lih  FORTIFY.
+fortify,"kkt. (fortified) membangun benteng. to f. a city membangun benteng sekeliling kota. -fortified  ks. yang diperkuat pertahanannya, dibentengi. f. area daerah yang dibentengi."
+fortitude,"kb. ketabahan, keuletan."
+fortnight,"kb. dua minggu. -fortnightly kb., ks., kk. dua-mingguan, sekali dua minggu."
+fortress,kb. benteng.
+fortuitious,ks. secara kebetulan saja. f. encounter perjumpaan yang kebetulan saja.
+fortunate,ks. untung. f. break kejadian yang menguntungkan.
+fortune,"kb. 1 untung, nasib baik.  I had the good f. Saya beruntung.   2 kekayaan. He made his f. in oil Dia menjadi kaya karena minyak."
+fortuneteller,"kb. ahli nujum, tukang tebak/tenung /tilik/ramal."
+fortwith,kk. dengan segera.
+forty,kb. (j. -ties) empat puluh. Inf.: f. winks tidur sebentar. forty-five kb. 1 empet puluh lima. 2 repolper kaliber 45. 3. Mus.: piringan hitam putaran 45.
+fortyish,ks. sekitar 40-an tahun.
+forum,"kb. 1 musyawarah, majelis. 2 mimbar. 3 para pendengar."
+forward,"kb. Soc.: pemain depan. -ks. 1 muka depan. f. section bagian muka. 2 progresip. 3 lancang. -kk. to come/go/step f. maju/tampil kedepan. -kkt. menyampaikan, meneruskan, mengirimkan terus (a letter, suggestion) forward-looking ks. memandang kedepan."
+forwent,lih  FORGO.
+fossil,kb. fosil. He's an old f. Ia berpaham kolot.
+foster,kkt. membantu perkembangan. The church fosters a youth group Gereja itu membantu perkembangan perkumpulan pemuda.
+fought,lih FIGHT.
+foul,"kb. 1 kecurangan, pelanggaran.2 Sport: penalti, hukuman.-ks.1 kotor 2  buruk.3 busuk.4 curang.-kk. to run f. of the law melanggar hukum.-kkt.1 mengotori.2 mencemarkan3 menyangkutkan.Inf. : to f. up1 mengacau-balaukan.foul-minded ks.berpikiran keji"
+found,kkt. mendirikan.
+foundation,"kb. yayasan 2 pondasi, fondamen 3 dasar."
+founder,kb. pendiri. 2 (metals) tukang cor.-kkt.1 tenggelam 2 terperosok.
+foundling,"kb.bayi terlantar, bayi yg diketemukan."
+foundry,"kb. (j.-ries) penuangan, pengecoran logam."
+fount,kb. sumber.
+fountain,kb. air mancur.2 kran.3 sumber.He's a f of information Dia sumber informasi. soda f. tempat penjualan minuman dan eskrim.
+fountainhead,"kb. 1 asal, sumber asli. 2  sumber atau mata-air sebuah sungai."
+four,empat. four-engined ks. bermotor empat.  four-flusher kb. pembual. four-footed ks. berkaki empat.  four-star ks. berbintang-empat. four- wheel ks. berempat roda.
+fourfold,ks. rangkap empat. f. path jalan yang rangkap empat. -kk. empat kali lipat/ganda. Production has been increased f. Produksi telah ditingkatkan empat kali lipat.
+fourscore,kb. delapan puluh. f. and ten sembilan puluh.
+foursome,"kb. sekelompok yang terdiri dari empat orang (in golf, bridge)."
+foursquare,"ks. empat persegi. -kk. tegap, kokoh. to stand f. against menghadapi keadaan dengan tabah."
+fourteen,"kb., ks. empat belas."
+fourteenth,ks. yang keempat belas.
+fourth,ks. yang keempat. on the f. of July pada tanggal empat Juli.  fourth-class matter  barang kelas 4 (of mail). the f. estate golongan wartawan.
+fowl,kb. unggas.
+fox,kb. rubah. He's sly as a f.  Dia secerdik kancil. -kkt. Inf.: menipu secara licik. f. terrier sejenis anjing. f. trot dansa  fox trot.
+foxhole,kb. lubang perlindungan.
+foxy,"ks. licik, lihay."
+foyer,"kb. serambi, tempat menunggu."
+fr.,"[franc] 1 mata uang Perancis, Belgia dan Swiss. 2 [from] dari."
+fracas,"kb. perkelahian, pertengkaran."
+fraction,kb. 1 pecahan.  His fraction are wrong Hitungan pecahannya salah. 2 sedikit. I need a f. more dirt  Saya perlukan tanah sedikit lagi.
+fractional,ks. kecil. a f. part sebagian kecil.
+fractious,"ks. rongseng, cengeng, suka mengomel. f. child anak yang cengeng."
+fracture,"kb. patah, retak. f. of the arm patah tulang lengan. -kkt. mematahkan."
+fragile,"ks. gampang/mudah pecah. F., handle with care Barang pecah - belah, hati-hati. Awas gelas, hati-hati."
+fragility,"kb. kerapuhan, kelemahan."
+fragment,"kb. 1 fragmen. 2 pecahan, penggalan. 3 sedikit-sedikit -kkt. memotong-motong, membagi menjadi kepingan-kepingan."
+fragmentary,"ks. tidak lengkap, terpisah-pisah. The evidence is f. Bukti itu tidak lengkap."
+fragmentation,kb. pemecahan menjadi kepingan.
+fragrance,"kb. bau wangi, keharuman."
+fragrant,"ks. harum, wangi, semerbak."
+frail,ks. lemah.
+frailty,kb. (j.-ties) kelemahan (moril).
+framb(o)esia,kb. patek.
+frame,"kb. 1 bingkai. 2 bingkai, lis. (of a picture). 3 kerangka (of a house).  4 kosen (of a window). 5 badan. -kkt. 1 memasang lis pada (a picture). 2 menyusun. 3 Sl.: menjebak. frame-up kb.tuduhan palsu. -framing kb. 1 pemasangan (lis). 2 penyusunan, susunan framer"
+framer,"kb. 1 pembuat, penyusun. f. of the Constitution pembuat UUD. 2 tukang lis/bingkai."
+framework,kb. 1 rangka. 2 kerangka.
+france,kb. Negeri Perancis.
+franchise,"kb. 1 (voting) hak suara. 2 hak, monopoli."
+frangipani,kb. 1 kemboja. 2 minyak wangi.
+frank,"ks. jujur, terus-terang. I'm f. to say Dengan terus terang saya katakan. -kkt. mencap dengan cap pengiriman bebas. -frangkly   kk. 1 sebetulnya, sesungguhnya. 2 terus terang saja."
+frankfurter,kb. semacam sosis dibuat dari daging sapi dan daging babi.
+frankness,kb. keterusterangan.
+frantic,"ks. dalam keadaan takut/kalut, bingung, kegila-gilaan. That music drives him f. Musik itu membuat dia kegila-gilaan. -frantic(al)ly kk. dengan penuh ketakutan / kekalutan."
+fraternal,ks. yang berhubungan dengan rasa /sifat persaudaraan. f. feeling perasaan persaudaraan. f. order perkumpulan persaudaraan.
+fraternity,kb. (j.  -ties) 1 kelompok persaudaraan. 2 persaudaraan. f. house asrama untuk sekumpulan mahasiswa yang tergabung dalam satu kelompok.
+fraternization,kb. pergaulan bersahabat.
+fraternize,kki. bergaul secara bersahabat. to f. with the enemy bergaul dengan musuh.
+fraticide,kb. pembunuhan saudara.
+fraud,kb. 1 penipuan. to win an election by f. memenangkan pemilihan dengan jalan menipu. 2 Inf.: seorang penipu/gadungan. 3 kecurangan. f. in the negotiations kecurangan dalam perundingan. 4 penggelapan.
+fraudulent,ks. yang curang. f. dealings perbuatan-perbuatan /transaksi - transaksi yang curang. -fraudulently kk. dengan curang.
+fraught,ks. penuh dengan. Such an attack is f. with danger Serangan demikian itu penuh dengan bahaya.
+fray,"kb. keributan, kehebohan, percekcokan.-kkt. menjadi tenang. -kki. berjumbai. The material will f. Bahan ini akan berjerumbai. -frayed ks. yang berjumbai. f. suit pakaian yang berjumbai."
+frazzle,"kb. worn to a f. amat letih. -kkt., kki. merobek-robek. Tempers were frazzled Perasaan mudah goncang."
+frcassee,"kb. daging yang diiris halus, disetup lalu diberi saus."
+freak,"kb. 1 orang sinting. 2 keajaiban. f. of nature keajaiban alam. -ks. aneh, ganjil. f. accident kecelakaan yang aneh."
+freakish,"ks. aneh, ganjil. f. clothes pakaian yang aneh sekali."
+freckle,kb. bintik-bintik. -kki. mendapat bintik-bintik di muka. freckle-faced ks. mempunyai muka yang berbintik-bintik.
+free,"ks. 1 bebas, merdeka. 2 cuma-cuma, gratis. 3 kosong, prei. 4 lancang.  f. and easy boros. f. of bebas dari.  - kk. dengan cuma-cuma. -kkt. (freed) membebaskan, memerdekakan (slave, prisoner). -freely kk. dengan bebas."
+freed,lih  FREE.
+freedom,"kb. kemerdekaan, kebebasan. f. from want kebebasan dari kemiskinan.  f. of action  kebebasan untuk bertindak."
+freehand,"kb. dibuat dengan tangan saja.  f. drawing gambar yang dibuat dengan tangan saja, lukisan tangan."
+freehanded,"ks. royal, murah hati, pemurah."
+freeloader,"kb. orang yang hadir untuk makan dan minum dengan cuma-cuma, tukang bonceng."
+freemason,kb. vrijmetselar.
+freemasonry,kb. vrijmetselarij.
+freestone,ks. biji yang mengelotok/terkelopak. f. peach buah persik yang mengelotok bijinya.
+freethinker,kb. orang yang tidak mengakui  ajaran agama.
+freeway,kb. jalan-raya-lintas.
+freewheeling,kb. keadaan bebas dan tak terhambat. f. discussion of the current political scene  pembahasan bebas tentang suasana politik dewasa ini.
+freeze,"kb. 1 udara yang sangat dingin. 2 pembekuan. 3 penyetopan. -kkt. (froze, frozen) pembekukan. -kki. 1 membeku. 2 menjadi tak berdaya, ketakutan. -frozen ks. yang dibekukan. -freezing kb. pembekuan ks. sangat dingin. f. point titik beku."
+freezer,kb. 1 pesawat pembeku. ice cream f. pesawat pembeku untuk membuat eskrim. 2 lemari es.
+freight,kb. muatan. 2 pengangkutan. f. costs  ongkos pengangkutan. to ship by f. mengirim dengan kereta-api. f. car gerbong barang.
+freighter,kb. kapal barang/pengangkutan.
+french,"kb. 1 orang Perancis. 2 bahasa Perancis. F. dressing semacam bumbu selada (yang cair sekali). French-fry (French-fried) menggoreng dengan minyak yang banyak. f. horn terompet dari kuningan.  to take F. leave minggat, bolos."
+frenchman,kb. (j. -men). orang Perancis.
+frenetic,frenetic.ks .hingar-bingar
+frenzied,"ks. hiruk-pikuk, hingar bingar. f. activity hiruk-pikuk."
+frenzy,kb. (j. -zies) 1 hiruk-pikuk. 2 kegila-gilaan.
+frequency,"kb. (j. -cies) frekwensi, kekerapan, jarang-kerapnya, keseringan. f. modulation modulasi frekwensi."
+frequent,"ks. sering, berkali-kali, acap(kali).  to pay f. visits to our home sering mengunjungi rumah kami. -kkt. sering mengunjungi, sering-sering pergi ke. -frequently kk. sering - sering, seringkali."
+frequenter,kb. pengunjung yang sering datang.
+fresco,kb. lukisan dinding.
+fresh,"ks. 1 segar. 2 hangat. 3 Inf.: kasar, kurang ajar. 4 baru. -kk. Inf.: f. out baru habis.  fresh-air ks. di lapangan terbuka. f. fish ikan basah. fresh-water air tawar.  -freshly  kk.  baru saja. f. printed baru saja dicat."
+freshen,kkt. menyegarkan. to f. up before dinner merapikan diri sebelum makan.
+freshman,"kb. (j. -men) prama, pelonco. bayat, mahasiswa tingkat/tahun pertama. f. girl prami, pelonci, mahasiswi tingkat/tahun pertama."
+freshness,"kb. 1 kesegaran. 2 (impudence) kekurangajaran, kekasaran."
+fret,"kb. resah, cerewet. -kki. (fretted) rewel. f. saw gergaji pengukir (kayu)."
+fretful,"ks. rewel, cerewet, bertingkah."
+fretfulness,"kb. kerewelan, kebrengsekan, keresahan."
+friar,"kb. rahib, biarawan."
+friary,kb. (j. -ries) frateran.
+fricative,kb. bunyi desah.
+friction,"kb. 1 pergeseran, pergesekan. f. tape isolasi  ban. 2  (quarrel) perselisihan, percekcokan."
+friday,kb. (hari) Jum'at.
+fridge,kb. Inf.: peti es.
+fried,lih  FRY.
+friend,"kb. 1 teman, kawan, sahabat, sobat. He's a good f. of mine Dia teman baik saya. 2 F. =  QUAKER. to be friends  bersahabat, berteman. to make  friends  mendapat teman, berteman."
+friendless,ks. tak berteman.
+friendliness,kb. keramah-tamahan.
+friendly,ks. ramah (tamah). He's a f. person Dia peramah. f. greeting  salam yang ramah.
+friendship,kb. persahabatan. I did it out of f. Saya melakukannya karena persahabatan.
+frier,#NAME?
+fries,lih  FRY.
+frieze,kb. dekorasi atau hiasan yang melintang pada dinding didalam atau diluar rumah/gedung.
+frigate,kb. pergat(a).
+fright,kb. ketakutan.   to be seized with f. ketakutan. Ihad a real f. when I heard that noise Saya betul-betul takut ketika mendengar bunyi itu.
+frighten,kkt. menakuti. You don't f. me ! Kau jangan takut-takuti saya ! -kki. menderita/menjadi takut.  -frightening ks. yang menakutkan/menakuti.
+frightful,"ks. 1 mengejutkan. f. racket suara (bunyi) yang mengejutkan. 2 buruk sekali, menakutkan. Conditions there are f. Keadaan disana buruk sekali."
+frigid,ks. 1 dingin sekali. 2 berhati dingin (of a woman). F. Zone  Daerah yang sangat dingin.
+frigidity,"kb. hati dingin, ketiadaan nafsu birahi, ketidak acuhan seksuil."
+frill,"kb. 1 jumbai-jumbai. 2 embel-embel, hiasan tambahan."
+frilly,ks. berjumbai-jumbai. f. dress rok yang berjumbai-jumbai.
+fringe,"kb. 1 pinggir (of town, of society). 2 golongan pinggir. 3 lingkaran pinggir. -kkt. menyusur. Grassy slopes f. the stream Lereng berumput menyusur sungai itu."
+frisk,kkt. menggeledah. The policeman frisked the suspect Polisi menggeledeh orang yang dicurigai itu.
+frisky,"ks. lincah,  cekatan."
+fritter,kb. kue. corn f. kue jagung goreng. -kkt. membuang-buang. to f. o's time away membuang-buang waktunya.
+frivolity,"kb. (j. -ties) kelakuan sembrono, tingkah laku  tidak  keruan."
+frivolous,"ks. sembrono, tidak keruan. f. books buku-buku yang tidak keruan."
+frizzle,kkt. 1 menggoreng. to f. ham menggoreng daging babi sampai kering. 2 mengeringkan (o's hair)
+fro,lih  TO.
+frock,kb. baju rok.
+frog,"kb. 1 katak,, kodok. to have  a f. in o's  throat parau, serak. f. kick gaya katak (dalam berenang). 2 RR : sambungan pada simpangan / cabang rel kereta api."
+frogman,kb. (j. -men) manusia katak.
+frolic,"kb. pesiar, bersenang-senang. He took the children out for a f. Dia membawa anak-anak pergi bersenang-senang. -kki. (frolicked) bermain-main."
+from,kd. 1 dari.2 mulai. 3 sejak. 4 jauh dari. 5 karena.
+frond,kb. daun pakis/palem.
+front,"kb. 1 front. 2 bidang, sektor. 3 gelombang udara. 4 muka. 5 Inf.: kedok. -ks. depan, muka. -kki. berhadapan, menghadapi. front-line ks. garis depan.  front-page ks. halaman muka/depan. front-row ks. baris-depan."
+front.,[frontispiece] gambar muka.
+frontage,"kb. bagian depan, tanah yang menghadap ke jalan."
+frontal,"ks. dari, pada atau di garis depan. f. attack serangan dari depan."
+frontier,"kb. 1 batas, perbatasan. 2 garis perbatasan. f. area daerah perbatasan."
+frontispiece,kb. gambar muka.
+frosh,Sl.: =   FRESHMAN.
+frost,"kb. embun beku, cuaca penuh es. -kkt. 1 membekukan, menutupi dengan embun beku. 2 melapisi. -frosted ks. yang mempunyai permukaan seperti es.  f. glass 1 kaca baur. 2 kaca es. -frosting kb. lapisan (kue) terbuat dari gula dan putih telur yang dikocok."
+frostbite,kb. radang dingin.
+frostbitten,"ks. membeku, luka karena dingin yang luar biasa."
+frosty,ks. sangat dingin. f. morning pagi yang sangat dingin. f. reception sambutan yang amat dingin.
+froth,"kb. 1 buih, busa. 2 omong kosong. -kki berbuih. to f. at the mouth berbuih pada mulut."
+frothy,ks. berbusa. f. suds air sabun yang berbusa.
+frown,kb. kerut (dahi). -kki. mengerutkan dahi. to f. at memberengut. to f. on tidak setuju/menyukai.
+froze,lih  FREEZE.
+frozen,lih  FREEZE.
+frugal,"ks. 1 hermat, cermat, ugahari. He is quite f. Ia amat hemat. 2 sederhana. f. supper of bread and milk makan malam yang sangat sederhana dengan roti dan susu."
+frugality,"kb. (j. -ties) 1 kehematan, kecermatan, keugaharian.  2  kesederhanaan."
+fruit,kb. 1 buah (buahan). 2 hasil. to bear f. 1 berbuah. 2 membawa hasil. f. stand warung buah-buahan. f. tree pohon buah-buahan.
+fruitful,ks. 1 berhasil. f. meeting pertemuan yang berhasil baik. 2 bermanfaat. 3 subur.
+fruition,kb. hasil yang diperoleh. to come to f. berhasil/terlaksana dengan baik.
+fruitless,ks. tidak berhasil. His efforts were f. Usahanya tidak berhasil. f. search penggeledahan yang sia-sia.
+fruity,ks. berasa/berbau seperti buah-buahan. That wine has a f. flavor Anggur itu ada rasa buahnya.
+frustrate,"kkt. 1 menggagalkan. to f. o's plans menggagalkan rencananya. 2 menghalangi, mencegah. to be frustrated over amat bingung karena, merasa kecewa karena."
+frustration,"kb. kegagalan, frustrasi, halangan, kekecewaan."
+fry,"kb. 1 pesta atau piknik dengan memakan makanan gorengan di lapangan terbuka. 2 anak-anak ikan. -kkt. (fried) menggoreng. -fried ks. yang digoreng. frying pan wajan, kuali, penggorengan."
+fryer,kb. ayam muda untuk digoreng.
+frypan,"kb. wajan, kuali."
+ft.,[Fort] Benteng.
+ft.,[Fort] Benteng.
+ftc,[Federal Trade Commission]  Komisi Dagang Federal (di A.S.).
+fuddyduddy,"kb. (j. -dies) Inf.: orang (berpaham) kolot, ketinggalan zaman."
+fudge,"kb. gula-gula bonbon yang lunak. -kkt. membuat curang, memalsukan. -kki. berbuat curang. to f. on an agreement  berbuat curang dalam perjanjian."
+fuel,"kb. 1 bahan bakar. f. oil minyak bakar. f. pump pompa minyak/bensin. -kkt., kki. mengisi sesuatu dengan bahan bakar."
+fugitive,"kb. (orang) buronan, (orang) pelarian. f. from justice buronan polisi, pelarian dari hukuman. -ks. lekas hilang. f. pamphlet surat selebaran yang isinya bersifat sementara."
+fugue,kb. fuga.
+fulcrum,kb. titik pikul/tupang/tumpu/galang/penunjang.
+fulfil(l),kkt. (fulfilled) 1 memenuhi (a condition). 2 menyelesaikan (a contract). 3 mengabulkan (a request).
+fulfil(l)ment,kb. 1 pemenuhan. 2 pengabulan. 3 penyelesaian.
+full,"kb. to pay in f. membayar penuh, melunasi. paid in f. lunas. -ks. 1 penuh. 2 lengkap. 3 kenyang. 4 lebar. kk. penuh-penuh.  -fully kk. 1 secara lengkap. 2 sepenuhnya. 3 samasekali.4 benar-benar. 5 sedalam-dalamnya."
+fullback,kb. gelandang belakang.
+fullness,kb. kesempurnaan.
+fulminate,kki. mengecam dengan keras.
+fulsome,ks. berlebih-lebihan sehingga menjengkelkan. f. praise anjung-anjungan yang berlebih - lebihan.
+fumble,kb. kegagalan menangkap bola. -kkt. meleset. to f. a ball meleset menangkap bola. -kki. meraba-raba.
+fume,"kb. uap, asap. fumes from the bus asap bis itu. -kki. menggerutu, mengomel."
+fumigate,kkt. mengasapi (untuk desinfeksi).
+fumigation,kb. pengasapan.
+fun,"kb. kesenangan, kegembiraan. We had f. at the beach Kami bersenang- senang di pantai. for f. hanya untuk iseng-iseng, hanya untuk senang - senang. to make f. of s.o. memperolok-olokkan/menertawakan seseorang."
+function,"kb. 1 fungsi, kegunaan.  f. of the heart fungsi jantung. 2 pekerjaan. f. of a club  pekerjaan perkumpulan. 3 upacara. 4 (social) pesta. -kki. 1 berjalan, berfungsi. 2 berfungsi."
+functional,ks. fungsionil.
+functionary,"kb. (j. -ries) pejabat, petugas, pegawai."
+fund,kb. 1 (uang) dana. to misappropriate funds menyalahgunakan dana. 2 simpanan. -kkt. membiayai. fund-raising kb. pengumpulan uang. -funding kb. pembiayaan.
+fundamental,"kb. pokok, asas, fundamentil. fundamentals of algebra pokok-pokok aljabar. -ks. yang (menjadi) pokok atau asas. f. objections keberatan-keberatan pokok. -fundamentally kk. pada pokoknya/dasarnya/azasnya."
+funeral,"kb. pemakaman, penguburan. f. director pemimpin pemakaman. f. home/parlor  perusahaan pemakaman."
+funereal,"ks. 1 mengenai/yang berhubungan dengan penguburan/pemakaman. 2 menimbulkan rasa sedih, belas kasihan, takut, seram."
+fungi,lih  FUNGUS.
+fungicide,kb. obat pembunuh/pembasmi jamur fungisida.
+fungous,ks. bersifat jamur.
+fungus,"kb. (j. -gi) jamur, cendawan."
+funicular,ks. yang digerakkan oleh tali/kabel. f. railway trem yang digerakkan dengan kabel.
+funk,kb. Inf.: keadaan takut. He was in a blue f. Ia sangat ketakutan.
+funnel,"kb. corong. ship's f. cerobong kapal, semp(e)rong. -kkt. 1 menyalurkan. 2 menyiarkan, menyalurkan.  funnel - shaped ks. berbentuk corong. f.-shaped cloud awan berbentuk corong."
+funny,"kb. funnies j. cerita-cerita jenaka, cerita-cerita komik. -ks. 1 lucu, komik. 2 Inf.: aneh, ganjil. Inf.: f. bone ujung siku. f. paper = FUNNIES."
+funnyman,kb. (j. -men) pelawak tukang lawak.
+fur,kb. 1 bulu binatang. -firs j. pakaian (yang terbuat dari) bulu binatang. fur-bearing ks. yang mempunyai kulit yang berbulu. f. bearing animal binatang yang kulitnya berbulu (halus).
+furbish,kkt. menggosok (sampai berkilat).
+furious,"ks. 1 sangat marah, geram. I was f. over... Saya sangat marah tentang... 2 hebat. f. storm angin badai  yang hebat. -furiously kk. mati-matian. to work f. bekerja mati-matian."
+furl,"kkt. menggulung (sails, flag)."
+furlong,kb. 201 meter.
+furlough,"kb. cuti, perlop. to go in f. pergi cuti."
+furnace,kb. tungku perapian/pembakaran.
+furnish,"kkt. 1 melengkapi dengan perkakas. 2 menyediakan, memberi. -furnished ks. diperlengkapi dengan perabot rumah. -furnishings kb., j. perlengkapan alat-alat, perabot."
+furniture,"kb. mebel, perkakas/perabot rumah, meja kursi. suite of f. stel perabotan. f. polish bahan untuk mengkilapkan perabotan, politur untuk mebel."
+furor,kb. 1 kehebohan. 2 kemarahan.
+furred,ks. berbulu.
+furrier,kb. 1 pedagang pakaian bulu. 2 pembuat  pakaian bulu.
+furrow,"kb. 1 galur, alur (in the ground). 2 kerut (in the face). -furrowed ks. berkerenyut, beralur."
+furry,ks. berbulu lembut.
+further,"ks. lebih lanjut. -kk. 1 lebih jauh. 2  lagi.  3 selanjutnya, lagi.  -kkt. memajukan."
+furtherance,"kb. pemajuan, pendorongan."
+furthermore,"kk. selanjutnya, lagi pula."
+furthermost,ks. terjauh. That idea was f. from my mind Gagasan itu paling jauh dari pikiran saya.
+furthest,ks. yang paling jauh. That's the f. point from here Itu titik yang terjauh dari sini.
+furtive,ks. secara sembunyi. He stole a f. glance at her Dia melirik padanya secara sembunyi.
+fury,"kb. (j. -ries) 1 kemarahan, kegeraman. the f. of a woman kemarahan seorang wanita. 2 amuk, kedahsyatan. f. of a storm amuk topan. Inf.: to work like f. bekerja giat sekali."
+fuse,"kb. 1 Elec.: sekering. f. box kotak sekering. 2 sumbu, murang (of a bomb). -kkt. 1 memadu, melebur, mencor (metals). 2 menyatukan, menggabungkan, melebur (parties). -fusing kb. perfusian, penggabungan, penyatuan."
+fuselage,kb. badan pesawat terbang.
+fusillade,"kb. berondongan (of buckshot, questions)."
+fusion,kb. 1 peleburan (of political parties and metals). 2 Nucl.: penyatuan. 3 perpaduan (of metals).
+fuss,"kb. pertengkaran, percekcokan. -kki. banyak cincong, membuat repot. to f. arround bersibuk diri dengan hal-hal remeh. to f. at s.o. mengoceh/cerewet kepada seseorang. Inf.: fuss-budget  kb. seorang yang cerewet."
+fussy,"ks. rewel, cerewet. That baby is f. Bayi itu rewel. f. eater orang yang rewel dalam soal makanan."
+futile,ks. sia-sia. to make a f. effort gagal dalam usaha.
+futility,"kb. (j. -ties) kesia-siaan, kegagalan."
+future,"kb. 1 masa depan. 2 keakanan. in the f. lain kali, seterusnya. -ks. 1 yang akan datang. 2 bakal."
+futurity,kb. (j. -ties) keakanan.
+fuze,#NAME?
+fuzz,"kb. 1 bulu halus (on peaches, etc.). 2 rambut halus."
+fuzziness,"kb. 1 Phot.: kekaburan, ketidakjelasan. 2 keadaan berbulu halus."
+fuzzy,"ks. 1 kabur, tidak jelas. 2 berbulu halus (of a chick)."
+fy,[Fiscal Year] tahun buku / pembukuan.
+g,kb.1 huruf ketujuh dari abjad Inggris.2 nada musik.3 Sl. : seribu dolar.G. string1 cawat.2 Mus. : senar bernada G.
+g.b.,[Great Britain] Britania/Inggris Raya.
+g.i.,kb. prajurit AS. G.I. insurence asuransi tentara.
+g.o.p.,[Grand Old Party] partai Republiken di A.S.
+"g.p.,  g.p.",[general practitioner] dokter umum.
+gab,"kb. Inf. : banyak cakap/bual.-kki. (gabbed) mengobrol, beromong-omong."
+gabardine,kb. kain gabardin.
+gabby,ks. Inf. : temberang.
+gabfest,kb. Sl. : berkumpul untuk ngomong-ngomong.
+gable,"kb. dinding (muka) yg berbentuk segitiga terletak diantara ujung atap, ujung (nok) atap rumah (yg menonjol)."
+gad,kki. (gadded) to g. about berkeluyuran.
+gadabout,"kb. Inf.: seorang yg gemar pergi kesana-kemari, pengembara, petualang."
+gadfly,"kb. (j.-lies) penggangu, penggoda, perongrong."
+gadget,kb. alat atau perkakas. handy g. alat yg praktis.
+gaelic,kb. bahasa Gael.-ks. gael.
+gaff,kb. 1 tombak ikan.2 (spur) taji.
+gaffe,"kb. kejanggalan, kesalahan."
+gag,kb. Sl.: 1 lelucon.2 sumbat. -kkt.(gagged) menyumbat.-kki.1 tercekik. 2 muntah
+gaga,ks. Sl.: lucu pandir.
+gage,GAUGE.
+gaiety,"kb. (j.-ties) keriangan,kegembiraan, kegirangan."
+gaily,lih. GAY
+gain,"kb.1 keuntungan.2 tambahan.3 perolehan.-kkt.1 memperoleh.2 menambah.3 mendapat, dapat 4 mencapai. -kki. memperoleh keuntungan.to g. on mendekati"
+gainer,"kb. pemenang, yg memperoleh keuntungan."
+gainful,ks. yg menguntungkan.-gainfully kk. menguntungkan.
+gainsay,kkt. (gainsaid) menyangkal  There's no gainsaying the fact that..... Tak dpt disangkal kenyataan bhw......
+gait,kb. gaya berjalan. to stride along at rapid g. berjalan dgn langkah cepat.
+gal,"galon, hampir empat liter"
+gala,"'geila,'gaele, 'gala/ kb. pesta besar. -ks. meriah. g. occasion peristiwa yg meriah. g. costume pakaian pesta."
+galangal (e),kb. Laos.
+galaxy,kb.(j. xies) bimasakti. g. of stars pawai bintang-bintang pilem.
+gale,"kb. angin kencang/ribut, badai. to break out in gales of laughter tertawa terbahak-bahak."
+galingale,GALANGAL.(e).
+gall,kb. empedu.-kkt. menyakitkan hati.
+gallant,"ks. berani, gagah (berani).2 sopan (terutama thd wanita). -gallantly kk. dgn gagahnya/perkasanya/megahnya."
+gallantry,kb. (j.-ries) 1 keberanian.2 kekesatriaan (sikap sopan dan hormat thd wanita).
+gallery,kb. (j.-ries) 1 serambi.2 Theat.: balkon.3 Art : balai atau gedung kesenian.
+galley,kb 1 (ship's) dapur.2 sejenis perahu zaman dahulu. g. proof pruf lepas/kotor.
+gallon,kb. galon.
+gallop,kb. congk(e) lang.to break into a g. memulai/beralih berlari cepat/ menderap/congklang.-kki mencongklang. to g. away pergi dgn menderapkan kudanya. galloping consumption penyakit tbc/paru yg ganas.galloping inflation inflasi terbang.
+gallows,"kb., j. tiang gantungan. to cheat the g. menghindarkan diri dari hukuman gantung."
+gallstone,kb. batu empedu.
+galore,kk. yg berlimpah-limpah. to receive compliments g. menerima pujian-pujian yg berlimpah-limpah.
+galosh,kb. sepatu luar (dari karet).
+gals.,[gallons]  galon-galon.
+galvanic,ks. galvanis. g. battery batere listrik.
+galvanization,kb. galvanisasi.
+galvanize,kkt. 1 Elect.: menggalvanisasikan. 2 menggembleng.  The group was galvanized into action  Regu itu digembleng untuk mengadakan aksi. -galvanized  ks. berlapis seng.  g. iron  besi berlapis seng.
+gambit,kb. 1 cara memulai permainan catur dengan mengorbankan bidak (pion) unutk mendapatkan keuntungan.  2 tiap permulaan gerakan terutama yang dimaksud untuk mendapatkan keuntungan.
+gamble,"kb. 1 spekulasi. 2 judi. -kkt. to g. away memboros-boroskan dengan berjudi.  -kki. berjudi. -gambling kb. berjudi, perjudian.  Sl.: g. joint/den rumah judi, tempat perjudian."
+gambler,"kb. permainan judi, penjudi."
+game,kb. 1 permainan. 2 pertandingan. 3 binatang buruan. 4 Inf.: pekerjaan. 5 maksud. to play a waiting g. menantikan saat yang baik.  g. license izin perburuan.  -gaming ks. berjudi.  -gamely kk. dengan gagah berani.
+gamecock,kb. ayam sabungan.
+gamekeeper,kb. pengawas binatang perburuan/liar.
+gamey,#NAME?
+gamma,kb. gamma. g. ray sinar gamma.
+gamut,kb. 1 tangga nada. 2 keseluruhan (nya).
+gamy,ks. berbau daging yang hampir busuk.
+gander,kb. 1 angsa jantan. 2 Sl.: pandangan sebentar. Take a g. at that new car Coba pandang oto baru itu sebentar.
+gang,kb. 1 gerombolan. 2 regu. -kki.  Inf.: to g. together berkumpul dalam gerombolan. to g. up on mengeroyok. to g. up with bersekongkol/berkomplot dengan.
+gangling,ks. kurus/ceking dan canggung. a g. youth  seorang pemuda/pemudi yang ceking dan canggung.
+ganglion,kb. simpul/pusat saraf.
+gangplank,kb. tangga untuk naik ke kapal.
+gangrene,"kb. kelemayuh, ganggren."
+gangrenous,"ks. berkelemayuh, kena penyakit ganggren."
+gangster,"kb. penjahat, bandit."
+gangway,"kb. gang, jalan sempit.  -kseru. G.!  Kasi  jalan."
+gantlemanly,ks. sopan. g. conduct kelakuan yang sopan.
+gantlet,kb. cara menghukum orang pada zaman dulu. to run the g. diserang dengan pukulan dari kanan-kiri.  =  GAUNTLET.
+gantry,kb. (j. -ries) tempat kerangka peluncuran. g. crane kendaraan kerekan/beroda.
+gao,[General Accounting Office] Badan Pemeriksa Keuangan.
+gap,"kb. 1 celah (between boards). 2 jurang pemisah. 3 renggang (between teeth). 4 kekosongan. 5 lembah, jurang in mountain). 6  lowongan."
+gape,"kki. membuka dengan lebar, menganga.   to g. at s.o. memandang seseorang dengan mulut ternganga.  -gaping ks. yang terbuka. g. cut  luka yang terbuka."
+gar(r)otte,"kkt. mencekik, menghukum mati/ mematikan dengan cekikan."
+garage,kb. 1 garasi. 2 bengkel (for repairs).
+garbage,"kb. sampah. g. can/pail tong/bak sampah. g. dump pelimbahan, tempat/daerah pembuangan sampah. g. truck truk sampah."
+garble,"kkt. memutarbalikkan perkataan, merusak isi keterangan. The telegram was garbled Isi telegram rusak."
+garden,garden
+gardener,kb. tukang kebun.
+gardenia,kb. bunga kacapiring.
+gargantuan,"ks. raksasa, besar sekali."
+gargle,kb. obat kumur.  -kki. berkumur.  -gargling kb. berkumur.
+garish,ks. yang berkilat-kilat. g. coat baju yang berkilat-kilat.
+garland,kb. kalung/karangan bunga.
+garlic,"kb. dasun, bawang putih."
+garment,"kb. pakaian, penutup badan. jas. g. bag gantungan baju yang berselubung (supaya tidak kotor)."
+garner,"kkt. menyimpan, mengumpulkan."
+garnet,kb. batu akik yang berwarna  merah tua.
+garnish,kb. hiasan (for food). -kkt. menghias.
+garnishee,"kkt. menyita, merampas, memotong, mengurangi. to g. a part of a salary memotong sebagian dari gaji."
+garp,kb. pakaian.
+garret,kb. loteng (dibawah atap).
+garrison,kb. 1 garnisun. 2 pasukan yang ditempatkan didalam suatu kota. -kkt. mengasramakan.
+garrulous,"ks. gatal/banyak mulut, suka ngomel, temberang."
+garter,kb. ikat kaos kaki. g. snake ular kecil yang tak berbisa.
+gas,"kb. 1 gas. 2 Inf.: bensin, minyak gas. 3 Med.: obat bius. -kkt. 1 membubuhkan gas. 2 Mil.: menyerang dengan gas beracun. to g. up mengisi bensin sampai penuh. g. burner  kompor gas."
+gaseous,"ks. seperti gas, dalam bentuk gas."
+gash,"kb. luka tetak. -kkt. melukai (parah), menetakkan. The machete gashed him badly  Dia luka parah kena  parang itu."
+gasket,kb. paking. Sl.: to blow a g. menjadi marah sekali.
+gaslight,kb. (cahaya) lampu gas. to study by g. belajar (dengan)  memakai lampu gas.
+gasman,kb. (j. -men) pegawai/tukang/pemeriksa gas.
+gasoline,"kb. bensin, minyak gas. g. gauge pelampung bensin, alat pengukur bensin.  g. station pompa bensin."
+gasp,kb. hembusan nafas. She talked in gasps  Bicaranya terengah-engah. -kki. to g. for breath megap-megap.
+gastric,ks. yang berhubungan dengan lambung perut. g. juice getah perut. g. ulcer bisul perut.
+gastritis,kb. radang (lambung) perut.
+gastronomic,ks. yang berhubungan dengan keahlian memasak dan makanan enak.
+gasworks,kb. pabrik gas.
+gate,kb. 1 lawang. 2 pintu gerbang/pagar. 3 pintu masuk. 4 Inf.: penghasilan karcis. gate-leg table sebuah meja yang daunnya dapat dilipat. g. receipts  hasil pendapatan karcis masuk.
+gatekeeper,kb. penjaga pintu.
+gatepost,kb. tonggak pintu pagar. between you and me and the g. antara kita-kita saja.
+gateway,kb. pintu gerbang.
+gather,gather
+gauche,"ks. canggung, kaku."
+gaudy,ks. terlalu menyolok.
+gauge,ks. meteran/ukuran.  gasoline g. meteran bensin. standard g. ukuran pokok/baku.  -kkt. 1 mengukur (distance). 2 menaksir/mengukur.
+gaunt,ks. kurus-kering dan cekung.
+gauntlet,"kb. sarung tangan (biasanya sebagian dari kulit sebagian dari besi). to fling/throw down the g. menantang, mengajukan tantangan."
+gauze,kb. kabut tipis. wire g. ayakan dawai.
+gave,lih  GIVE.
+gavel,"kb. palu, martil (dipergunakan oleh hakim, ketua rapat atau tukang lelang)."
+gawk,"kki. Inf.: menganga, melongo."
+gawky,"ks. janggal, kekok."
+gay,"ks. 1 periang, gembira. She's such a g. person Ia seorang yang sangat periang. 2 meriah. g. party pesta yang meriah. 3 berwarna ria. 4 Sl.: homoseksuil. -gaily kk. dengan riang, dengan gembira."
+gaze,"kb. pandangan, tatapan. -kki. memandang. to g. at/upon memandang kepada, menatap. to g. into menatap. He gazed into her eyes Dia menatap matanya."
+gazelle,kb. semacam rusa.
+gazette,kb. surat kabar. government g. lembaran negara.
+gazetteer,kb. kamus ilmu bumi.
+gear,"kb. 1 roda gigi. 2 persneling. -gears j. 1 perlengkapan roda gigi. 2 gigi persneling. -kkt. menyanggupkan, mencocokkan.  -gearing kb. di perlengkapi dengan gigi-gigi (persneling dsb)."
+gearshift,kb. alat untuk memasukkan atau memindahkan persneling atau gir.
+gearwheel,kb. roda gigi.
+gecko,kb. toke (k).
+gee,"kb. huruf g.  -kseru. astaga. -kkt., kki. memerintahkan kuda membelok kekanan. Inf.: gee-string cawat."
+geese,lih  GOOSE.
+geewhilikins,"kseru. astaganaga, celaka duabelas."
+geg.,1 [geographer] ahli ilmu bumi. 2 [geographic (a)] yang berhubungan dengan ilmu bumi. 3 [geography] ilmu bumi.
+geiger,G. counter alat pangukur banyaknya radiasi.
+gelatin,kb. agar-agar.
+geld,kkt. mengebiri.
+gelding,kb. kuda atau binatang lainnya yang dikebiri.
+gem,kb. 1 permata tulen. 2 mutiara. gem-studded ks. bertatahkan permata. g.-studded watch arloji bertatahkan permata.
+geminate,ks. rangkap. -kkt. merangkapkan.
+gemination,"kb. kembar, rangkap, dobel."
+gemini,kb. Zod.: Mintuna.
+gen.,1 [general] Jenderal. 2 [Genesisi] Kejadian.
+gender,kb. jenis kelamin.
+gene,kb. plasma pembawa sifat (didalam keturunan).
+genealogical,ks. yang berhubungan dengan silsilah. g. tree silsilah susur galur.
+genealogy,"kb. (j. -gies) silsilah (keturunan), genes."
+genera,"kb., j. dari GENUS."
+general,kb. 1 jend(e)ral. 2 hal  yang umum. -ks. umum. the g. public khalayak ramai. -generally  biasanya.
+generality,kb. (j. -ties) keadaan yang umum. He tends to speak in generalities Dia suka berbicara secara umum.
+generalization,"kb. perumuman, penyamarataan."
+generalize,kkt. menyamaratakan.
+generate,"kkt. 1 membangkitkan, menghasilkan.  to g. electricity membangkitkan tenaga listrik. 2 menyebabkan. to g. opposition menyebabkan timbulnya perlawanan.  generating plant/ station sentral listrik."
+generation,"kb. 1 angkatan, generasi. 2 pembangkitan (of electricity). 3 keturunan. from g. to g. turun-temurun. g. gap  jurang (perbedaan) antara generasi."
+generator,"kb. generator, alat pembangkit tenaga listrik, desel, disel."
+generic,ks. umum g. term istilah umum.
+generosity,"kb. (j. -ties) kemurahan hati, kedermawanan."
+generous,"ks. 1 bermurah hati, dermawan (of people). 2 banyak sekali. g. serving of ice cream sajian eskrim yang banyak sekali."
+genesisi,"kb. asal, kejadian. Bible.: G. Kejadian."
+genetic,ks. yang berhubungan dengan azas-azas keturunan. g. variation variasi/kelainan keturunan.
+geneticist,kb. ahli (ilmu) genetika.
+genetics,"kb. (ilmu) genetika, ilmu keturunan."
+genial,"ks. peramah, periang, ramah-tamah."
+geniality,kb. keramah-tamahan.
+genie,genie.kb.jin.
+genital,"kb. genitals j. aurat, kemaluan, alat kelamin. -ks. yang berhubungan dengan kemaluan."
+genitalia,"kb. aurat, kemaluan, alat kelamin."
+genitive,"kb., ks. (kasus) genitif."
+genius,kb. 1 kecerdasan pikiran. 2 kesanggupan. 3 seorang yang kepandaiannya luar biasa. 4 bakat.
+genocide,kb. pemusnahan secara teratur terhadap suatu golongan bangsa.
+genotype,kb. genotip.
+genre,"kb. 1 gaya, aliran. literary g. aliran/gaya sastera. 2 macam."
+gent,kb. Sl.:  = GENTLEMAN. -Gents (W. C.)  Pria.
+gent.,[Gentlemen]  Tuan-tuan.
+genteel,"genteel.ks. sopan,halus,beradab       g.manner tingkah laku yang sopan."
+gentile,kb. 1 seorang bukan Yahudi. 2 kafir (menurut orang Islam).
+gentility,"kb. (j. -ties) keturunan bangsawan/ningrat, tingkah-laku yang sopan, budibahasa yang halus."
+gentle,"ks. 1 lemah-lembut. 2 sepoi-sepoi. 3 jinak.  the gentle(r) sex kaum wanita / Hawa. -ks. berperasaan baik, ramah. -gently kk. 1 dengan hati-hati. 2 dengan lemah-lembut."
+gentleman,"kb. (j. -men). 1 tuan, saudara. 2 orang pria.  g.'s agreement perjanjian yang ditandatangani, tetapi dianggap berlaku atas pengertian bersama."
+gentlemanlike,#NAME?
+gentleness,"kb. kelemah-lembutan, kehalusan."
+gentlewoman,"kb. (j. -women). wanita baik-baik, wanita dari keluarga baik-baik, wanita yang berkedudukan baik."
+gently,lih  GENTLE.
+gentry,kb. golongan yang berasal dari keluarga baik-baik.
+genuflect,kki. bertekuk lutut (memuja sesuatu/seseorang).
+genuflection,"kb. tekuk lutut, pemujaan."
+genuine,"ks. 1 sejati, asli. 2 tulen. 3 sungguh-sungguh, ikhlas."
+genus,"kb. 1 (j. genera) jenis, macam, golongan. 2 Bot.: ibu/induk jenis."
+geodesy,kb. geodesi.
+geodetic,ks. geodetik. g. survey penyelidikan geodetik.
+geograher,kb. ahli ilmu bumi.
+geographic(al),ks. geografis. its g. location letak geografisnya.
+geography,"kb. (j. -phies) ilmu bumi, geografi. physical g. ilmu bumi alam."
+geol.,1 [geology] geologi. 2 [geological] yang berhubungan dengan geologi.
+geological,ks. yang berhubungan dengan geologi. G. Survey Direktorat (penjelajahan) Geologi.
+geologist,"kb. geolog, ahli geologi."
+geology,kb. (j.-gies) geologi.
+geometric(al),ks. geometris.
+geometry,kb. (j. -ries) ilmu ukur. analytic g. ilmu ukur analitis.
+geophysical,ks. yang berhubungan dengan geofisika. g. year tahun geofisika.
+geophysics,kb. geofisika.
+geopolitics,kb. geopolitik.
+george,"kb. By G.! Ja, Allah/Sungguh mati. Inf.: Let G. do it Biarlah orang lain yang mengerjakannya."
+ger.,1[Germany] Negeri Jerman. 2 [German] bahasa atau orang Jerman.
+geranium,kb. semacam bunga.
+geriatrics,kb. geriatrik.
+germ,"kb. kuman, basil. g. cell sel kuman. disease g. kuman penyakit. g. warfare perang kuman."
+german,kb. 1 seorang Jerman. He's a G  2 bahasa Jerman. She speaks G. Dia berbahasa Jerman. -ks. Jerman. G. measles biring peluh. G. shepherd anjing herder/gembala.
+germane,ks. berhubungan erat. That's not g. to the argument Itu tidak ada hubungan dengan persoalan itu.
+germanic,ks. yang berhubungan dengan bahasa/bangsa Jerman. G. linguistics ilmu bahasa Jerman.
+germany,kb. negeri Jerman. Federal Republic of G. Republik Federal Jerman.
+germfree,ks. suci hama.
+germicide,kb. obat penghapus kuman penyakit.
+germinal,"ks. asal, mula-mula. g. idea gagasan semula."
+germinate,kki. berkecambah.
+germination,kb. pengecambahan.
+gerontology,"kb. gerontologi, ilmu mengenai usia lanjut."
+gerrymander,"gerrymander,kkt. memberi kesempatan dengan curang kpd suatu partai politik."
+gerund,kb. kata benda yang dibentuk dari kata ditambah -ing (dalam bahasa Inggris).
+gestation,kb. 1 waktu selama hamil. 2 kehamilan. g. period masa persiapan.
+gesticulate,kki. menggerakkan tangan. to g. when speaking menggerak - menggerakkan tangan waktu berbicara.
+gesticulation,kb. gerak-isyarat tangan.
+gesture,"kb. 1 gerak-isyarat. 2 sikap, langkah. -kki. memberi/membuat gerak - isyarat."
+get,"kkt. (got, gotten) 1 memperoleh.  2 menerima. 3 membeli. 4 mengambil. 5 mengambilkan. 6 memecahkan. 7 mengejar. 8 kena. 9 mendapat. 10 mempunyai, memperoleh. 11 menangkap. 12 Sl.: mengerti. 13 memanggil.14 membukakan. 15 mengangkat, terima. 16 menyuruh."
+geyser,kb.  air  mancur panas.
+ghastly,"ks. mengerikan, menakutkan. g. picture foto yang mengerikan."
+gherkin,kb. ketimun.
+ghetto,kb. 1 kampung Yahudi di kota. 2 bagian kota yang didiami terutama oleh golongan minoritas.
+ghost,kb. hantu.  to give up the g. meninggal. g. town kota mati. to ghost-write mengarang untuk orang lain. g. writer pengarang untuk orang lain.
+ghostlike,"ks. seram, angker, seperti setan/hantu."
+ghostly,"ks. pucat, remang-remang, seperti hantu."
+ghoul,kb. setan  /perampok  kubur.
+ghq,[General Headquarters] Markas Besar.
+giant,kb. 1 raksasa. 2 tokoh besar.   giant-size ks. besar sekali. g.-size jar coffee sebotol besar kopi.
+gibber,"kki. omong-omong, merepet, mericau. He's a gibbering idiot Ia seorang tolol yang merepet."
+gibberish,kb. secara merepet/membual/ mericau.
+gibbon,"kb. siamang, ungka."
+gibe,"kb. ejekan cemooh. His gibes sting Ejekannya menusuk. -kki. mencemoohkan, mengejek."
+giblets,"kb., j. jeroan ayam-itik."
+giddiness,kb. perasaan pusing/mabuk/ gamang.
+giddy,ks. pusing. I feel g. Pusing kepalaku.
+gifft,"kb. hadiah, kado, pemberian. 2 bakat. to gift-wrap (gift-wrapped) membungkus dengan cantik sekali (untuk hadiah."
+gifted,ks. berbakat. g. child anak yang berbakat.
+gig,kb. lembing/tombak ikan.
+gigantic,"ks. 1 hebat, dahsyat.  g. earth-quake gempa bumi yang hebat.   2 sangat besar, raksasa. He was g. Dia sangat besar."
+giggle,"kb., kki., terkikih-kikih, tertawa genit."
+gild,kkt. (gilded atau gilt.) menyepuh. to g. a frame menyepuh( dgn emas) bingkai.
+gill,kb. insang. to look green around the gills kelihatan pucat sekali (spt orang yg tidak enak badan atau terasa mau muntah).
+gilt,kb. lapisan yg berkilat. gilt-edge(d) ks. bermutu tinggi. g.-edge invesment penanaman (modal) yang tidak akan rugi. lih  GILD.
+gimlet,"kb. 1 geret kayu, bor kayu yang kecil. 2 minuman keras."
+gimmick,kb. 1 alat. 2 tipu muslihat.  What's the g. ? Apakah maksud tersembunyi didalamnya ?
+gin,"kb. 1 jenewer, sopi. 2 (cotton-) mesin pemisah biji kapas."
+ginger,"kb. jahe, halia. g. ale air jahe dengan soda. Inf.: He has lots of g. Dia giat sekali."
+gingerbread,kb. roti yang dibubuhi jahe dan manisan.
+gingerly,kk. dengan hati-hati sekali.
+gingersnap,kb. kue kecil yang garing dan dibubuhi jahe dan manisan.
+gingham,kb. (kain) genggang.
+gingivitis,kb. radang gusi.
+ginseng,kb. jinsom.
+gip,#NAME?
+gipsy,#NAME?
+giraffe,"kb. zirafah, zirafah, jerapah."
+gird,kkt. bersiap-siap. He girded himself for a rough struggle Dia bersiap-siap untuk suatu perkelahian yang seru.
+girder,"kb. bendul, balok penopang."
+girdle,kb. korset.
+girl,kb. 1 anak perempuan. 2 gadis (in her late teens). 3 pemudi. putri. 4 pacar.
+girlhood,"kb. masa gadis, masa remaja (perawan)."
+girlie,ks. Sl.: yang memuat gambar-gambar wanita cantik. g. magazine majalah yang memuat  gambar-gambar wanita.
+girlish,"ks. seperti anak perempuan, genit. She still had g. figure Potongannya masih seperti gadis."
+girth,kb. 1 ukuran lilitan. He has a tremendous g. Ia gendut. 2 tali pelana.
+gist,"kb. intisari, pokok. g. of the story inti sari cerita."
+give,"kb. gaya-pegas. -kkt. (gave, given) 1 memberi. 2 memberikan. 3 menyumbang. 4 menyumbangkan. 5 membayar. 6 mengadakan. 7 mengucapkan (speech, talk). 8 menyajikan (a play). 9 mencurahkan. 10 menyampaikan. 11 memperlihatkan, memberikan. 12 mengorbankan."
+giveaway,"kb. Inf.: 1 pembukaan rahasia tanpa sengaja.2 hadiah, pemberian."
+given,lih  GIVE.
+giver,"kb. pemberi, penderma."
+gizmo,kb. Sl.: alat. useful g. alat yang berguna.
+gizzard,kb. empedal unggas.
+gk.,[Greek] yang berhubungan dengan Yunani.
+glacial,ks. yang berhubungan dengan sungai es.
+glacier,"kb. sungai es, gletser."
+glad,"kb. Inf.:  =  GLADIOLUS. -ks. senang (hati), gembira. Sl.: g. eye lirikan (mesra), permainan mata. Inf.: glad-hand kb. salam yang ramah. Sl.: g. rags pakaian yang paling bagus. -gladly kk. dengan senang hati, dengan gembira."
+gladden,kkt. menggembirakan.
+glade,kb. lapangan yang terluang ditengah-tengah tanah rimba.
+gladiator,"kb. seorang budak, tawanan atau orang upahan yang disuruh berkelahi dalam tontonan umum."
+gladiolus,"kb. (j. -li, -uses) gladiol."
+gladness,"kb. kesenangan hati, kegembiraan."
+glamor,#NAME?
+glamorize,kkt. mengagungkan.
+glamorous,ks. sangat menarik dan mempesonakan.
+glamour,kb. daya tarik.
+glance,"kb. pandangan sekilas. -kki. melihat sekilas. to g. over membaca secara sepintas lalu. glancing blow pukulan sipi, pukulan yang luput."
+gland,kb. kelenjar.
+glandular,ks. yang berhubungan dengan kelenjar. g. tissue jaringan kelenjar.
+glare,"kb. 1 cahaya yang menyilaukan. 2 pandangan sorotan. -kki. membelalang, membelalak. -glaring ks. 1 yang menyilaukan. 2 yang menyolok."
+glass,kb. 1 kaca. 2 gelas. 3 cermin. 4 (spy-) teropong. -glasses j. 1 kacamata. 2 (spy-) teropong. to see s.t. through  rase-colored glasses melihat sesuatu secara amat optimistis.
+glassful,kb. segelas penuh.
+glasshouse,kb. = GREENHOUSE.
+glassmaker,kb. pembuat barang-barang elok dari gelas.
+glassmaking,kb. pembuatan gelas.
+glassware,kb. barang pecah-belah.
+glassworks,kb. paberik kaca.
+glassy,"ks. 1 seperti kaca. g. sea laut seperti kaca. 2 tolol, dungu. He had a g. look Pandangannya seperti orang tolol.  g. stare tatapan hampa dan dungu."
+glaucoma,kb. glaukoma.
+glaze,"kb. 1 lapisan (of ice). 2 upaman (on a china cup). -kkt. mengacai, memasang kaca (a window, picture)."
+glazier,kb. tukang kaca.
+gleam,"kb. 1 pancaran cahaya. 2 sekilas.  -kki. 1 berkilat, berseri-seri. 2 bersinar."
+glean,kkt. mengumpulkan sedikit. to g. all available data mengumpulkan sedikit demi sedikit  semua keterangan yang ada.
+glee,"kb. riang, gembira. g. club paduan suara (disekolah)."
+gleeful,"ks. dengan  riang-gembira. -gleefully kk. dengan gembira-ria, dengan sangat gembira."
+glen,"kb. lembah kecil, celah-celah gunung."
+glib,"ks. lincir mulut/lidah, fasih."
+glide,"kb. 1 gerakan yang luwes. 2 Phon.:  huruf atau bunyi semivokal. 3 Av.: peluncuran (tanpa memakai motor), penerbangan layang. -kki. 1 meluncur.  2 berlalu. 3 masuk dengan lemah-gemulai. 4 Av.: terbang layang. -gliding kb. meluncur dengan pesawat terbang."
+glider,"kb. 1 (pesawat) peluncur, pesawat terbang layang. 2 Furn.: kursi ayunan."
+glimmer,"kb. 1 cahaya yang samar-samar. 2 cahaya redup. -kki. berkelip redup (of a candle, fire)."
+glimpse,kb. penglihatan/pandangan sekilas. to catch a g. of s.o. melihat seseorang sekilas. -kkt. memandang melihat sepintas lalu.
+glint,kb. 1 kilatan. the g. of silver kilatan perak. 2 cahaya yang menyilaukan mata.
+glisten,kki. berkilau-kilauan. The diamond glistened in the light Intan itu berkilau-kilauan kena cahaya.
+glitter,"kb. kegemilapan, kemegahan. the g. of the occasion kegemilapan peristiwa. -kki. berkerlap, berkerlip, gemerlapan."
+gloat,"kki. merenungkan dengan hati senang, melihat dengan tamak. to g. over o's wealth melihat dengan tamak kepada kekayaannya."
+glob,"kb. gumpal, selekeh."
+global,"ks. sedunia, sejagad. g. war perang (se)dunia."
+globe,kb. 1 barang bulat/bundar seperti bola. 2 Geog.: bola (peta) bumi. 3 Elec.: lampu bola.
+globetrotter,kb. pengeliling dunia.
+globular,"ks. bulat, bundar, berbentuk bola."
+globule,"kb. percikan, tetesan. globules of sweat percikan keringat."
+gloom,"kb. 1 kesuraman, kemurungan. 2 kegelapan."
+gloomy,"ks. 1 suram, muram, murung. to have a g. disposition sikap bermuram-durja. 2 mendung. g. day hari mendung."
+glorification,kb. pemujaan.
+glorify,kkt. (glorified) 1 memuja. 2 mengagungkan. 3 memuliakan. -glorified ks. dipuja. The house is a g. shack Rumah itu adalah pondok yang  diperindah.
+glorious,"ks. 1 mulia, agung. 2 meriah. 3 gilang-gemilang. g. weather cuaca cerah. -gloriously kk. senang. g. happy sangat senang."
+glory,"kb. (j. -ries) 1 kemuliaan keagungan. 2 semarak, cahaya kemuliaan. Inf.: to be in o's g. merasa puas, bangga. -kki. to g. in merasa bangga dalam."
+gloss,"kb. permukaan yang halus (of furniture). 2 terjemahan, komentar, keterangan. -kkt. membubuhi catatan atau keterangan."
+glossary,kb. (j. -ries) daftar kata-kata. g. of technical terms daftar istilah-istilah tehnik.
+glossy,ks. yg megkilat. g.photo foto yg mengkilap. g. magazine majalah yg dicetak pd kertas yg mengkilap.
+glottal,"ks. yg berh. dgn celah suara. g.stop hamzah, penghentian suara dlm celah suara."
+glottis,kb. celah suara.
+glove,kb. sarung tangan. to fit like a g. cocok benar. g. compartment laci kecil didekat setir mobil.-gloved ks. bersarung.
+glow,"kb. sinar (of sunset, happiness).2 cahaya (of fire).3 suasana.-kki.1 memancarkan cahaya.2 berpijar.-glowing ks.1 yg bersemangat.2 menyala-nyala.-glowingly kk. dgn bersemangat."
+glower,"kkt. memandang,menatap dgn tajam. to g. at memandang dgn marah kpd."
+glowworn,kb. ulat kelap-kelip.
+glucose,"kb. glukosa,sakar,gula anggur."
+glue,"kb. lem,perekat.-kkt.1 menempelkan.2 merapatkan. to be glued 1 terpaku.2 terpancang.3 tertambat."
+glum,"ks. muram, suram, murung."
+glut,kb. persediaan yg melimpah-limpah. kkt (glutted) memakan dgn lahap.
+gluten,"kb. zat perekat (dlm ketan), perekat."
+glutinous,"ks. lengket, leceh, melekat."
+glutton,"kb. seorang rakus, pelahap, seorang gelojoh. He's a g. for punishment  Ia sudah kebal terhadap hukuman-hukuman."
+gluttony,kb. (j. -nies) kerakusan.
+glycerin(e),kb. gliserin.
+gmc,[Germanic] yang berhubungan dengan bahasa-bahasa Jerman.
+"gmt, g.m.t.",[Greenwich Mean Time] waktu Greenwich.
+gnarled,"ks. monggol, berkenjal-kenjal."
+gnash,"kkt. mengertakkan, mengeritkan. to g. o's teeth menggertakkan gigi.  -gnashing kb. gertakan/kertakan gigi."
+gnat,kb. agas yang suka menggigit. to strain at a g. menaruh keberatan terhadap hal kecil.
+gnaw,kkt. menggerogoti. to g. a hole in a wall menggerogoti lubang di dinding. -kki. 1 menggerogoti lubang di dinding. 2 mengerkah. 3 mengganggu. -gnawing kb. There was a g. in his stomach Perutnya rasanya. ks. perih sekali.
+gneiss,kb. gneiss.
+gnome,"kb. jembalang, orang cebol/katai."
+"gnp, g.n.p.",[Gross National Product] Hasil Kotor Nasional.
+go,"kb. 1 kesempatan. 2  giliran. -kki. (went, gone) 1 pergi. 2 berangkat. 3 hancur. 4 meninggal. 5 hilang. 6 berjalan. 7 (ber)bunyi. 8 jatuh. 9 lari. 10 naik. 11 putus. 12 menuju. 13 diperhentikan. 14 boleh. 15 diatur.  16 menjadi. -gone ks. terpesona."
+goad,kb. tongkat/galah untuk menghalau. -kkt. mendorong. He was goaded beyond endurance by... Dia didorong dengan tidak tertahan-tahan oleh..
+goal,"kb. 1 gawang. 2 cita-cita. 3 gol. 4 tujuan, sasaran."
+goalie,kb. =  GOALKEEPER.
+goalkeeper,"kb. kiper, penjaga gawang, penggawang."
+goat,kb. 1 kambing. 2 bandot (tua). 3 orang yang dipersalahkan. Sl.: to get s.o's g. membuat marah/kesal.
+goatee,kb. janggut seperti janggut kambing.
+gob,kb. 1 gumpal. 2 Nau.: Sl.: kelasi AS.
+gobble,kb. kokok (kalkun). -kkt. 1 melahap. to g. down/up o's food menelan makanannya dengan cepat. 2 membeli habis (bargains). -kki. berkokok (of a turkey).
+gobbledygook,kb. Inf.: uraian yang berbelit-belit dan sulit untuk dipahami.
+gobbler,kb. kalkun jantan.
+goblet,kb. gelas minum berbentuk piala.
+goblin,"kb. hantu, setan, jin, jembalang, peri."
+gocart,kb. kereta beroda  untuk anak-anak
+god,"kb. dewa. G. Tuhan (yang Maha Esa). -God-fearing ks. saleh, taqwa. -God-given ks. yang diberikan Tuhan."
+godchild,kb. bayi yang di baptiskan digereja dan bersama itu juga diwalikan kepada orang lain.
+goddaughter,kb. bayi perempuan yang dibaptiskan di gereja dan bersama itu juga diwalikan kepada orang lain.
+goddess,kb. dewi.
+godfather,kb. wali laki-laki seorang bayi.
+godforsaken,ks. terkutuk. g. town kota yang terkutuk.
+godhead,kb. kedewaan. the G. Ketuhanan.
+godlike,ks. ilahi(yah) kedewaan.
+godliness,"kb. 1 keilahian, ketuhanan. 2 kesalehan."
+godly,ks. saleh. g. life kehidupan yang saleh.
+godmother,kb. wali wanita seorang bayi.
+godown,kb. gudang.
+godparent,kb. seorang laki-laki atau perempuan yang menjadi wali atas seorang bayi.
+godsend,kb. sesuatu yang tak terduga dan menggembirakan
+godson,kb. seorang bayi laki-laki yang dibaptiskan di gereja dan bersama itu juga diwalikan kepada orang lain.
+godspeed,kb. semoga saudara berhasil.
+goes,lih  =  GO.
+goggle,"kki. terbeliak mata, melotot, membelalak. -goggles j. kacamata debu. goggle-eyed ks. dengan mata terbeliak."
+"goiter, goitre","kb. gondok, gondong, beguk."
+gold,"kb. (e) mas, kencana.  gold-bearing ks. yang mengandung emas. g. mine a) tambang emas. b) sumber kekayaan. g. standard standar emas."
+goldbrick,kki. Inf.: malas-malasan.
+golden,"ks. 1 terbuat dari emas. 2 keemas-emasan 3 sangat baik/bagus. g. aniversary ulang tahun kelimapuluh. g. jubilee hari ulang tahun setengah abad. g, rula kaidah kencana. g. wedding ulang tahun kelimapuluh hari perkawinan."
+goldfish,kb. ikan mas. g. bowl bak kaca untuk ikan emas. to live in a g. bowl menjadi tontonan orang.
+goldsmith,kb. pandai/tukang emas.
+golf,kb. golf. g. club a) tongkat/ketokan/ getokan golf. b) perkumpulan. g. course/links lapangan golf.
+golfer,kb. pemain golf.
+golly,kseru. astaga !
+golosh,#NAME?
+gone,lih  GO.
+goner,kb. Inf.:  yang mati/amblas. We're goners if we can't  escape Kita akan menjadi korban kalau tak dapat melarikan diri.
+gong,"gong ,gung."
+goniometry,kb. goniometri. ilmu ukur sudut.
+gonorrh(o)ea,"kb. kencing nanah, gonorea."
+goo,kb. bahan yang pekat dan melengket seperti perekat.
+good,"kb. kebaikan, kebajikan. -goods j. 1 harta benda, barang-barang. 2 Sl.: kesanggupan, potensi. -ks. (better, best) 1 baik. 2 baik, budiman. 3 baik, susila. 4 enak, sedap. 5 utuh. 6 manis, dapat diminum. 7setia. 8 lumayan. 9 layak. 10 cakap, pintar."
+goodly,ks. 1 yang lumayan. a g. crowd sejumlah orang yang lumayan. 2 berlimpah-limpah. a. g. harvest panen yang berlimpah-limpah.
+goodness,"kb. kebaikan, kebajikan. -kseru. waduh, Masya Allah."
+goody,"kb. (j. -ies) Inf.: makanan yang lezat, kueh-kueh, gula-gula. a goody-goody seorang yang usahanya untuk berbuat baik berlebih-lebihan sehingga memualkan."
+gooey,ks. Sl.:  liat dan melengket.
+goof,kb. Sl.: kesalahan. -kki. keliru. I goofed Saya keliru. to g. off membuang-buang/menyia-nyiakan waktu.
+goofy,"ks. Sl.: bodoh, dungu, tolol."
+gook,kb. Sl.: kotoran yang melengket.
+goon,kb. Sl.: 1 orang jahat. 2 orang yang bodoh sekali.
+goose,kb. (j. geese) angsa. g. feathers bulu-bulu angsa. g. egg a) telor angsa. b) Sl.: angka nol.
+gooseberry,kb. (j. -ries) semacam buah frambus.
+goosebump,kb. Inf.: tegak bulu roma.
+gopher,kb. semacam tikus tanah.
+gordian,ks. to cut the G. knot mengambil keputusan dengan cepat untuk mengakhiri keraguan.
+gore,kb. darah kental. -kkt. melukai dengan tanduk.
+gorge,"kb. jurang, ngarai kecil yang curam. -kkt. makan dengan rakus. to g. o.s. on beans mengisi perut sepenuh-penuhnya dengan buncis."
+gorgeous,"ks. indah, permai."
+gorilla,kb. gorila.
+gory,"ks. yang penuh dengan lumuran darah, berdarah."
+gosh,kseru. wah !
+gosling,kb. anak angsa.
+gospel,"kb. ajaran. the g. of hard work ajaran bekerja keras. The G. Kitab Injil, Pewarta Rahayu. the g. truth kebenaran mutlak."
+gossamer,"kb. siratan benang yang halus, jaringan laba-laba, jaringan yang tipis lagi halus, kain tipis serta halus, sutera yang tipis."
+gossip,"kb. 1 guncing, kabar angin, buah mulut. The g. is that... Kabar anginnya ialah bahwa... 2 (a person) penggunjing, tukang fitnah. -kki. menggunjing, memfitnah, bergunjing. g. column isi pojok."
+got,lih GET. got up in berpakaian dalam. I've g. to go Saya harus pergi.
+gotten,lih GET.
+gouge,"gouge ,kkt. 1mencungkil ( s.o' s eyes  ).2 inf:menipu,mengeksploitasi ( s.o.)"
+goulash,kb. gulai daging.
+gourd,"kb. labu (manis), kendur."
+gourmet,kb. ahli pencicip makanan.
+gout,"kb. encok, sengal."
+gov.,[Governor] Gubernur.
+gov. gen.,[Governor General] Gubernur Jenderal.
+govern,kkt. 1 memerintah (a country). 2 menguasai (o's temper). 3 menentukan (a decision). 4 berpengaruh atas . -kki. memerintah. -governing ks. yang memerintah.
+governable,ks. bisa dikuasai/diperintah. His temper is g. Perangainya dapat dikuasai.
+governess,kb. seorang wanita yang digaji untuk mengajar anak-anak di rumah.
+government,kb. 1 pemerintah. 2 pemerintahan. 3 ilmu pemerintahan/politik.
+governmental,ks. yang berhubungan dengan pemerintah. g. committee panitia pemerintah.
+governor,kb. 1 gubernur. g. general gubernur jenderal. 2 (alat) pengatur (on an engine).
+governorship,kb. jabatan gubernur.
+"govt., govt.",[government] pemerintah(an).
+gown,"kb. 1 pakaian wanita. 2 gaun. 3 (academic, judicial, religious) jubah. 4 baju panjang."
+"gpo,  g.p.o.",[Government Printing Office] Kantor Percetakan Negara.
+gr.,[Greek] Yunani.
+gr.,[Greek] Yunani.
+gr. brit.,[Great Britain] Britannia Raya.
+grab,"kb., j. Sl.: up for grabs (sudah) tersedia, tinggal (meng)ambil. -kkt. (grabbed) 1 merebut, menjambret, menyerobot. 2 menangkap. 3 mengambil. g. bag  karung undian."
+grace,"kb. 1 gaya lemah gemulai, keanggunan, keapikan. 2 (perpanjangan) waktu, waktu kelonggaran 3 doa kecil (sebelum makan). -kkt. 1 menghormati. 2 menyemarakkan."
+graceful,"ks. lemah-gemulai, anggun."
+gracious,"ks. sangat ramah. She's a g. hostess Ia nyonya rumah yang sangat ramah. -kseru. G., what's happened ? Astaga, ada apa ? Good g., no ! Ya Allah,  tidak/jangan !"
+graciousness,"kb. keluwesan, keanggunan."
+grad,"kb. Inf.: tamatan, lulusan.  = GRADUATE."
+gradation,kb. gradasi. The range of g. is wide Jarak gradasi itu besar.
+grade,"kb. 1 (mark) angka. 2 kelas. 3 kelas, kwalitas. 4 tanjakan. -the grades j. sekolah dasar. -kkt. 1 memberi angka (papers). 2 memeriksa. 3 menggolong-golongkan. 4 meratakan. grade- A ks. yang bermutu tinggi."
+grader,"kb. 1 penilai, pemberi angka. (of papers). 2 murid. a fifth g. murid kelas lima."
+gradient,"kb. tinggi/curam tanjakan, lereng."
+gradual,"ks. berangsur-angsur, sedikit demi sedikit, setahap demi setahap. -gradually kk. secara berangsur-angsur.  Her health is g. improving Kesehatannya berangsur-angsur pulih."
+graduate,"kb., ks. tamatan, lulusan. -kki. tamat sekolah.  to g. from mendapat gelar (sarjana muda dsb) dari. g. studies pelajaran tingkat sarjana. -graduated ks. yang dibagi dalam kelas-kelas. g. flask botol yang memakai tanda ukuran."
+graduation,kb. 1 tamat sekolah. 2 upacara tamat sekolah. g. day (university or college) hari sarjana/wisuda.
+graft,"kb. 1 sogok- menyogok, korupsi, permainan sogok. 2 Med.: pemindahan (kulit). -kkt. mengenten, mencabangkan. -grafting kb. okulasi, cangkokan."
+grafter,"kb. koruptor, pencoleng."
+graham,g. cracker biskit yang seluruhnya terbuat dari tepung terigu.
+grain,"kb. 1 butir padi, buah/biji padi-padian. 2 urat/kembang kayu (in wood). 3 kesatuan berat di Inggris. -graining kb. urat/kembang kayu."
+gram,kb. gram.
+grammar,kb.  1  tatabahasa. 2 buku tatabahasa. g. school   sekolah dasar/rendah/rakyat.
+grammarian,kb. ahli tatabahasa.
+grammatical,ks. dari atau berhubungan dengan tatabahasa. -grammatically kk. dipandang dari sudut tatabahasa. It's g. correct Tatabahasanya benar.
+gramophone,"kb. gramopon, peti bicara/nyanyi, rekor-cenjer."
+granary,kb. (j. -ries) lumbung.
+grand,kb. Sl.: seribu dolar. -ks. 1 agung. 2 menyenangkan. 3 Inf.: hebat. g. prize hadiah pertama. g. duke adipati. g. jury dewan juri. g. larceny pencurian besar-besaran. G. Old Party Partai Republik(en) di AS. g. opera opera yang bersifat drama.
+grandchild,kb. cucu.
+granddad(dy),kb. (j. -dies) kakek.
+granddaughter,kb. cucu perempuan.
+grandeur,"kb. kemuliaan, kebesaran, kehebatan, keagungan."
+grandfather,"kb. kakek, embah/eyang lelaki. g. clock jam besar yang berdiri."
+grandiloquent,ks. penuh dengan kata yang muluk-muluk/melangit.
+grandma,"kb. Inf.: nenek, embah/eyang perempuan."
+grandmother,"kb. nenek, (e)mbah eyang perempuan."
+grandnephew,kb. cucu lelaki.
+grandniece,kb. cucu perempuan.
+grandpa,"kb. Inf.: kakek, embah/eyang lelaki."
+grandparent,"kb. eyang, embah."
+grandson,kb. cucu lelaki.
+granite,"kb. granit, batu besi."
+granny,kb. (j. -nies) Inf.: nenek.
+grant,"kb. dana/uang bantuan. -kkt. 1 mengabulkan (a request). 2 memberi (a charter). 3 mengakui. 4 tanggung. grant-in-aid bantuan uang. -granted boleh, silakan. to take for granted  1 diterima selaku benar. 2 menganggap pasti. granting that sungguhpun."
+grantee,"kb. penerima beasiswa, siswa tugas belajar."
+granular,ks. terjadi dari atau berisi butir-butiran yang kecil.
+granulated,ks. berbentuk butir-butiran. g. sugar gula pasir.
+granule,"kb. biji, butir."
+grape,kb. buah anggur.
+grapefruit,kb. semacam jeruk yang besar.
+grapevine,kb. tanaman anggur. Inf.: to hear via the g. mendengar melalui selentingan.
+graph,kb. grafik(a). g. paper kertas grafik.
+graphic,ks. 1 jelas seperti keadaan yang sebenarnya. g. description uraian/penuturan yang jelas sekali. 2 yang berhubungan dengan grafik.  3 yang berhubungan dengan tulisan tangan.
+graphite,kb. grafit.
+graphology,kb. ilmu tulisan tangan.
+grapple,"kki. 1 bergulat, memegang erat-erat. to  g. with a thief bergulat dengan pencuri. 2 berjuang, menghadapi. grappling hook/iron jepitan/penggenggam besi."
+grasp,"kb. genggaman. -kkt. 1 merenggut. 2 memegang. 3 menyambar, merebut. 4 mengerti ,memahami. -grasping ks. tamak, loba."
+grass,"kb. 1 rumput. a) menghalaukan ternak ke padang rumput. b) mempensiunkan, memberhentikan. 2 Sl.: mariyuana, ganja. g. widow janda, seorang wanita yang sudah diceraikan. g. widower seorang lelaki yang sudah bercerai, duda."
+grasshopper,kb. belalang. Inf.: kneehigh to a g. amat pendek.
+grassland,kb. padang rumput.
+grassy,ks. yang ditutup/penuh dengan rumput. grassy-green ks. hijau rumput.
+grate,"kb. salaian, garangan, panggangan. -kkt. memarut (coconut, cheese). -kki. berciut. grated cheese keju parutan.-grating kb. kisi, jeruji. ks. mengganggu, menjengkelkan."
+grateful,ks. berterima kasih.
+grater,kb. parutan. cheese g. parutan keju.
+gratification,"kb. kepuasan, kegembiraan."
+gratify,"kkt. (gratified) 1 memberi kebahagiaan/kepuasan, memuaskan. 2 memenuhi. -gratified ks. puas, bahagia, senang. -gratifying ks. memuaskan."
+gratin,kb. keju parutan. potatoes  au g. kentang yang dimasak  dengan diberi parutan keju diatasnya.
+gratis,"kk. dengan percuma, cuma-cuma, perdeo, gratis. The job was done g. Pekerjaan itu gratis."
+gratitude,kb. terimakasih. to express g. to bersyukur kepada.
+gratuitous,"ks. serampangan, yang tidak beralasan. g. assumption  dugaan yang tidak beralasan. g. insult penghinaan yang tidak pada tempatnya."
+gratuity,kb. (j. -ties) persen.
+grave,"grave , kb. kuburan ,g.robber :perampok kuburan.to have a watery g .terkubur  di dlm air."
+gravedigger,kb. penggali kuburan.
+gravel,kb. (batu) kerikil. g. pit tambang batu kerikil.
+graven,ks. g. image patung berhala.
+graveside,kb. sisi kuburan.
+gravestone,kb. (batu) nisan.
+graveyard,"kb. makam, pekuburan, pusara. car g. timbunan mobil-mobil tua."
+graving,ks. g. dock dok galian.
+gravitate,"kki. 1 mengendap. to g. to the bottom mengendap ke dasar. 2 condong, cenderung. He is gravitating towards chemistry Ia condong pada ilmu kimia."
+gravitation,"kb. 1 gravitasi. 2 kecenderungan, kecondongan."
+gravitational,ks. mengenai daya tarik bumi. g. pull daya-tarik bumi.
+gravity,kb. (j. -ties) 1 Phys.: gaya berat. 2 kegawatan (of a situation).
+gravy,"kb. (j. -ies) 1 kuah daging, saus. g. boat mangkuk kuah. 2 Sl.: keuntungan yang mudah didapat. Sl.: to ride the g. train menikmati kekayaan dan kemewahan tanpa bersusah payah."
+gray,"kb. (warna) abu-abu, kelabu. -ks. 1 abu-abu, kelabu. g. suit stelan abu-abu. 2 mendung. g. day hari mendung. -kki. beruban, menguban. gray-haired, gray headed ks. beruban. Inf.: g. matter otak kecerdasan."
+grayish,ks. keabu-abuan.
+graze,"kkt. 1 menggembalakan /  mengangon ternak (cattle). 2 menyerempet. 3 menyentuh. -kki. makan rumput. grazing animal angonan, ternak yang sedang makan rumput. g. land tanah penggembalaan."
+grease,"kb. 1 lemak, lumas, minyak semir. 2 vet, gemuk. -kkt. 1 menggemuki, melumas, meminyaki. 2 memulas. g. gun pistol gemuk, alat penyemprot gemuk"
+greasy,ks. 1 berminyak. g. food makanan yang berminyak. 2 yang bermanis mulut. his g. way caranya yang bermanis mulut. Sl.: g. spoon rumah makan murah dan kotor.
+great,"kb. jago, juara. -ks. 1 besar. 2 terkenal, termasyur. 3 hebat. 4 tinggi. 5 baik. 6 akrab. 7 agung. 8 Inf.: senang. -greatly  kk. sangat, amat. g. distressed sangat sedih."
+greatness,"kb. kebesaran, kejayaan, kemegahan."
+grecian,ks.yang berhubungan dengan Yunani.
+greece,kb. Negeri  Yunani.
+greed,"kb. ketamakan, kelobaan, kerakusan."
+greediness,#NAME?
+greedy,"ks. tamak, loba, rakus. g. for money lapar uang. -greedily kk. dengan rakus/lahap/tamak/loba."
+greek,kb. 1 orang Yunani. 2  bahasa Yunani. It's G. to me Saya tidak mengerti sama sekali. -ks. yang berhubungan dengan Yunani. the G. Church Gereja Yunani Kuno.
+green,"kb. 1 (warna) hijau. 2 Golf : lapangan green. 3 (food) sayuran berwarna hijau (seperti bayam). -ks. 1 hijau. 2 muda, hijau. 3 yang belum  berpengalaman. g. light a) lampu hijau. b) izin, permisi. g. pepper cabe(hijau)."
+greenback,kb. uang kertas.
+greenery,kb. (j. -ries) tumbuh-tumbuhan hijau.
+greenhorn,"kb. orang yang belum berpengalaman, orang yang masih hijau."
+greenhouse,kb. rumah/ruang kaca.
+greenroom,kb. kamar tempat seniman-seniman beristirahat.
+greenwich,kb. G. time waktu Greenwich.
+greet,kkt. menyambut (the guests). -greeting kb. 1 sambutan.  warm g. sambutan yang hangat. 2 salam. to send greetings  to berkirim salam kepada g. card kartu ucapan selamat.
+gregarious,"ks. 1 seorang yang suka berteman, yang suka sekali berkumpul-kumpul. 2 yang suka hidup berkelompok (of cattle, sheep)."
+grenade,kb. granat.
+grew,lih  GROW.
+grey,#NAME?
+greyhound,kb. sejenis anjing yang tinggi dan langsing (biasanya dipakai untuk pacuan).
+grid,"kb. 1 kisi tempat pemanggangan (ikan, daging). 2 jaringan (listrik, gas dsb)."
+griddle,kb. wajan ceper.
+griddlecake,kb. kue dadar.
+gridiron,"kb. 1 alat masak berupa kisi, alat pemanggang. 2 Sport : lapangan football/hijau."
+grief,"kb. dukacita, kesedihan. to come to g. mendapat kesulitan, gagal, mengalami kegagalan. grief-stricken ks. berdukacita, tertimpa kesedihan."
+grievance,kb. keluhan.
+grieve,"kkt. berdukacita, bersedih hati  (over atas)."
+grievous,ks. yang menyedihkan/memilukan. g. error kesalahan yang menyedihkan.
+grill,"kb. 1 alat pemanggang, tempat pembakar. 2 panggangan. -kkt. 1 memanggang (food). 2 memeriksa terus-menerus, menanyai dengan keras. to g. a suspect menanyai terdakwa dengan keras. grilled steak daging panggang."
+grille,"kb. kisi-kisi, jerejak, terali."
+grillwork,"kb. jerejak besi, terali dari besi, kisi- kisi."
+grim,"ks. 1 suram, seram, cemberut. 2 teguh, kuat. grim-visaged ks. bermuka cemberut."
+grimace,"kb. geringsing (muka). to (make a ) g. meringis, menyeringai."
+grime,"kb. lumur, debu yang melekat, kotoran."
+grimy,ks. sangat kotor.
+grin,"kb. seringai, ringis. -kkt. (grinned) to g. approval tersenyum lebar tanda setuju. -kki. meringis, menyeringai. to g. and bear s.t. sanggup menahan sesuatu tanpa mengeluh."
+grind,"kb. 1 Inf.: pekerjaan yang berat dan membosankan. 2 Inf.: seorang yang tekun dalam belajar. -kkt. (ground). 1 menggerinda. 2 menggertakkan (teeth). 3 menggiling(wheat,grain). 4 mengisar, memutar. 5 mengasah. 6 menggilas-gilaskan. 7 melindas."
+grinder,kb. 1 (alat) penggiling. 2 gerinda.
+grindstone,"kb. batu asahan, gerinda. to keep o's nose to the g. bekerja lama dan berat, bekerja keras dan tekun."
+grip,"kb. 1 pegangan. 2 genggaman, cengkaman. 3 cengkeraman. 4 koper kecil. -kkt. (gripped) 1 memegang erat-erat (an arm, railing, etc). 2 menarik sekali, memikat. 3 menyepit. -kki. pakem. -gripping (of a story, experience). ks. yang sangat menarik perhatian."
+gripe,"kb. keluhan. -kki. Inf.: mengeluh, mengomel. -griping kb. omelan, keluhan, keluh-kesah."
+griper,kb. tukang mengeluh.
+grippe,kb. penyakit inpluensa.
+grisly,ks. yang mengerikan. the g. remains sisa-sisa yang mengerikan.
+grist,kb. biji padi-padian yang hendak atau telah digiling. Everything he says is g. for his opponent's  mill Semua yang dikatakannya menguntungkan bagi pihak lawannya.
+gristle,kb. tulang muda/rawan.
+gristly,ks. liat.
+grit,"kb. 1 pasir atau kerikil yang halus. 2 ketabahan. -grits j. jagung giling kasar, bubur jagung. -kkt. (gritted) menggertakkan (the teeth)."
+gritty,"ks. berpasir, seperti pasir. The spinach tastes  g. Bayam itu rasanya berpasir."
+grizzled,ks. beruban.
+grizzly,ks. g. bear semacam beruang yang sangat besar dan buas.
+groan,"kb. rintihan, erangan, resah. -kki. 1 merintih, mengerang.  2 berkeluh keberatan. -groaning kb. suara mengerang/merintih, erang, rintihan."
+grocer,kb. penjual bahan makanan/ pangan.
+grocery,"kb. (j. -ries) toko penjual bahan makanan, toko pangan. = G. STORE. -groceries j. bahan makanan."
+grogginess,"kb. kepeningan, kepuyengan."
+groggy,"ks. pening, puyeng, terhuyung-huyung. I feel g. Saya merasa puyeng."
+groin,kb. kunci paha.
+groom,"kb. 1 pengantin/mempelai laki-laki. 2 tukang kuda. -kkt. mengurus, merawat (a horse).  He is always well-groomed Dia senantiasa kelihatan rapi sekali.That horse is well-groomed Kuda itu dipelihara baik-baik."
+groomsman,kb. (j. -men). laki-laki pengiring penganten laki-laki.
+groove,"kb. 1  alur, galur, lekuk. the grooves in a dirt  road galur-galur pada jalan tanah.2 lurah. Sl. in the g. berjalan baik. to get out of the g. meninggalkan pekerjaan sehari-hari. -kkt. menggalur, membuat alur. -grooved ks. beralur, berlekuk-lekuk."
+groovy,"ks. Sl. menyenanglkan., manis (potongannya)."
+grope,kkt. 1 meraba-raba. to g. for a hand  meraba-raba mencari tangan.   2 mencari-mencari. to g. for the proper word  mencari-cari kata yang tepat.
+gross,"kb. 12 lusin, gros, 144. -ks. 1 kotor. 2 besar. 3 kasar. 4 bruto. 5 yang menyolok. -kkt. mendapat keuntungan kotor. g. ton =  LONG  TON. -grossly kk. terlalu, nyata sekali."
+grotesque,"ks. fantastis, aneh sekali."
+grotto,"kb. gua, ngalau."
+grouch,"kb. penggerutu, perengut. -kki  menggerutu, mengeluh, merengut."
+grouchy,"ks. bersungut-sungut, yang menggerutu."
+ground,lih   GRIND.
+groundbreaking,kb. pencangkulan pertama. g. -ceremony upacara pencangkulan (tanah) pertama.
+groundless,ks. 1 tanpa dasar. Her fears were g. Ketakutannya tanpa dasar. 2 isapan jempol. That story is g. Cerita itu isapan jempol  belaka.
+groundskeeper,kb. perawat gelanggang olahraga.
+groundwork,kb. dasar. to lay the g. for... meletakkan dasar-dasar untuk..
+group,"kb. 1 kelompok, golongan.  2 grup. -kkt. menggolong-golongkan, membagi-bagi atas kelompok-kelompok. -kkt. berkumpul, mengelompok (around disekeliling, mengelilingi). -grouping kb. pengelompokan, penggrupan."
+grouse,kb. sejenis burung belibis. -kki. mengomel. He's always grousing about s.t. Ia senantiasa mengomel/menggerutu mengenai sesuatu.
+grove,"kb. belukar, hutan kecil. orange g. rumpun tanaman jeruk."
+grovel,"kki. merendahkan diri, menyembah-nyembah. to g. before s.o. menyembah-nyembah kepada seseorang, merendahkan diri dihadapan seseorang."
+grow,"kkt. (grew, grown) 1 menanam (vegetables). 2 memelihara. -kki. 1 tumbuh. 2 bertambah. 3 menjadi. -grown ks. yang sudah dewasa. grown-up kb. orang dewasa. -growing kb. pertumbuhan. ks. semakin meningkat."
+grower,kb. penanam. rice g. penanam padi. That plant  is a rapid g. Tanaman itu tumbuhnya cepat.
+growl,"kb. belasut. to utter a g. at s.o. menggeramkan kepada seseorang. -kki. 1 menggeram. 2 berkata  dengan marah, membelasut. 3 terkelik (of the stomach). His stomach is growling  Perutnya berbunyi."
+grown,lih.  GROW.
+growth,"kb. 1 pertumbuhan. 2 pertumbuhan, perkembangan. 3 kutil."
+grub,"kb. 1 tempayak. 2 Inf,: makanan. -kkt. (grubbed). to g. up mencungkil, membongkar."
+grubby,ks. kotor.
+grudge,kb. dendam. -kkt. iri hati. to g. a friend any profit iri hati akan tiap-tiap keuntungan temannya. -grudgingly kk. dengan enggan/segan.  She g. accepted the invitation Dengan enggan dia menerima undangan itu.
+grueling,ks. sangat meletihkan. g. race perlombaan yang sangat meletihkan.
+gruesome,ks. yang mengerikan. g. sight pemandangan yang mengerikan.
+gruff,"ks. keras, kasar. g. voice suara yang keras/kasar. -gruffly kk. dengan keras. to speak g. bercakap dengan keras pedas."
+grumble,"kb. keluhan, omelan. -kki. menggerutu, mengeluh. to g. about s.t. menggerutu tentang sesuatu. -grumbling kb. pengomelan, pengeluhan. ks. yang menggerutu. in a g. tone of voice dengan suara menggerutu."
+grumbler,"kb. penggerutu, pengeluh."
+grumpy,"ks. galak, marah-marahan."
+grunt,"kb. 1 dengkur (of hogs). 2 bunyi ngorok. -kkt. to g. o's assent  memberikan persetujuan dengan menggerutu. -kki. mendengkur, mengorok."
+gsa,[General Service Administration] Jawatan Pelayanan Umum.
+"gt. br., gt. brit",[Great Britain] Britannia/Inggris Raya.
+guano,kb. pupuk dari tahi burung atau kelelawar.
+guar.,[guaranteed] dijamin.
+guarantee,"kb. jaminan, garansi. -kkt. 1 menjamin. 2 memberi garansi. -guaranteed ks. dijamin, terjamin."
+guarantor,kb. penjamin. to act/stand as g. for his debt bertindak sebagai penjamin utangnya.
+guaranty,kb. (j. -ties) penjaminan.
+guard,"kb. 1 pengawal, penjaga. 2 penjagaan. 3 kunci. -kkt. 1 menjaga. 2 berhati-hati, berjaga-jaga. 3 melindungi. -kki. to g. against berhati-hati terhadap. -guarded ks. berhati-hati. -guardedly kk. dengan berhati-hati."
+guardhouse,"kb. gardu, rumah jaga, rumah monyet."
+guardian,kb. wali. g. angel malaikat pelindung.
+guardianship,kb. perwalian.
+guardrail,kb. pagar.
+guardsman,kb. (j. -men) 1 pengawal. 2 tentara AS.
+guava,"kb. jambu biji/lutuk, biawas."
+gubernatorial,ks. yang berhubungan dengan gubernur. g. contest perebutan kedudukan gubernur.
+guer(r)illa,kb. gerilya. g. fighter gerilyawan. g. warfare perang gerilya. (fem.) gerilyawati.
+guess,"kb. 1 perkiraan, taksiran. 2 terkaan. 3 dugaan. -kkt. menerka. -kki. kira. guessing game tebak-tebakan, teka -teki."
+guesstimate,"kb. Sl.: (angka) kira-kira, angka perkiraan."
+guesswork,"kb. cara kira-kira, terkaan, tebakan. The new machine takes the g. out of the problem Mesin baru itu menghilangkan cara kira-kira dari soal itu."
+guest,kb. tamu. g. list daftar tamu. g. towel handuk tamu. g. room kamar tamu.
+guesthouse,"kb. pasanggrahan,pondok/wisma  tamu."
+guff,"kb. Sl.: bantahan, sangkalan, protes, sanggahan."
+guffaw,kb. tertawa terbahak-bahak.
+guidance,"kb. 1 pimpinan, bimbingan. 2  pedoman, petunjuk. g. counselor penasihat (di S.M.A.). g. system sistim pengendalian."
+guide,"kb. 1 buku pedoman. 2 pandu, pemandu. -kkt. 1 mengemudikan (a car, boat). 2 menuntun. 3 menjadi penunjuk jalan. 4 mempedomani. g. word kata penunjuk. -guided ks. kendali. -guiding  ks. yang menuntun. g. principle asas/prinsip sebagai pedoman/penuntun."
+guidebook,kb. buku pedoman/tuntunan/penuntun.
+guideline,kb. garis pedoman.
+guidepost,kb. tonggak penunjuk jalan.
+guild,kb. serikat sekerja.
+guilder,kb. rupiah (Belanda).
+guile,"kb. akal bulus, tipu muslihat."
+guileless,"ks. tanpa akal bulus, terus-terang."
+guillotine,kb. alat pemenggal kepala. -kkt. menghukum dengan pemenggalan kepala.
+guilt,kb. kesalahan. g. by association kesalahan disebabkan perhubungan.
+guilty,ks. bersalah. to plead g. mengaku bersalah.
+guinea,"kb. guinea. g. fowl ayam mutiara.  g. pig a) marmot. b) orang atau binatang yang dipakai dalam percobaan, orang coba."
+guise,kb. samaran. to come in the g. of a policeman datang menyamar sebagai polisi. under the g. of  dengan berkedok sebagai.
+guitar,kb. gitar. g. player pemain gitar.
+guitarist,"kb. pemain gitar, gitaris."
+gulch,"kb. ngarai yang sempit, jurang yang terjal."
+gulf,kb. 1 teluk. G. of Mexico Teluk Meksiko. G. Stream Arus Teluk. 2 jurang pemisah.
+gull,kb. burung camar (laut).
+gullet,kb. kerongkongan.
+gullible,ks. mudah tertipu.
+gully,kb. (j. -lies) selokan.
+gulp,"kb. teguk. a g. of water seteguk air. -kkt. menelan, meneguk. -kki. He gulped Ia menahan napasnya."
+gum,kb. 1 gusi.  I bit my g. Gusi saya tergigit. 2 permen karet. 3 getah. -kkt. (gummed) Sl.: to g. up the works mengacaukan semuanya.  g. arabic getah arab. g. tree pohon para/getah. gummed label etiket yang ditempelkan.
+gumdrop,kb. gula-gula permen karet.
+gummy,ks. bergetah.
+gumption,"kb. Inf.: enersi, inisiatif."
+gun,"kb. senapan, bedil, meriam. -kkt. (gunned) 1 mempercepat. 2 menambah gas mesin. to g. down 1 memberondong, menembak rubuh. 2 menembak mati. to g. for 1 memburu. 2 mulai berkampanye."
+gunboat,kb. kapal meriam.
+gunfight,kb. tembak-menembak.
+gunfire,kb. tembakan.
+gunk,kb. segala macam sampah/kotoran.
+gunman,kb. (j. -men). 1 perampok bersenjata api. 2 ahli senjata api. 3 jago tembak.
+gunner,"kb. tentara/pelayan meriam, penembak."
+gunnery,kb. keahlian membuat dan memakai meriam. g. officer perwira meriam.
+gunny,kb. g. sack karung goni.
+gunplay,"kb. tembak-menembak, perkelahian senapan."
+gunpoint,kb. ujung laras senapan. at g. dengan todongan pistol.
+gunpowder,kb. serbuk mesiu.
+gunrunner,kb. penyelundup senjata api dan amunisi.
+gunrunning,kb. penyelundupan senjata api dan amunisi.
+gunshot,kb. suara tembakan. g. wounds luka-luka kena tembakan.
+gunshy,ks. takut akan bunyi tembakan.
+gunsight,"kb. pemitar, butir-butir."
+gunsmith,"kb. pandai senjata ringan, tukang senapan."
+gunstock,kb. batang/popor senapan bedil.
+gunwale,"kb. bibir perahu, pinggiran lambung perahu."
+gurgle,"kki. berdeguk, mendeguk. The baby gurgled happily Bayi itu mendeguk dengan gembira."
+gush,"kb. pancaran (of blood, water) -kki. memancar, mencurat, menyembur.  -gushing ks. 1 yang memancar/menyembur. 2 dengan perasaan yang tak terkendalikan."
+gusher,kb. pancuran/semburan minyak.
+gushy,"ks. cengeng, mudah tersinggung perasaannya."
+gust,kb. hembusan yang keras. g. of wind hembusan angin.
+gusto,"kb. nafsu, semangat. to eat with g. makan dengan bernafsu. to do s.t. with g. melakukan sesuatu dengan penuh semangat."
+gusty,ks. berangin ribut.
+gut,"kb. 1 Anat.: 2 tali yang dibuat dari usus binatang.  -guts j. 1 Sl.: Anat.: usus. 2 Sl.: keberanian, ketekunan. -kkt. (gutted) 1 memusnahkan. 2 mengeluarkan isi perut."
+gutsy,"ks. Sl.: berani, gagah."
+guttapercha,kb. getah perca.
+gutter,"kb. 1 got, pancuran atap. 2 selokan.to be raised in  the g.  dibesarkan sebagai anak gelandangan. language of the g. bahasa pasaran."
+guttersnipe,kb. anak jembel.
+guttural,kb. suara tekak/garau.
+guy,"kb. Sl.: orang. good g. orang yang baik. 1 orang yang jahat. 2 Then.: peranan penjahat/bandit. g.-wire tali bubut, bubutan."
+guzzle,kkt. minum dengan rakus.
+gym,Inf.:  =  GYMNASIUM.
+gymnasium,kb. ruang/gedung  olah raga.
+gymnast,"kb. pesenam, ahli senam."
+gymnastics,kb. olahraga senam.
+gynecologist,kb. dokter ahli yang mengobati wanita.
+gynecology,"kb. ilmu bidanan. ilmu penyakit wanita, ginekologi."
+gyp,1 kb. Sl.: tipuan. 2 Sl.: penipu. -kkt. (gypped) Sl.: menipu.
+gypsum,"kb. gips, batu tahu."
+gypsy,kb. (j. -sies) orang jipsi.
+gyrate,kki. berputar.
+gyration,"kb. gerakan berputar, putaran."
+gyrocompass,"kb. kompas giro, pedoman gasing."
+gyroscope,kb. giroskop.
 ,
 ,
 ,
